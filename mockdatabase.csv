@@ -1,501 +1,501 @@
-First Name,Last Name,Branch Served,Willing to meet at home,Age ,Interests ,Zip Code ,Max Relocation Radius 
-James,Butt,Navy ,1,61,"['Dog', 'Drink', 'Write', 'Music']",70116,40
-Josephine,Darakjy,Air Force,0,66,"['Music', 'Sports', 'Write', 'Work', 'Drink']",48116,0
-Art,Venere,Marines,0,58,"['Family', 'Music', 'Write']",8014,120
-Lenna,Paprocki,Army ,0,43,"['Travel', 'Family', 'Coffee', 'Dog', 'Food', 'Sports']",99501,15
-Donette,Foller,Coast Guard,1,90,"['Sports', 'Work', 'Drink', 'Movies', 'Write', 'Travel']",45011,15
-Simona,Morasca,Space Force,1,66,"['Adventure', 'Travel', 'Write', 'Drink', 'Coffee']",44805,15
-Mitsue,Tollner,Navy ,0,89,"['Travel', 'Sports', 'Music']",60632,30
-Leota,Dilliard,Air Force,1,58,"['Movies', 'Travel']",95111,120
-Sage,Wieser,Marines,1,96,"['Music', 'Adventure']",57105,75
-Kris,Marrier,Army ,0,83,"['Food', 'Adventure', 'Travel', 'Family', 'Write', 'Drink']",21224,75
-Minna,Amigon,Coast Guard,1,57,"['Family', 'Music', 'Travel']",19443,135
-Abel,Maclead,Space Force,1,44,"['Work', 'Music', 'Dog', 'Family']",11953,45
-Kiley,Caldarera,Navy ,1,57,"['Family', 'Drink', 'Coffee']",90034,90
-Graciela,Ruta,Air Force,0,90,"['Sports', 'Coffee', 'Work', 'Travel']",44023,45
-Cammy,Albares,Navy ,0,53,"['Drink', 'Movies', 'Music', 'Write', 'Adventure']",78045,120
-Mattie,Poquette,Air Force,0,91,"['Music', 'Work', 'Family', 'Sports', 'Dog']",85013,75
-Meaghan,Garufi,Marines,0,52,"['Coffee', 'Sports', 'Dog', 'Movies', 'Adventure', 'Work', 'Family']",37110,15
-Gladys,Rim,Army ,1,55,"['Food', 'Dog', 'Work']",53207,105
-Yuki,Whobrey,Coast Guard,0,84,"['Sports', 'Drink', 'Coffee', 'Movies', 'Travel']",48180,120
-Fletcher,Flosi,Space Force,0,64,"['Adventure', 'Food', 'Coffee', 'Work', 'Travel']",61109,135
-Bette,Nicka,Navy ,1,90,"['Work', 'Travel', 'Music', 'Coffee', 'Sports', 'Family', 'Food']",19014,90
-Veronika,Inouye,Air Force,0,67,"['Travel', 'Coffee', 'Drink', 'Family', 'Write', 'Dog']",95111,135
-Willard,Kolmetz,Marines,0,48,"['Sports', 'Adventure']",75062,45
-Maryann,Royster,Army ,1,49,"['Dog', 'Write', 'Movies']",12204,150
-Alisha,Slusarski,Coast Guard,0,88,"['Drink', 'Sports', 'Adventure', 'Music', 'Work']",8846,135
-Allene,Iturbide,Space Force,1,72,"['Travel', 'Food']",54481,75
-Chanel,Caudy,Navy ,1,38,"['Drink', 'Dog', 'Travel', 'Coffee', 'Write', 'Sports', 'Adventure']",66218,120
-Ezekiel,Chui,Air Force,0,96,"['Food', 'Movies']",21601,75
-Willow,Kusko,Navy ,1,44,"['Coffee', 'Work']",10011,60
-Bernardo,Figeroa,Air Force,0,47,"['Write', 'Food', 'Music', 'Family', 'Travel', 'Work', 'Dog']",77301,105
-Ammie,Corrio,Marines,1,38,"['Adventure', 'Drink', 'Dog', 'Write', 'Coffee', 'Work', 'Family']",43215,135
-Francine,Vocelka,Army ,0,95,"['Dog', 'Drink', 'Sports']",88011,135
-Ernie,Stenseth,Coast Guard,0,50,"['Write', 'Travel', 'Family']",7660,120
-Albina,Glick,Space Force,1,92,"['Movies', 'Write', 'Music', 'Dog', 'Food', 'Drink']",8812,15
-Alishia,Sergi,Navy ,0,80,"['Movies', 'Family']",10025,30
-Solange,Shinko,Air Force,1,76,"['Adventure', 'Drink', 'Food', 'Music']",70002,135
-Jose,Stockham,Marines,0,80,"['Music', 'Coffee']",10011,90
-Rozella,Ostrosky,Army ,0,79,"['Food', 'Travel', 'Drink', 'Music', 'Family', 'Dog']",93012,105
-Valentine,Gillian,Coast Guard,0,39,"['Family', 'Movies']",78204,75
-Kati,Rulapaugh,Space Force,0,79,"['Music', 'Travel', 'Food']",67410,135
-Youlanda,Schemmer,Navy ,0,83,"['Food', 'Coffee']",97754,60
-Dyan,Oldroyd,Air Force,0,92,"['Movies', 'Drink', 'Family']",66204,30
-Roxane,Campain,Navy ,1,93,"['Music', 'Movies', 'Travel', 'Food', 'Coffee', 'Drink', 'Dog']",99708,60
-Lavera,Perin,Air Force,0,89,"['Adventure', 'Sports', 'Music', 'Family', 'Drink']",33196,90
-Erick,Ferencz,Marines,0,37,"['Write', 'Coffee', 'Sports', 'Drink']",99712,30
-Fatima,Saylors,Army ,1,38,"['Coffee', 'Movies', 'Dog', 'Work']",55343,45
-Jina,Briddick,Coast Guard,1,52,"['Music', 'Drink']",2128,75
-Kanisha,Waycott,Space Force,0,89,"['Travel', 'Drink', 'Music', 'Family', 'Coffee', 'Sports']",90006,150
-Emerson,Bowley,Navy ,0,63,"['Sports', 'Family']",53711,90
-Blair,Malet,Air Force,0,94,"['Movies', 'Family', 'Adventure', 'Dog', 'Coffee']",19132,30
-Brock,Bolognia,Marines,1,49,"['Work', 'Sports', 'Dog', 'Music', 'Food']",10003,150
-Lorrie,Nestle,Army ,0,88,"['Food', 'Movies', 'Dog', 'Music']",37388,0
-Sabra,Uyetake,Coast Guard,0,85,"['Write', 'Sports', 'Travel', 'Family', 'Movies', 'Music', 'Drink']",29201,90
-Marjory,Mastella,Space Force,0,93,"['Family', 'Sports', 'Dog', 'Adventure', 'Drink', 'Travel']",19087,120
-Karl,Klonowski,Navy ,0,99,"['Music', 'Coffee', 'Write']",8822,150
-Tonette,Wenner,Air Force,1,58,"['Family', 'Coffee', 'Movies', 'Work', 'Sports']",11590,60
-Amber,Monarrez,Navy ,0,82,"['Music', 'Drink', 'Sports', 'Movies', 'Work']",19046,150
-Shenika,Seewald,Air Force,1,89,"['Write', 'Dog', 'Adventure', 'Drink']",91405,150
-Delmy,Ahle,Marines,0,71,"['Family', 'Music', 'Drink', 'Work', 'Coffee']",2909,135
-Deeanna,Juhas,Army ,1,54,"['Drink', 'Sports', 'Movies']",19006,120
-Blondell,Pugh,Coast Guard,0,36,"['Work', 'Movies', 'Dog', 'Adventure', 'Write', 'Food']",2904,105
-Jamal,Vanausdal,Space Force,1,96,"['Family', 'Coffee']",8831,90
-Cecily,Hollack,Navy ,0,68,"['Drink', 'Work', 'Adventure', 'Travel', 'Write', 'Dog', 'Food']",78731,75
-Carmelina,Lindall,Air Force,1,96,"['Sports', 'Write', 'Adventure', 'Drink', 'Dog', 'Family']",80126,105
-Maurine,Yglesias,Marines,0,94,"['Write', 'Family', 'Dog', 'Drink']",53214,135
-Tawna,Buvens,Army ,1,99,"['Music', 'Travel']",10009,75
-Penney,Weight,Coast Guard,0,90,"['Travel', 'Sports', 'Drink', 'Dog', 'Movies']",99515,30
-Elly,Morocco,Space Force,0,79,"['Sports', 'Work', 'Coffee', 'Travel']",16502,60
-Ilene,Eroman,Navy ,1,43,"['Family', 'Drink', 'Music', 'Food', 'Write']",21061,60
-Vallie,Mondella,Air Force,0,87,"['Dog', 'Write', 'Work']",83707,75
-Kallie,Blackwood,Navy ,0,53,"['Write', 'Drink', 'Work', 'Family', 'Sports']",94104,0
-Johnetta,Abdallah,Air Force,1,67,"['Adventure', 'Work', 'Movies', 'Dog']",27514,45
-Bobbye,Rhym,Marines,0,63,"['Travel', 'Adventure', 'Sports', 'Coffee', 'Drink', 'Work']",94070,120
-Micaela,Rhymes,Army ,0,84,"['Family', 'Food']",94520,90
-Tamar,Hoogland,Coast Guard,0,57,"['Food', 'Coffee', 'Music', 'Movies', 'Write', 'Travel']",43140,75
-Moon,Parlato,Space Force,0,83,"['Write', 'Family', 'Work', 'Coffee', 'Drink']",14895,60
-Laurel,Reitler,Navy ,0,54,"['Coffee', 'Write', 'Sports', 'Work', 'Food']",21215,15
-Delisa,Crupi,Air Force,1,55,"['Food', 'Sports', 'Dog']",7105,150
-Viva,Toelkes,Marines,1,57,"['Music', 'Travel', 'Write', 'Adventure', 'Drink', 'Family']",60647,30
-Elza,Lipke,Army ,0,82,"['Food', 'Sports']",7104,120
-Devorah,Chickering,Coast Guard,0,88,"['Music', 'Family', 'Dog', 'Adventure', 'Travel', 'Food']",88101,135
-Timothy,Mulqueen,Space Force,0,51,"['Music', 'Write', 'Dog', 'Sports']",10309,0
-Arlette,Honeywell,Navy ,0,53,"['Travel', 'Work', 'Music', 'Coffee']",32254,60
-Dominque,Dickerson,Air Force,1,41,"['Movies', 'Adventure', 'Travel', 'Write']",94545,75
-Lettie,Isenhower,Navy ,0,54,"['Drink', 'Music', 'Movies', 'Work', 'Family', 'Adventure']",44122,30
-Myra,Munns,Air Force,1,74,"['Family', 'Adventure', 'Work']",76040,0
-Stephaine,Barfield,Marines,0,100,"['Sports', 'Work', 'Food', 'Movies', 'Write', 'Family', 'Dog']",90247,90
-Lai,Gato,Army ,1,55,"['Drink', 'Movies', 'Travel', 'Sports', 'Food', 'Adventure', 'Family']",60201,0
-Stephen,Emigh,Coast Guard,0,89,"['Coffee', 'Family', 'Music', 'Sports', 'Food']",44302,90
-Tyra,Shields,Space Force,0,58,"['Movies', 'Adventure', 'Family', 'Sports', 'Write', 'Food']",19106,75
-Tammara,Wardrip,Navy ,0,50,"['Drink', 'Music', 'Sports', 'Dog']",94010,45
-Cory,Gibes,Air Force,1,60,"['Food', 'Drink', 'Travel', 'Work', 'Coffee', 'Music']",91776,135
-Danica,Bruschke,Marines,0,84,"['Family', 'Work', 'Travel', 'Adventure', 'Music']",76708,45
-Wilda,Giguere,Army ,1,39,"['Music', 'Family', 'Coffee', 'Adventure', 'Food', 'Write']",99501,30
-Elvera,Benimadho,Coast Guard,0,78,"['Dog', 'Write']",95110,15
-Carma,Vanheusen,Space Force,0,64,"['Adventure', 'Drink', 'Write', 'Work']",94577,15
-Malinda,Hochard,Navy ,0,44,"['Sports', 'Write', 'Work', 'Food']",46202,90
-Natalie,Fern,Air Force,0,59,"['Drink', 'Travel', 'Write', 'Food', 'Sports', 'Family', 'Music']",82901,135
-Lisha,Centini,Navy ,0,94,"['Music', 'Write', 'Food', 'Family', 'Sports', 'Work']",22102,105
-Arlene,Klusman,Air Force,1,70,"['Dog', 'Coffee', 'Food', 'Adventure', 'Write']",70112,30
-Alease,Buemi,Marines,1,44,"['Travel', 'Work', 'Sports']",80303,30
-Louisa,Cronauer,Army ,1,40,"['Movies', 'Coffee']",94577,60
-Angella,Cetta,Coast Guard,1,60,"['Adventure', 'Dog', 'Family']",96817,90
-Cyndy,Goldammer,Space Force,0,40,"['Music', 'Sports', 'Family', 'Drink', 'Dog']",55337,75
-Rosio,Cork,Navy ,0,49,"['Adventure', 'Dog', 'Travel', 'Family']",27263,75
-Celeste,Korando,Air Force,1,87,"['Write', 'Dog', 'Travel', 'Music', 'Drink', 'Work']",11563,45
-Twana,Felger,Marines,0,64,"['Coffee', 'Drink', 'Write']",97224,30
-Estrella,Samu,Army ,1,75,"['Drink', 'Family', 'Coffee']",53511,105
-Donte,Kines,Coast Guard,1,53,"['Write', 'Adventure', 'Dog', 'Travel', 'Family', 'Music']",1602,90
-Tiffiny,Steffensmeier,Space Force,1,79,"['Sports', 'Music', 'Drink', 'Family']",33133,15
-Edna,Miceli,Navy ,0,48,"['Dog', 'Coffee']",16502,75
-Sue,Kownacki,Air Force,1,96,"['Sports', 'Family', 'Music', 'Movies', 'Write']",75149,15
-Jesusa,Shin,Navy ,0,48,"['Dog', 'Music', 'Drink', 'Food']",37388,45
-Rolland,Francescon,Air Force,0,43,"['Movies', 'Drink', 'Adventure', 'Travel', 'Music', 'Coffee']",7501,15
-Pamella,Schmierer,Marines,0,86,"['Food', 'Write', 'Coffee', 'Family', 'Music', 'Drink', 'Movies']",33030,60
-Glory,Kulzer,Army ,1,59,"['Travel', 'Dog', 'Work', 'Family']",21117,75
-Shawna,Palaspas,Coast Guard,1,77,"['Food', 'Coffee', 'Adventure', 'Drink']",91362,105
-Brandon,Callaro,Space Force,1,81,"['Adventure', 'Food', 'Sports']",96819,75
-Scarlet,Cartan,Navy ,0,63,"['Coffee', 'Travel', 'Adventure', 'Sports', 'Dog', 'Movies']",31701,15
-Oretha,Menter,Air Force,1,92,"['Adventure', 'Family', 'Dog', 'Music']",2210,135
-Ty,Smith,Marines,1,43,"['Music', 'Write', 'Adventure', 'Drink']",7601,105
-Xuan,Rochin,Army ,1,87,"['Work', 'Coffee', 'Travel', 'Sports']",94403,30
-Lindsey,Dilello,Coast Guard,1,58,"['Sports', 'Dog', 'Travel', 'Drink']",91761,75
-Devora,Perez,Space Force,0,94,"['Music', 'Dog', 'Adventure']",94606,45
-Herman,Demesa,Navy ,0,76,"['Work', 'Drink']",12180,15
-Rory,Papasergi,Air Force,1,63,"['Music', 'Family']",18411,135
-Talia,Riopelle,Navy ,1,63,"['Dog', 'Family', 'Music']",7050,105
-Van,Shire,Air Force,1,90,"['Movies', 'Family', 'Adventure', 'Dog', 'Sports']",8867,105
-Lucina,Lary,Marines,1,46,"['Dog', 'Travel', 'Family', 'Drink']",32922,0
-Bok,Isaacs,Army ,0,94,"['Coffee', 'Write', 'Work']",10468,90
-Rolande,Spickerman,Coast Guard,0,52,"['Coffee', 'Write', 'Food']",96782,15
-Howard,Paulas,Space Force,0,70,"['Sports', 'Adventure', 'Dog']",80231,15
-Kimbery,Madarang,Navy ,0,87,"['Music', 'Food', 'Write', 'Coffee']",7866,75
-Thurman,Manno,Air Force,0,69,"['Sports', 'Music']",8201,135
-Becky,Mirafuentes,Marines,1,96,"['Adventure', 'Food']",7062,120
-Beatriz,Corrington,Army ,0,71,"['Family', 'Drink', 'Travel', 'Food']",2346,15
-Marti,Maybury,Coast Guard,0,51,"['Dog', 'Drink', 'Adventure', 'Coffee', 'Travel', 'Write']",60638,60
-Nieves,Gotter,Space Force,0,78,"['Drink', 'Adventure', 'Work', 'Dog', 'Sports', 'Coffee', 'Music']",97202,30
-Leatha,Hagele,Navy ,1,70,"['Movies', 'Family', 'Drink', 'Dog']",75227,45
-Valentin,Klimek,Air Force,1,66,"['Drink', 'Food', 'Travel']",60604,15
-Melissa,Wiklund,Navy ,1,55,['Movies'],45840,90
-Sheridan,Zane,Air Force,1,86,"['Drink', 'Coffee', 'Movies', 'Travel', 'Music', 'Family', 'Food']",92501,150
-Bulah,Padilla,Marines,0,65,"['Write', 'Travel', 'Sports', 'Music', 'Coffee', 'Drink', 'Work']",76707,15
-Audra,Kohnert,Army ,1,78,"['Coffee', 'Write', 'Drink', 'Music', 'Family']",37211,30
-Daren,Weirather,Coast Guard,1,80,"['Food', 'Coffee', 'Adventure', 'Music']",53216,105
-Fernanda,Jillson,Space Force,0,73,"['Dog', 'Adventure', 'Family']",21655,135
-Gearldine,Gellinger,Navy ,0,75,"['Travel', 'Dog']",75061,90
-Chau,Kitzman,Air Force,1,97,"['Food', 'Adventure', 'Work', 'Movies', 'Drink']",90212,90
-Theola,Frey,Marines,0,82,"['Drink', 'Music', 'Food']",11758,105
-Cheryl,Haroldson,Army ,0,44,"['Coffee', 'Movies']",8401,120
-Laticia,Merced,Coast Guard,0,62,"['Movies', 'Coffee', 'Family', 'Food', 'Sports', 'Work']",45203,45
-Carissa,Batman,Space Force,1,58,"['Music', 'Work', 'Adventure']",97401,60
-Lezlie,Craghead,Navy ,1,67,"['Family', 'Drink', 'Coffee', 'Food', 'Music', 'Write']",27577,135
-Ozell,Shealy,Air Force,1,90,"['Write', 'Sports', 'Work', 'Music']",10002,90
-Arminda,Parvis,Navy ,1,92,"['Family', 'Sports', 'Write', 'Drink', 'Dog']",85017,135
-Reita,Leto,Air Force,0,38,"['Work', 'Movies']",46240,150
-Yolando,Luczki,Marines,1,89,"['Adventure', 'Movies', 'Food', 'Sports', 'Music', 'Travel', 'Family']",13214,120
-Lizette,Stem,Army ,0,36,"['Dog', 'Work', 'Food', 'Music', 'Drink', 'Write', 'Coffee']",8002,135
-Gregoria,Pawlowicz,Coast Guard,1,74,"['Work', 'Travel', 'Sports']",11530,30
-Carin,Deleo,Space Force,1,60,"['Dog', 'Family', 'Sports', 'Movies']",72202,120
-Chantell,Maynerich,Navy ,1,36,"['Dog', 'Music', 'Sports', 'Coffee', 'Food']",55101,15
-Dierdre,Yum,Air Force,1,53,"['Food', 'Work']",19134,15
-Larae,Gudroe,Marines,1,37,"['Music', 'Movies']",70360,90
-Latrice,Tolfree,Army ,1,61,"['Write', 'Adventure', 'Coffee', 'Travel']",11779,15
-Kerry,Theodorov,Coast Guard,1,88,"['Food', 'Family', 'Work', 'Music', 'Coffee', 'Adventure', 'Sports', 'Dog']",95827,60
-Dorthy,Hidvegi,Space Force,0,63,"['Adventure', 'Coffee', 'Music', 'Sports']",83704,135
-Fannie,Lungren,Navy ,0,37,"['Movies', 'Coffee', 'Dog', 'Write', 'Sports']",78664,30
-Evangelina,Radde,Air Force,1,98,"['Music', 'Write']",19123,30
-Novella,Degroot,Navy ,1,52,"['Movies', 'Sports', 'Adventure', 'Coffee', 'Family', 'Music']",96720,120
-Clay,Hoa,Air Force,1,38,"['Coffee', 'Write', 'Movies', 'Work']",89502,45
-Jennifer,Fallick,Marines,0,52,"['Write', 'Food', 'Movies']",60090,45
-Irma,Wolfgramm,Army ,0,69,"['Sports', 'Travel']",7869,90
-Eun,Coody,Coast Guard,1,51,"['Adventure', 'Music', 'Sports', 'Movies']",29301,150
-Sylvia,Cousey,Space Force,0,54,"['Travel', 'Family', 'Food', 'Work']",21074,15
-Nana,Wrinkles,Navy ,1,39,"['Family', 'Coffee']",10553,150
-Layla,Springe,Air Force,0,60,"['Coffee', 'Sports']",10011,135
-Joesph,Degonia,Marines,1,46,"['Sports', 'Work', 'Travel', 'Family']",94710,45
-Annabelle,Boord,Army ,1,86,"['Sports', 'Food']",1742,105
-Stephaine,Vinning,Coast Guard,0,63,"['Movies', 'Dog', 'Music', 'Food', 'Write']",94104,120
-Nelida,Sawchuk,Space Force,0,65,"['Movies', 'Coffee', 'Adventure']",7652,75
-Marguerita,Hiatt,Navy ,0,91,"['Sports', 'Drink', 'Work', 'Dog', 'Movies']",94561,15
-Carmela,Cookey,Air Force,1,69,"['Adventure', 'Write', 'Food']",60623,135
-Junita,Brideau,Navy ,0,40,"['Adventure', 'Food', 'Sports', 'Work', 'Movies', 'Music']",7009,0
-Claribel,Varriano,Air Force,1,75,"['Family', 'Write', 'Music', 'Dog', 'Adventure', 'Travel']",43551,15
-Benton,Skursky,Marines,1,86,"['Drink', 'Movies', 'Adventure']",90248,30
-Hillary,Skulski,Army ,0,78,"['Drink', 'Music', 'Write', 'Movies', 'Travel', 'Family', 'Dog']",34448,15
-Merilyn,Bayless,Coast Guard,0,99,"['Sports', 'Write', 'Drink', 'Coffee']",95054,135
-Teri,Ennaco,Space Force,1,85,"['Adventure', 'Coffee', 'Work', 'Food', 'Sports']",18201,105
-Merlyn,Lawler,Navy ,1,71,"['Travel', 'Adventure', 'Coffee', 'Dog']",7304,15
-Georgene,Montezuma,Air Force,1,46,"['Family', 'Adventure', 'Sports']",94583,60
-Jettie,Mconnell,Marines,1,46,"['Sports', 'Food', 'Work', 'Movies']",8807,60
-Lemuel,Latzke,Army ,0,79,"['Movies', 'Family']",11716,75
-Melodie,Knipp,Coast Guard,1,49,"['Travel', 'Family', 'Dog']",91362,30
-Candida,Corbley,Space Force,0,78,"['Music', 'Movies', 'Food', 'Write']",8876,15
-Karan,Karpin,Navy ,1,71,"['Coffee', 'Movies', 'Sports']",97005,45
-Andra,Scheyer,Air Force,1,71,"['Music', 'Sports', 'Drink', 'Movies', 'Food']",97302,75
-Felicidad,Poullion,Navy ,1,46,"['Coffee', 'Music', 'Adventure', 'Drink', 'Family', 'Dog']",8077,30
-Belen,Strassner,Air Force,1,98,"['Travel', 'Movies']",30135,120
-Gracia,Melnyk,Marines,1,85,['Music'],32216,30
-Jolanda,Hanafan,Army ,1,59,"['Adventure', 'Music', 'Movies', 'Write']",4401,15
-Barrett,Toyama,Coast Guard,0,84,"['Drink', 'Work', 'Food', 'Dog', 'Family']",76060,75
-Helga,Fredicks,Space Force,0,83,"['Dog', 'Music', 'Family', 'Food']",14228,135
-Ashlyn,Pinilla,Navy ,0,50,"['Family', 'Dog', 'Music', 'Movies', 'Write', 'Coffee', 'Adventure']",33054,135
-Fausto,Agramonte,Air Force,1,64,"['Drink', 'Sports', 'Movies']",10038,0
-Ronny,Caiafa,Marines,0,76,"['Adventure', 'Movies']",19103,90
-Marge,Limmel,Army ,1,95,"['Sports', 'Adventure']",32536,90
-Norah,Waymire,Coast Guard,0,90,"['Movies', 'Coffee', 'Food', 'Drink']",94107,135
-Aliza,Baltimore,Space Force,0,58,"['Family', 'Work', 'Coffee', 'Movies', 'Sports', 'Travel', 'Dog']",95132,120
-Mozell,Pelkowski,Navy ,1,99,"['Family', 'Food']",94080,15
-Viola,Bitsuie,Air Force,1,52,"['Adventure', 'Food', 'Work', 'Sports']",91325,15
-Franklyn,Emard,Navy ,0,88,"['Sports', 'Work', 'Dog', 'Food', 'Write', 'Movies', 'Adventure']",19103,135
-Willodean,Konopacki,Air Force,0,63,"['Adventure', 'Movies']",70506,45
-Beckie,Silvestrini,Marines,0,46,"['Drink', 'Family', 'Music', 'Adventure', 'Coffee']",48126,90
-Rebecka,Gesick,Army ,1,98,"['Coffee', 'Write', 'Travel', 'Drink', 'Food']",78754,15
-Frederica,Blunk,Coast Guard,0,44,"['Drink', 'Dog', 'Write', 'Work', 'Family']",75207,15
-Glen,Bartolet,Space Force,0,39,"['Music', 'Travel', 'Adventure', 'Write', 'Coffee']",98070,135
-Freeman,Gochal,Navy ,0,65,"['Music', 'Coffee', 'Travel', 'Dog', 'Drink', 'Write']",19320,45
-Vincent,Meinerding,Air Force,0,95,"['Adventure', 'Write', 'Coffee', 'Food', 'Music']",19143,75
-Rima,Bevelacqua,Marines,1,88,"['Food', 'Movies', 'Music', 'Dog', 'Adventure', 'Travel', 'Write']",90248,75
-Glendora,Sarbacher,Army ,0,64,"['Coffee', 'Sports', 'Music', 'Dog', 'Adventure', 'Food']",94928,135
-Avery,Steier,Coast Guard,1,63,"['Dog', 'Travel', 'Family', 'Coffee', 'Sports', 'Work', 'Food']",32803,105
-Cristy,Lother,Space Force,0,97,"['Work', 'Dog', 'Travel', 'Music', 'Sports']",92025,135
-Nicolette,Brossart,Navy ,0,39,"['Write', 'Adventure', 'Travel']",1581,45
-Tracey,Modzelewski,Air Force,1,55,"['Work', 'Adventure', 'Movies', 'Food', 'Family']",77301,90
-Virgina,Tegarden,Navy ,0,59,"['Food', 'Coffee', 'Movies']",53226,90
-Tiera,Frankel,Air Force,1,74,"['Family', 'Sports']",91731,135
-Alaine,Bergesen,Marines,0,64,"['Drink', 'Adventure', 'Family', 'Coffee', 'Music', 'Sports']",10701,60
-Earleen,Mai,Army ,1,76,"['Drink', 'Sports', 'Food', 'Coffee', 'Family', 'Travel']",75227,60
-Leonida,Gobern,Coast Guard,0,86,"['Coffee', 'Music', 'Dog', 'Work', 'Sports', 'Write']",39530,75
-Ressie,Auffrey,Space Force,1,67,"['Family', 'Music', 'Adventure', 'Drink', 'Coffee']",33134,90
-Justine,Mugnolo,Navy ,1,45,"['Movies', 'Adventure', 'Dog']",10048,0
-Eladia,Saulter,Air Force,1,70,"['Adventure', 'Family', 'Movies', 'Work', 'Food']",7446,75
-Chaya,Malvin,Marines,1,82,"['Dog', 'Sports', 'Travel', 'Movies']",48103,45
-Gwenn,Suffield,Army ,1,76,"['Sports', 'Movies']",11729,90
-Salena,Karpel,Coast Guard,1,50,"['Coffee', 'Movies', 'Food', 'Drink', 'Adventure', 'Sports']",44707,120
-Yoko,Fishburne,Space Force,0,51,"['Coffee', 'Sports', 'Dog', 'Travel']",6511,75
-Taryn,Moyd,Navy ,1,47,['Movies'],22030,60
-Katina,Polidori,Air Force,1,71,"['Food', 'Travel', 'Music', 'Sports']",1887,150
-Rickie,Plumer,Navy ,1,94,"['Music', 'Family', 'Work']",43613,30
-Alex,Loader,Air Force,1,54,"['Sports', 'Write', 'Travel']",98409,105
-Lashon,Vizarro,Marines,1,44,"['Family', 'Write']",95661,60
-Lauran,Burnard,Army ,1,96,"['Drink', 'Music', 'Travel', 'Food', 'Work', 'Family']",82501,15
-Ceola,Setter,Coast Guard,0,66,"['Travel', 'Food']",4864,15
-My,Rantanen,Space Force,1,79,"['Drink', 'Family', 'Music']",18954,60
-Lorrine,Worlds,Navy ,1,37,"['Travel', 'Sports', 'Music', 'Work']",33614,105
-Peggie,Sturiale,Air Force,0,56,"['Work', 'Food', 'Dog', 'Coffee', 'Movies']",92020,75
-Marvel,Raymo,Marines,0,67,"['Work', 'Family']",77840,45
-Daron,Dinos,Army ,1,82,"['Work', 'Drink', 'Music', 'Dog', 'Sports', 'Adventure']",60035,30
-An,Fritz,Coast Guard,0,60,"['Family', 'Coffee', 'Drink', 'Adventure']",8401,90
-Portia,Stimmel,Space Force,1,96,"['Work', 'Sports', 'Food', 'Dog']",8807,150
-Rhea,Aredondo,Navy ,0,83,"['Food', 'Coffee', 'Sports', 'Movies', 'Dog', 'Work', 'Drink', 'Write', 'Family']",11226,45
-Benedict,Sama,Air Force,1,63,"['Coffee', 'Sports', 'Dog', 'Work', 'Movies', 'Drink', 'Family']",63104,0
-Alyce,Arias,Navy ,0,87,"['Music', 'Write', 'Travel', 'Movies']",95207,120
-Heike,Berganza,Air Force,0,55,"['Work', 'Dog', 'Coffee', 'Write', 'Travel']",7424,30
-Carey,Dopico,Marines,0,37,"['Music', 'Movies', 'Drink', 'Travel', 'Family', 'Food']",46220,15
-Dottie,Hellickson,Army ,1,39,"['Movies', 'Adventure', 'Work', 'Family', 'Write', 'Sports', 'Food']",98133,105
-Deandrea,Hughey,Coast Guard,0,97,"['Food', 'Coffee', 'Work', 'Travel', 'Sports']",27215,0
-Kimberlie,Duenas,Space Force,0,50,"['Food', 'Write', 'Music', 'Sports']",67601,90
-Martina,Staback,Navy ,1,64,"['Food', 'Travel']",32822,30
-Skye,Fillingim,Air Force,1,88,"['Family', 'Dog', 'Sports', 'Music', 'Adventure']",55401,135
-Jade,Farrar,Marines,1,90,"['Write', 'Movies', 'Music']",29201,75
-Charlene,Hamilton,Army ,0,74,['Drink'],95407,135
-Geoffrey,Acey,Coast Guard,0,78,"['Sports', 'Work', 'Drink', 'Write']",60067,120
-Stevie,Westerbeck,Space Force,0,58,"['Food', 'Travel', 'Music', 'Drink']",92626,15
-Pamella,Fortino,Navy ,1,68,"['Movies', 'Adventure', 'Music', 'Write', 'Family', 'Sports', 'Food']",80212,60
-Harrison,Haufler,Air Force,0,96,"['Food', 'Write', 'Adventure', 'Movies']",6515,45
-Johnna,Engelberg,Navy ,1,43,"['Sports', 'Dog', 'Write', 'Travel', 'Work']",98021,75
-Buddy,Cloney,Air Force,0,74,"['Travel', 'Music', 'Adventure']",44136,150
-Dalene,Riden,Marines,1,63,"['Travel', 'Write']",3865,135
-Jerry,Zurcher,Army ,0,64,"['Travel', 'Food', 'Write', 'Sports', 'Coffee', 'Drink', 'Work']",32937,30
-Haydee,Denooyer,Coast Guard,1,41,"['Movies', 'Write', 'Sports', 'Dog', 'Coffee', 'Travel']",10016,105
-Joseph,Cryer,Space Force,0,77,"['Food', 'Movies', 'Dog', 'Work', 'Sports', 'Adventure']",92647,30
-Deonna,Kippley,Navy ,0,52,"['Music', 'Drink', 'Dog', 'Travel', 'Food']",48075,105
-Raymon,Calvaresi,Air Force,1,41,"['Write', 'Dog', 'Travel', 'Work', 'Family', 'Sports', 'Food']",46222,135
-Alecia,Bubash,Marines,1,93,"['Family', 'Adventure', 'Dog', 'Drink', 'Movies', 'Work']",76301,0
-Ma,Layous,Army ,1,91,"['Drink', 'Dog', 'Work', 'Food', 'Movies', 'Adventure']",6473,135
-Detra,Coyier,Coast Guard,0,88,"['Movies', 'Dog', 'Travel', 'Food', 'Drink', 'Write', 'Work']",21001,30
-Terrilyn,Rodeigues,Space Force,0,49,"['Work', 'Dog', 'Family', 'Drink', 'Adventure', 'Coffee']",70130,90
-Salome,Lacovara,Navy ,0,62,"['Write', 'Dog']",23219,120
-Garry,Keetch,Air Force,0,52,"['Sports', 'Dog']",18966,105
-Matthew,Neither,Navy ,1,83,"['Work', 'Adventure', 'Drink']",55379,135
-Theodora,Restrepo,Air Force,0,97,"['Dog', 'Drink', 'Family', 'Sports']",33136,150
-Noah,Kalafatis,Marines,1,42,"['Dog', 'Music', 'Movies', 'Food', 'Write', 'Family']",53209,75
-Carmen,Sweigard,Army ,1,61,"['Travel', 'Family', 'Adventure', 'Sports', 'Dog']",8873,120
-Lavonda,Hengel,Coast Guard,0,54,"['Sports', 'Family', 'Movies', 'Drink', 'Adventure', 'Dog']",58102,15
-Junita,Stoltzman,Space Force,1,97,"['Family', 'Movies']",89701,120
-Herminia,Nicolozakes,Navy ,0,58,"['Adventure', 'Sports']",85254,30
-Casie,Good,Air Force,0,62,"['Sports', 'Family', 'Adventure', 'Work', 'Music', 'Dog']",37211,75
-Reena,Maisto,Marines,1,50,"['Write', 'Drink', 'Travel']",21801,45
-Mirta,Mallett,Army ,1,63,"['Movies', 'Write', 'Adventure', 'Dog', 'Family', 'Travel', 'Work']",10004,30
-Cathrine,Pontoriero,Coast Guard,1,44,"['Family', 'Adventure']",79109,120
-Filiberto,Tawil,Space Force,1,54,"['Write', 'Movies', 'Food', 'Travel']",90016,60
-Raul,Upthegrove,Navy ,0,89,"['Family', 'Dog']",91942,120
-Sarah,Candlish,Air Force,1,77,"['Sports', 'Drink']",30328,15
-Lucy,Treston,Navy ,0,92,['Music'],1602,105
-Judy,Aquas,Air Force,0,55,"['Travel', 'Family']",49120,15
-Yvonne,Tjepkema,Marines,1,55,"['Food', 'Travel', 'Movies', 'Family']",7004,105
-Kayleigh,Lace,Army ,0,97,"['Write', 'Food', 'Sports', 'Movies', 'Family']",70508,120
-Felix,Hirpara,Coast Guard,1,62,"['Adventure', 'Sports', 'Write', 'Coffee', 'Dog']",17517,120
-Tresa,Sweely,Space Force,0,50,"['Adventure', 'Coffee', 'Movies', 'Music', 'Food']",63088,15
-Kristeen,Turinetti,Navy ,0,73,"['Family', 'Coffee', 'Sports', 'Adventure', 'Drink', 'Food', 'Dog']",76013,75
-Jenelle,Regusters,Air Force,0,36,"['Food', 'Family', 'Adventure']",33619,75
-Renea,Monterrubio,Marines,0,40,"['Food', 'Music', 'Drink']",30328,90
-Olive,Matuszak,Army ,1,86,"['Family', 'Travel', 'Movies']",92234,105
-Ligia,Reiber,Coast Guard,0,80,"['Travel', 'Family', 'Music', 'Sports']",48933,75
-Christiane,Eschberger,Space Force,0,49,"['Drink', 'Travel', 'Adventure', 'Work', 'Music', 'Dog']",85034,30
-Goldie,Schirpke,Navy ,0,68,"['Family', 'Music', 'Adventure', 'Write', 'Food', 'Work']",4401,30
-Loreta,Timenez,Air Force,1,84,"['Drink', 'Coffee', 'Adventure']",20735,90
-Fabiola,Hauenstein,Navy ,0,77,"['Drink', 'Sports']",17404,75
-Amie,Perigo,Air Force,0,58,"['Family', 'Food', 'Sports', 'Write']",75150,0
-Raina,Brachle,Marines,1,92,"['Drink', 'Dog']",59701,30
-Erinn,Canlas,Army ,0,52,"['Work', 'Food', 'Travel', 'Adventure']",7039,15
-Cherry,Lietz,Coast Guard,0,73,"['Music', 'Coffee', 'Adventure']",48329,75
-Kattie,Vonasek,Space Force,0,91,"['Coffee', 'Sports', 'Drink']",44103,135
-Lilli,Scriven,Navy ,0,94,['Family'],79601,135
-Whitley,Tomasulo,Air Force,1,97,"['Drink', 'Work', 'Movies', 'Dog', 'Family', 'Coffee']",76107,60
-Barbra,Adkin,Marines,0,95,"['Food', 'Adventure', 'Travel', 'Work', 'Coffee', 'Family']",11230,45
-Hermila,Thyberg,Army ,1,60,"['Coffee', 'Family', 'Movies', 'Sports', 'Travel']",2903,105
-Jesusita,Flister,Coast Guard,0,94,"['Travel', 'Family', 'Drink', 'Food', 'Coffee', 'Write', 'Movies']",17601,15
-Caitlin,Julia,Space Force,0,91,"['Adventure', 'Drink', 'Coffee', 'Food']",2919,45
-Roosevelt,Hoffis,Navy ,0,86,"['Food', 'Movies', 'Write']",33014,15
-Helaine,Halter,Air Force,0,86,"['Write', 'Travel', 'Movies', 'Family', 'Sports', 'Music', 'Drink']",7304,90
-Lorean,Martabano,Navy ,0,99,"['Write', 'Work', 'Dog', 'Movies', 'Drink']",78204,60
-France,Buzick,Air Force,0,77,"['Movies', 'Food', 'Write', 'Sports', 'Drink']",11219,105
-Justine,Ferrario,Marines,0,67,"['Sports', 'Food', 'Movies', 'Family', 'Travel']",91768,60
-Adelina,Nabours,Army ,0,38,"['Dog', 'Family', 'Music', 'Travel', 'Sports']",44103,45
-Derick,Dhamer,Coast Guard,0,39,"['Music', 'Movies', 'Family', 'Sports']",10013,30
-Jerry,Dallen,Space Force,1,88,"['Music', 'Family', 'Write', 'Coffee', 'Sports']",23219,90
-Leota,Ragel,Navy ,1,91,"['Dog', 'Music', 'Work', 'Movies', 'Food']",30753,105
-Jutta,Amyot,Air Force,1,68,"['Work', 'Food', 'Dog', 'Drink', 'Travel']",70518,105
-Aja,Gehrett,Marines,0,52,"['Sports', 'Family', 'Music', 'Write', 'Food', 'Adventure']",7110,120
-Kirk,Herritt,Army ,1,79,"['Drink', 'Travel', 'Write', 'Adventure']",13850,150
-Leonora,Mauson,Coast Guard,1,49,"['Music', 'Work', 'Dog', 'Adventure', 'Travel', 'Sports']",7055,90
-Winfred,Brucato,Space Force,1,60,"['Food', 'Drink', 'Coffee', 'Sports', 'Music', 'Travel', 'Adventure']",83843,120
-Tarra,Nachor,Navy ,0,80,"['Drink', 'Write', 'Adventure', 'Food', 'Work', 'Family']",94104,15
-Corinne,Loder,Air Force,1,52,"['Work', 'Family', 'Coffee', 'Movies', 'Food', 'Travel', 'Adventure']",2760,150
-Dulce,Labreche,Navy ,0,42,"['Family', 'Dog', 'Movies', 'Work', 'Coffee', 'Write', 'Sports']",48307,15
-Kate,Keneipp,Air Force,0,95,"['Travel', 'Drink', 'Movies', 'Write']",54301,120
-Kaitlyn,Ogg,Marines,0,93,"['Dog', 'Work']",21230,75
-Sherita,Saras,Army ,1,66,"['Travel', 'Sports', 'Family']",80937,15
-Lashawnda,Stuer,Coast Guard,1,64,"['Drink', 'Family', 'Adventure', 'Sports', 'Food', 'Movies']",43607,30
-Ernest,Syrop,Space Force,1,40,"['Adventure', 'Work']",20785,150
-Nobuko,Halsey,Navy ,0,79,"['Food', 'Coffee', 'Music', 'Adventure', 'Work', 'Drink']",2745,30
-Lavonna,Wolny,Air Force,1,68,"['Sports', 'Adventure', 'Dog', 'Movies', 'Family', 'Music']",22102,60
-Lashaunda,Lizama,Marines,0,88,"['Food', 'Drink', 'Adventure', 'Family', 'Travel']",21076,135
-Mariann,Bilden,Army ,0,68,"['Work', 'Music', 'Food', 'Sports', 'Coffee', 'Travel']",78753,135
-Helene,Rodenberger,Coast Guard,0,83,"['Coffee', 'Drink', 'Music']",85381,75
-Roselle,Estell,Space Force,1,46,"['Coffee', 'Dog', 'Travel', 'Food', 'Drink', 'Write']",44820,105
-Samira,Heintzman,Navy ,0,78,"['Sports', 'Adventure', 'Movies', 'Drink', 'Food']",98032,45
-Margart,Meisel,Air Force,0,61,"['Music', 'Adventure', 'Travel', 'Sports']",45251,30
-Kristofer,Bennick,Navy ,1,76,"['Adventure', 'Sports', 'Family', 'Movies']",47404,105
-Weldon,Acuff,Air Force,0,38,"['Movies', 'Work', 'Adventure', 'Write']",60004,0
-Shalon,Shadrick,Marines,1,79,"['Travel', 'Music', 'Dog']",11223,15
-Denise,Patak,Army ,0,86,"['Movies', 'Coffee', 'Drink', 'Write']",32801,45
-Louvenia,Beech,Coast Guard,1,94,"['Coffee', 'Dog']",90210,30
-Audry,Yaw,Space Force,0,68,"['Travel', 'Write', 'Drink', 'Work', 'Adventure']",33511,120
-Kristel,Ehmann,Navy ,1,89,"['Family', 'Sports', 'Coffee', 'Music', 'Write', 'Dog', 'Travel']",79925,90
-Vincenza,Zepp,Air Force,1,42,"['Movies', 'Travel']",92020,120
-Elouise,Gwalthney,Marines,1,97,"['Food', 'Drink']",20710,120
-Venita,Maillard,Army ,1,36,"['Food', 'Travel', 'Movies', 'Adventure']",92801,150
-Kasandra,Semidey,Coast Guard,0,66,"['Sports', 'Adventure', 'Family', 'Food', 'Write']",63102,75
-Xochitl,Discipio,Space Force,0,72,"['Drink', 'Music', 'Movies', 'Family']",78664,120
-Maile,Linahan,Navy ,0,77,"['Travel', 'Music', 'Write', 'Food', 'Coffee', 'Work']",27409,0
-Krissy,Rauser,Air Force,1,42,"['Drink', 'Music', 'Movies', 'Dog']",11727,105
-Pete,Dubaldi,Navy ,0,86,"['Write', 'Family', 'Food', 'Sports', 'Dog']",7071,105
-Linn,Paa,Air Force,0,39,"['Music', 'Work', 'Travel']",38112,45
-Paris,Wide,Marines,0,75,"['Dog', 'Work', 'Write', 'Sports', 'Drink']",30342,150
-Wynell,Dorshorst,Army ,1,41,"['Music', 'Family', 'Write', 'Food', 'Drink']",94044,105
-Quentin,Birkner,Coast Guard,0,48,"['Coffee', 'Sports', 'Travel']",55337,120
-Regenia,Kannady,Space Force,1,98,"['Drink', 'Music', 'Coffee', 'Adventure', 'Travel', 'Family']",85260,105
-Sheron,Louissant,Navy ,1,43,"['Music', 'Food', 'Sports', 'Travel', 'Drink']",11101,15
-Izetta,Funnell,Air Force,1,82,"['Movies', 'Write', 'Sports', 'Travel', 'Adventure']",30340,60
-Rodolfo,Butzen,Marines,1,79,"['Sports', 'Write', 'Coffee', 'Work', 'Food']",55057,15
-Zona,Colla,Army ,0,46,"['Coffee', 'Food', 'Movies', 'Travel', 'Family']",6854,60
-Serina,Zagen,Coast Guard,1,86,"['Family', 'Write', 'Music']",46802,60
-Paz,Sahagun,Space Force,0,45,"['Adventure', 'Dog', 'Coffee', 'Music', 'Work', 'Travel', 'Food']",39307,90
-Markus,Lukasik,Navy ,0,92,"['Travel', 'Music', 'Sports', 'Write', 'Work', 'Adventure']",48310,15
-Jaclyn,Bachman,Air Force,0,76,"['Adventure', 'Sports']",80919,90
-Cyril,Daufeldt,Navy ,0,100,"['Work', 'Dog', 'Sports', 'Write', 'Family']",10013,120
-Gayla,Schnitzler,Air Force,0,71,"['Write', 'Drink', 'Dog', 'Travel']",94545,45
-Erick,Nievas,Marines,0,79,"['Coffee', 'Travel', 'Music']",60624,135
-Jennie,Drymon,Army ,0,56,"['Coffee', 'Sports', 'Travel', 'Dog']",18509,45
-Mitsue,Scipione,Coast Guard,1,76,"['Travel', 'Coffee', 'Movies', 'Sports']",95965,120
-Ciara,Ventura,Space Force,1,40,"['Music', 'Dog']",12771,45
-Galen,Cantres,Navy ,1,72,"['Adventure', 'Write']",44142,75
-Truman,Feichtner,Air Force,0,57,"['Family', 'Coffee', 'Work']",7003,150
-Gail,Kitty,Marines,0,84,"['Food', 'Movies', 'Adventure', 'Coffee', 'Write', 'Drink', 'Music']",99501,75
-Dalene,Schoeneck,Army ,0,96,"['Write', 'Adventure', 'Food', 'Travel', 'Drink', 'Movies', 'Work', 'Coffee']",19102,105
-Gertude,Witten,Coast Guard,1,41,"['Sports', 'Music']",45217,60
-Lizbeth,Kohl,Space Force,0,53,"['Food', 'Music']",90248,120
-Glenn,Berray,Navy ,0,64,"['Family', 'Music']",50315,90
-Lashandra,Klang,Air Force,1,59,"['Work', 'Drink', 'Food', 'Family', 'Music', 'Travel']",19406,105
-Lenna,Newville,Navy ,0,93,"['Work', 'Music', 'Drink', 'Food']",27601,30
-Laurel,Pagliuca,Air Force,1,79,['Drink'],99352,30
-Mireya,Frerking,Marines,0,75,"['Coffee', 'Music', 'Work']",10803,30
-Annelle,Tagala,Army ,0,52,"['Food', 'Coffee', 'Dog', 'Sports']",21234,15
-Dean,Ketelsen,Coast Guard,1,54,"['Food', 'Adventure', 'Music', 'Sports', 'Movies', 'Dog', 'Family']",11801,90
-Levi,Munis,Space Force,0,91,"['Food', 'Sports', 'Coffee', 'Drink', 'Movies']",1603,120
-Sylvie,Ryser,Navy ,1,55,"['Food', 'Movies', 'Dog', 'Write', 'Coffee']",74105,15
-Sharee,Maile,Air Force,1,66,"['Family', 'Food', 'Work', 'Dog', 'Write', 'Drink']",49442,15
-Cordelia,Storment,Marines,0,94,"['Dog', 'Travel', 'Work']",70506,90
-Mollie,Mcdoniel,Army ,0,89,"['Write', 'Drink']",43402,90
-Brett,Mccullan,Coast Guard,1,75,"['Sports', 'Work', 'Write', 'Adventure', 'Dog']",91942,15
-Teddy,Pedrozo,Space Force,0,51,"['Coffee', 'Travel', 'Work', 'Write', 'Movies', 'Drink', 'Dog']",6610,15
-Tasia,Andreason,Navy ,1,38,"['Family', 'Drink', 'Food', 'Write', 'Sports']",7032,135
-Hubert,Walthall,Air Force,1,66,"['Family', 'Drink']",44203,30
-Arthur,Farrow,Navy ,0,76,"['Adventure', 'Drink', 'Food', 'Family']",7631,0
-Vilma,Berlanga,Air Force,1,99,"['Travel', 'Coffee', 'Sports', 'Music']",49546,30
-Billye,Miro,Marines,0,67,"['Drink', 'Food', 'Coffee', 'Sports']",39208,60
-Glenna,Slayton,Army ,1,75,"['Family', 'Travel', 'Sports', 'Food']",38118,120
-Mitzie,Hudnall,Coast Guard,0,53,"['Family', 'Travel', 'Coffee']",80110,30
-Bernardine,Rodefer,Space Force,1,74,"['Work', 'Write', 'Adventure', 'Movies', 'Coffee', 'Food', 'Sports']",38112,120
-Staci,Schmaltz,Navy ,1,44,"['Music', 'Dog', 'Drink', 'Write']",91106,105
-Nichelle,Meteer,Air Force,1,89,"['Dog', 'Sports', 'Coffee']",60657,120
-Janine,Rhoden,Marines,1,58,"['Travel', 'Family', 'Coffee']",11103,60
-Ettie,Hoopengardner,Army ,1,36,"['Music', 'Drink']",99352,45
-Eden,Jayson,Coast Guard,1,76,"['Coffee', 'Drink', 'Food', 'Movies', 'Travel', 'Work', 'Family']",21202,15
-Lynelle,Auber,Space Force,1,51,"['Food', 'Music']",7104,30
-Merissa,Tomblin,Navy ,1,77,"['Dog', 'Travel', 'Food', 'Work', 'Family']",90706,90
-Golda,Kaniecki,Air Force,1,74,"['Drink', 'Coffee', 'Work', 'Food']",8755,0
-Catarina,Gleich,Navy ,0,67,"['Dog', 'Movies', 'Travel', 'Music', 'Drink', 'Sports', 'Adventure']",7834,120
-Virgie,Kiel,Air Force,0,80,"['Food', 'Coffee', 'Music', 'Family', 'Movies', 'Dog', 'Adventure', 'Drink']",80216,105
-Jolene,Ostolaza,Marines,1,71,"['Sports', 'Dog', 'Music', 'Coffee']",23608,105
-Keneth,Borgman,Army ,0,44,"['Travel', 'Drink', 'Write', 'Movies', 'Dog', 'Music']",85012,60
-Rikki,Nayar,Coast Guard,1,61,"['Adventure', 'Music', 'Family', 'Write', 'Sports']",33155,45
-Elke,Sengbusch,Space Force,1,96,"['Sports', 'Dog', 'Coffee', 'Work']",85013,60
-Hoa,Sarao,Navy ,0,53,"['Work', 'Drink', 'Write', 'Music']",32759,60
-Trinidad,Mcrae,Air Force,0,59,['Family'],94105,75
-Mari,Lueckenbach,Marines,0,100,"['Coffee', 'Travel', 'Family', 'Write', 'Music']",92110,135
-Selma,Husser,Army ,1,83,"['Movies', 'Food', 'Write', 'Coffee']",7306,135
-Antione,Onofrio,Coast Guard,0,95,"['Coffee', 'Travel', 'Write', 'Music', 'Movies', 'Drink']",92410,75
-Luisa,Jurney,Space Force,1,70,"['Write', 'Food', 'Music']",2138,15
-Clorinda,Heimann,Navy ,0,65,"['Dog', 'Food', 'Music']",92025,15
-Dick,Wenzinger,Air Force,1,83,"['Food', 'Dog', 'Family', 'Movies']",90248,45
-Ahmed,Angalich,Navy ,0,81,"['Travel', 'Sports', 'Drink', 'Music']",17110,90
-Iluminada,Ohms,Air Force,1,51,"['Sports', 'Drink', 'Dog', 'Family']",85204,60
-Joanna,Leinenbach,Marines,0,71,"['Drink', 'Family']",33461,90
-Caprice,Suell,Army ,0,81,"['Food', 'Movies', 'Write', 'Sports', 'Dog', 'Family', 'Adventure']",37211,90
-Stephane,Myricks,Coast Guard,1,66,"['Write', 'Drink', 'Movies']",41005,15
-Quentin,Swayze,Space Force,0,58,"['Music', 'Write', 'Work']",48160,75
-Annmarie,Castros,Navy ,1,85,"['Family', 'Movies', 'Write', 'Adventure', 'Food', 'Coffee', 'Work']",77301,120
-Shonda,Greenbush,Air Force,0,57,"['Dog', 'Movies', 'Adventure', 'Sports', 'Music', 'Write', 'Drink']",7011,0
-Cecil,Lapage,Marines,1,35,"['Write', 'Travel', 'Adventure', 'Coffee', 'Work', 'Family']",7087,150
-Jeanice,Claucherty,Army ,1,45,"['Adventure', 'Work']",33142,75
-Josphine,Villanueva,Coast Guard,0,90,"['Drink', 'Coffee', 'Movies', 'Travel', 'Food']",38575,90
-Daniel,Perruzza,Space Force,0,45,"['Sports', 'Travel', 'Coffee', 'Food', 'Dog']",92705,90
-Cassi,Wildfong,Navy ,0,48,"['Drink', 'Coffee', 'Write', 'Travel', 'Dog']",60008,15
-Britt,Galam,Air Force,0,87,"['Write', 'Movies', 'Family']",19440,75
-Adell,Lipkin,Navy ,1,87,"['Sports', 'Travel']",7981,75
-Jacqueline,Rowling,Air Force,0,89,"['Sports', 'Travel', 'Food', 'Drink']",16501,60
-Lonny,Weglarz,Marines,0,100,"['Travel', 'Food']",84115,75
-Lonna,Diestel,Army ,1,58,"['Dog', 'Travel', 'Drink']",28301,30
-Cristal,Samara,Coast Guard,1,41,"['Dog', 'Travel', 'Adventure', 'Drink', 'Work']",90021,150
-Kenneth,Grenet,Space Force,1,63,"['Write', 'Sports']",48823,105
-Elli,Mclaird,Navy ,0,78,"['Drink', 'Coffee', 'Travel']",13501,15
-Alline,Jeanty,Air Force,1,61,"['Music', 'Adventure', 'Travel', 'Movies', 'Food']",46601,90
-Sharika,Eanes,Marines,1,40,"['Adventure', 'Sports']",32806,45
-Nu,Mcnease,Army ,0,40,"['Drink', 'Work']",7029,60
-Daniela,Comnick,Coast Guard,1,57,"['Movies', 'Family', 'Coffee', 'Music', 'Write']",8611,30
-Cecilia,Colaizzo,Space Force,0,99,"['Sports', 'Family', 'Dog', 'Travel', 'Food', 'Write', 'Drink']",53717,30
-Leslie,Threets,Navy ,0,99,"['Drink', 'Write', 'Coffee', 'Work']",10536,15
-Nan,Koppinger,Air Force,1,62,"['Family', 'Food', 'Music', 'Drink', 'Dog']",27401,15
-Izetta,Dewar,Navy ,0,68,"['Dog', 'Drink', 'Sports']",21217,30
-Tegan,Arceo,Air Force,1,39,"['Write', 'Dog', 'Coffee', 'Family', 'Travel']",8831,120
-Ruthann,Keener,Marines,1,69,"['Travel', 'Dog', 'Drink', 'Sports']",78028,15
-Joni,Breland,Army ,0,94,['Write'],60007,120
-Vi,Rentfro,Coast Guard,1,100,"['Work', 'Movies']",7728,90
-Colette,Kardas,Space Force,0,89,"['Work', 'Coffee', 'Travel', 'Food', 'Drink']",68124,60
-Malcolm,Tromblay,Navy ,1,71,"['Write', 'Travel', 'Dog', 'Food', 'Coffee', 'Music', 'Drink']",22003,75
-Ryan,Harnos,Air Force,1,50,"['Work', 'Sports', 'Dog', 'Movies', 'Adventure', 'Family']",75075,75
-Jess,Chaffins,Marines,1,50,"['Work', 'Food']",10016,90
-Sharen,Bourbon,Army ,0,36,"['Music', 'Coffee', 'Write', 'Sports']",11791,105
-Nickolas,Juvera,Coast Guard,1,68,"['Coffee', 'Family', 'Food', 'Drink']",34429,75
-Gary,Nunlee,Space Force,0,38,"['Coffee', 'Adventure', 'Music', 'Work']",46040,15
-Diane,Devreese,Navy ,1,39,"['Travel', 'Music', 'Dog']",64504,135
-Roslyn,Chavous,Air Force,1,93,"['Travel', 'Sports']",39211,135
-Glory,Schieler,Navy ,1,77,"['Travel', 'Dog', 'Music', 'Food', 'Sports']",79602,105
-Rasheeda,Sayaphon,Air Force,1,59,"['Food', 'Drink', 'Travel']",95070,105
-Alpha,Palaia,Marines,1,93,"['Sports', 'Coffee']",8003,120
-Refugia,Jacobos,Army ,1,87,"['Write', 'Drink']",94545,0
-Shawnda,Yori,Coast Guard,1,88,"['Food', 'Travel', 'Drink', 'Movies', 'Dog', 'Family', 'Adventure']",32750,45
-Mona,Delasancha,Space Force,1,97,"['Food', 'Work', 'Write', 'Music', 'Movies', 'Coffee', 'Dog']",82001,60
-Gilma,Liukko,Navy ,1,73,"['Travel', 'Family', 'Adventure', 'Drink', 'Work']",11530,90
-Janey,Gabisi,Air Force,0,64,"['Family', 'Adventure', 'Sports', 'Travel', 'Dog', 'Movies']",53715,30
-Lili,Paskin,Marines,0,69,"['Movies', 'Work', 'Adventure', 'Dog', 'Drink']",7032,90
-Loren,Asar,Army ,0,63,"['Sports', 'Music', 'Write', 'Family']",18518,105
-Dorothy,Chesterfield,Coast Guard,0,98,"['Dog', 'Coffee', 'Food', 'Travel', 'Music']",92126,45
-Gail,Similton,Space Force,1,44,"['Adventure', 'Family', 'Sports', 'Music']",92276,120
-Catalina,Tillotson,Navy ,1,74,"['Food', 'Travel', 'Write', 'Dog', 'Movies']",8402,135
-Lawrence,Lorens,Air Force,1,38,"['Family', 'Drink', 'Coffee', 'Adventure', 'Food', 'Travel']",2906,120
-Carlee,Boulter,Navy ,0,51,"['Family', 'Coffee']",67410,135
-Thaddeus,Ankeny,Air Force,0,83,"['Dog', 'Family', 'Travel', 'Coffee', 'Work', 'Drink']",95678,0
-Jovita,Oles,Marines,1,37,"['Travel', 'Movies', 'Drink']",32114,45
-Alesia,Hixenbaugh,Army ,0,73,"['Adventure', 'Travel']",20001,60
-Lai,Harabedian,Coast Guard,0,66,"['Food', 'Dog', 'Sports']",94945,15
-Brittni,Gillaspie,Space Force,0,63,"['Work', 'Sports', 'Dog', 'Travel', 'Write', 'Drink', 'Coffee']",83709,120
-Raylene,Kampa,Navy ,1,55,"['Food', 'Movies']",46514,30
-Flo,Bookamer,Air Force,1,56,"['Dog', 'Travel']",69301,120
-Jani,Biddy,Marines,0,64,"['Family', 'Travel']",98104,135
-Chauncey,Motley,Army ,1,79,"['Drink', 'Family', 'Dog', 'Travel', 'Work']",32804,135
+First Name,Last Name,Branch Served,Role,Year of Service,Year of Service,Willing to meet at home,Age ,Interests ,Zip Code ,Max Relocation Radius 
+James,Butt,Navy ,Construction Mechanic ,1994,1995,1,61,"['Dog', 'Drink', 'Write', 'Music']",70116,40
+Josephine,Darakjy,Air Force,Electricial ,1984,2004,0,66,"['Music', 'Sports', 'Write', 'Work', 'Drink']",48116,0
+Art,Venere,Marines,Field ,1962,1980,0,58,"['Family', 'Music', 'Write']",8014,120
+Lenna,Paprocki,Army ,Field ,1964,1989,0,43,"['Travel', 'Family', 'Coffee', 'Dog', 'Food', 'Sports']",99501,15
+Donette,Foller,Coast Guard,Construction Mechanic ,1989,1996,1,90,"['Sports', 'Work', 'Drink', 'Movies', 'Write', 'Travel']",45011,15
+Simona,Morasca,Space Force,Design ,1971,1973,1,66,"['Adventure', 'Travel', 'Write', 'Drink', 'Coffee']",44805,15
+Mitsue,Tollner,Navy ,Construction Mechanic ,1939,1954,0,89,"['Travel', 'Sports', 'Music']",60632,30
+Leota,Dilliard,Air Force,Electricial ,1941,1959,1,58,"['Movies', 'Travel']",95111,120
+Sage,Wieser,Marines,Field ,1946,1952,1,96,"['Music', 'Adventure']",57105,75
+Kris,Marrier,Army ,Field ,1940,1953,0,83,"['Food', 'Adventure', 'Travel', 'Family', 'Write', 'Drink']",21224,75
+Minna,Amigon,Coast Guard,Construction Mechanic ,1989,2009,1,57,"['Family', 'Music', 'Travel']",19443,135
+Abel,Maclead,Space Force,Design ,1938,1959,1,44,"['Work', 'Music', 'Dog', 'Family']",11953,45
+Kiley,Caldarera,Navy ,Construction Mechanic ,1982,1994,1,57,"['Family', 'Drink', 'Coffee']",90034,90
+Graciela,Ruta,Air Force,Electricial ,1990,2016,0,90,"['Sports', 'Coffee', 'Work', 'Travel']",44023,45
+Cammy,Albares,Navy ,Field ,1938,1955,0,53,"['Drink', 'Movies', 'Music', 'Write', 'Adventure']",78045,120
+Mattie,Poquette,Air Force,Field ,1976,2000,0,91,"['Music', 'Work', 'Family', 'Sports', 'Dog']",85013,75
+Meaghan,Garufi,Marines,Construction Mechanic ,1971,1979,0,52,"['Coffee', 'Sports', 'Dog', 'Movies', 'Adventure', 'Work', 'Family']",37110,15
+Gladys,Rim,Army ,Design ,1930,1939,1,55,"['Food', 'Dog', 'Work']",53207,105
+Yuki,Whobrey,Coast Guard,Construction Mechanic ,1973,1981,0,84,"['Sports', 'Drink', 'Coffee', 'Movies', 'Travel']",48180,120
+Fletcher,Flosi,Space Force,Electricial ,1975,1999,0,64,"['Adventure', 'Food', 'Coffee', 'Work', 'Travel']",61109,135
+Bette,Nicka,Navy ,Field ,1946,1957,1,90,"['Work', 'Travel', 'Music', 'Coffee', 'Sports', 'Family', 'Food']",19014,90
+Veronika,Inouye,Air Force,Field ,1958,1962,0,67,"['Travel', 'Coffee', 'Drink', 'Family', 'Write', 'Dog']",95111,135
+Willard,Kolmetz,Marines,Construction Mechanic ,1973,1991,0,48,"['Sports', 'Adventure']",75062,45
+Maryann,Royster,Army ,Design ,1956,1981,1,49,"['Dog', 'Write', 'Movies']",12204,150
+Alisha,Slusarski,Coast Guard,Construction Mechanic ,1983,2005,0,88,"['Drink', 'Sports', 'Adventure', 'Music', 'Work']",8846,135
+Allene,Iturbide,Space Force,Electricial ,1985,1995,1,72,"['Travel', 'Food']",54481,75
+Chanel,Caudy,Navy ,Field ,1937,1938,1,38,"['Drink', 'Dog', 'Travel', 'Coffee', 'Write', 'Sports', 'Adventure']",66218,120
+Ezekiel,Chui,Air Force,Field ,1985,2007,0,96,"['Food', 'Movies']",21601,75
+Willow,Kusko,Navy ,Construction Mechanic ,1972,1987,1,44,"['Coffee', 'Work']",10011,60
+Bernardo,Figeroa,Air Force,Design ,1981,1999,0,47,"['Write', 'Food', 'Music', 'Family', 'Travel', 'Work', 'Dog']",77301,105
+Ammie,Corrio,Marines,Construction Mechanic ,1937,1960,1,38,"['Adventure', 'Drink', 'Dog', 'Write', 'Coffee', 'Work', 'Family']",43215,135
+Francine,Vocelka,Army ,Electricial ,1972,1994,0,95,"['Dog', 'Drink', 'Sports']",88011,135
+Ernie,Stenseth,Coast Guard,Field ,1957,1979,0,50,"['Write', 'Travel', 'Family']",7660,120
+Albina,Glick,Space Force,Field ,1932,1942,1,92,"['Movies', 'Write', 'Music', 'Dog', 'Food', 'Drink']",8812,15
+Alishia,Sergi,Navy ,Construction Mechanic ,1969,1983,0,80,"['Movies', 'Family']",10025,30
+Solange,Shinko,Air Force,Design ,1998,2010,1,76,"['Adventure', 'Drink', 'Food', 'Music']",70002,135
+Jose,Stockham,Marines,Construction Mechanic ,1931,1950,0,80,"['Music', 'Coffee']",10011,90
+Rozella,Ostrosky,Army ,Electricial ,1995,2012,0,79,"['Food', 'Travel', 'Drink', 'Music', 'Family', 'Dog']",93012,105
+Valentine,Gillian,Coast Guard,Field ,1950,1951,0,39,"['Family', 'Movies']",78204,75
+Kati,Rulapaugh,Space Force,Field ,1931,1933,0,79,"['Music', 'Travel', 'Food']",67410,135
+Youlanda,Schemmer,Navy ,Construction Mechanic ,1982,1997,0,83,"['Food', 'Coffee']",97754,60
+Dyan,Oldroyd,Air Force,Design ,1958,1966,0,92,"['Movies', 'Drink', 'Family']",66204,30
+Roxane,Campain,Navy ,Construction Mechanic ,1976,1989,1,93,"['Music', 'Movies', 'Travel', 'Food', 'Coffee', 'Drink', 'Dog']",99708,60
+Lavera,Perin,Air Force,Electricial ,1951,1968,0,89,"['Adventure', 'Sports', 'Music', 'Family', 'Drink']",33196,90
+Erick,Ferencz,Marines,Field ,1989,2008,0,37,"['Write', 'Coffee', 'Sports', 'Drink']",99712,30
+Fatima,Saylors,Army ,Field ,1967,1968,1,38,"['Coffee', 'Movies', 'Dog', 'Work']",55343,45
+Jina,Briddick,Coast Guard,Construction Mechanic ,1935,1953,1,52,"['Music', 'Drink']",2128,75
+Kanisha,Waycott,Space Force,Design ,1947,1966,0,89,"['Travel', 'Drink', 'Music', 'Family', 'Coffee', 'Sports']",90006,150
+Emerson,Bowley,Navy ,Construction Mechanic ,1991,2001,0,63,"['Sports', 'Family']",53711,90
+Blair,Malet,Air Force,Electricial ,1937,1961,0,94,"['Movies', 'Family', 'Adventure', 'Dog', 'Coffee']",19132,30
+Brock,Bolognia,Marines,Field ,1974,1996,1,49,"['Work', 'Sports', 'Dog', 'Music', 'Food']",10003,150
+Lorrie,Nestle,Army ,Field ,1960,1981,0,88,"['Food', 'Movies', 'Dog', 'Music']",37388,0
+Sabra,Uyetake,Coast Guard,Construction Mechanic ,1981,1982,0,85,"['Write', 'Sports', 'Travel', 'Family', 'Movies', 'Music', 'Drink']",29201,90
+Marjory,Mastella,Space Force,Design ,1971,1995,0,93,"['Family', 'Sports', 'Dog', 'Adventure', 'Drink', 'Travel']",19087,120
+Karl,Klonowski,Navy ,Construction Mechanic ,1944,1954,0,99,"['Music', 'Coffee', 'Write']",8822,150
+Tonette,Wenner,Air Force,Electricial ,1986,1987,1,58,"['Family', 'Coffee', 'Movies', 'Work', 'Sports']",11590,60
+Amber,Monarrez,Navy ,Field ,1948,1970,0,82,"['Music', 'Drink', 'Sports', 'Movies', 'Work']",19046,150
+Shenika,Seewald,Air Force,Field ,1934,1943,1,89,"['Write', 'Dog', 'Adventure', 'Drink']",91405,150
+Delmy,Ahle,Marines,Construction Mechanic ,1985,1998,0,71,"['Family', 'Music', 'Drink', 'Work', 'Coffee']",2909,135
+Deeanna,Juhas,Army ,Design ,1965,1980,1,54,"['Drink', 'Sports', 'Movies']",19006,120
+Blondell,Pugh,Coast Guard,Construction Mechanic ,1969,1970,0,36,"['Work', 'Movies', 'Dog', 'Adventure', 'Write', 'Food']",2904,105
+Jamal,Vanausdal,Space Force,Electricial ,1954,1971,1,96,"['Family', 'Coffee']",8831,90
+Cecily,Hollack,Navy ,Field ,1935,1938,0,68,"['Drink', 'Work', 'Adventure', 'Travel', 'Write', 'Dog', 'Food']",78731,75
+Carmelina,Lindall,Air Force,Field ,1966,1987,1,96,"['Sports', 'Write', 'Adventure', 'Drink', 'Dog', 'Family']",80126,105
+Maurine,Yglesias,Marines,Construction Mechanic ,1957,1970,0,94,"['Write', 'Family', 'Dog', 'Drink']",53214,135
+Tawna,Buvens,Army ,Design ,1953,1964,1,99,"['Music', 'Travel']",10009,75
+Penney,Weight,Coast Guard,Construction Mechanic ,1991,1995,0,90,"['Travel', 'Sports', 'Drink', 'Dog', 'Movies']",99515,30
+Elly,Morocco,Space Force,Electricial ,1940,1953,0,79,"['Sports', 'Work', 'Coffee', 'Travel']",16502,60
+Ilene,Eroman,Navy ,Field ,1988,1997,1,43,"['Family', 'Drink', 'Music', 'Food', 'Write']",21061,60
+Vallie,Mondella,Air Force,Field ,1960,1962,0,87,"['Dog', 'Write', 'Work']",83707,75
+Kallie,Blackwood,Navy ,Construction Mechanic ,1933,1953,0,53,"['Write', 'Drink', 'Work', 'Family', 'Sports']",94104,0
+Johnetta,Abdallah,Air Force,Design ,1970,1994,1,67,"['Adventure', 'Work', 'Movies', 'Dog']",27514,45
+Bobbye,Rhym,Marines,Construction Mechanic ,1946,1961,0,63,"['Travel', 'Adventure', 'Sports', 'Coffee', 'Drink', 'Work']",94070,120
+Micaela,Rhymes,Army ,Electricial ,1990,2007,0,84,"['Family', 'Food']",94520,90
+Tamar,Hoogland,Coast Guard,Field ,1999,2011,0,57,"['Food', 'Coffee', 'Music', 'Movies', 'Write', 'Travel']",43140,75
+Moon,Parlato,Space Force,Field ,1991,2000,0,83,"['Write', 'Family', 'Work', 'Coffee', 'Drink']",14895,60
+Laurel,Reitler,Navy ,Construction Mechanic ,1971,1977,0,54,"['Coffee', 'Write', 'Sports', 'Work', 'Food']",21215,15
+Delisa,Crupi,Air Force,Design ,1983,1996,1,55,"['Food', 'Sports', 'Dog']",7105,150
+Viva,Toelkes,Marines,Construction Mechanic ,1952,1970,1,57,"['Music', 'Travel', 'Write', 'Adventure', 'Drink', 'Family']",60647,30
+Elza,Lipke,Army ,Electricial ,1982,2007,0,82,"['Food', 'Sports']",7104,120
+Devorah,Chickering,Coast Guard,Field ,1951,1970,0,88,"['Music', 'Family', 'Dog', 'Adventure', 'Travel', 'Food']",88101,135
+Timothy,Mulqueen,Space Force,Field ,1932,1941,0,51,"['Music', 'Write', 'Dog', 'Sports']",10309,0
+Arlette,Honeywell,Navy ,Construction Mechanic ,1942,1963,0,53,"['Travel', 'Work', 'Music', 'Coffee']",32254,60
+Dominque,Dickerson,Air Force,Design ,1932,1935,1,41,"['Movies', 'Adventure', 'Travel', 'Write']",94545,75
+Lettie,Isenhower,Navy ,Construction Mechanic ,1937,1941,0,54,"['Drink', 'Music', 'Movies', 'Work', 'Family', 'Adventure']",44122,30
+Myra,Munns,Air Force,Electricial ,1980,1987,1,74,"['Family', 'Adventure', 'Work']",76040,0
+Stephaine,Barfield,Marines,Field ,1972,1992,0,100,"['Sports', 'Work', 'Food', 'Movies', 'Write', 'Family', 'Dog']",90247,90
+Lai,Gato,Army ,Field ,1945,1946,1,55,"['Drink', 'Movies', 'Travel', 'Sports', 'Food', 'Adventure', 'Family']",60201,0
+Stephen,Emigh,Coast Guard,Construction Mechanic ,1958,1979,0,89,"['Coffee', 'Family', 'Music', 'Sports', 'Food']",44302,90
+Tyra,Shields,Space Force,Design ,2000,2021,0,58,"['Movies', 'Adventure', 'Family', 'Sports', 'Write', 'Food']",19106,75
+Tammara,Wardrip,Navy ,Construction Mechanic ,1963,1980,0,50,"['Drink', 'Music', 'Sports', 'Dog']",94010,45
+Cory,Gibes,Air Force,Electricial ,1948,1972,1,60,"['Food', 'Drink', 'Travel', 'Work', 'Coffee', 'Music']",91776,135
+Danica,Bruschke,Marines,Field ,1973,1979,0,84,"['Family', 'Work', 'Travel', 'Adventure', 'Music']",76708,45
+Wilda,Giguere,Army ,Field ,1984,1997,1,39,"['Music', 'Family', 'Coffee', 'Adventure', 'Food', 'Write']",99501,30
+Elvera,Benimadho,Coast Guard,Construction Mechanic ,1951,1975,0,78,"['Dog', 'Write']",95110,15
+Carma,Vanheusen,Space Force,Design ,1981,1993,0,64,"['Adventure', 'Drink', 'Write', 'Work']",94577,15
+Malinda,Hochard,Navy ,Construction Mechanic ,1958,1962,0,44,"['Sports', 'Write', 'Work', 'Food']",46202,90
+Natalie,Fern,Air Force,Electricial ,1951,1968,0,59,"['Drink', 'Travel', 'Write', 'Food', 'Sports', 'Family', 'Music']",82901,135
+Lisha,Centini,Navy ,Field ,1932,1953,0,94,"['Music', 'Write', 'Food', 'Family', 'Sports', 'Work']",22102,105
+Arlene,Klusman,Air Force,Field ,1953,1956,1,70,"['Dog', 'Coffee', 'Food', 'Adventure', 'Write']",70112,30
+Alease,Buemi,Marines,Construction Mechanic ,1941,1944,1,44,"['Travel', 'Work', 'Sports']",80303,30
+Louisa,Cronauer,Army ,Design ,1954,1956,1,40,"['Movies', 'Coffee']",94577,60
+Angella,Cetta,Coast Guard,Construction Mechanic ,1941,1964,1,60,"['Adventure', 'Dog', 'Family']",96817,90
+Cyndy,Goldammer,Space Force,Electricial ,1957,1961,0,40,"['Music', 'Sports', 'Family', 'Drink', 'Dog']",55337,75
+Rosio,Cork,Navy ,Field ,1955,1962,0,49,"['Adventure', 'Dog', 'Travel', 'Family']",27263,75
+Celeste,Korando,Air Force,Field ,1995,2015,1,87,"['Write', 'Dog', 'Travel', 'Music', 'Drink', 'Work']",11563,45
+Twana,Felger,Marines,Construction Mechanic ,1936,1954,0,64,"['Coffee', 'Drink', 'Write']",97224,30
+Estrella,Samu,Army ,Design ,1999,2003,1,75,"['Drink', 'Family', 'Coffee']",53511,105
+Donte,Kines,Coast Guard,Construction Mechanic ,1985,1998,1,53,"['Write', 'Adventure', 'Dog', 'Travel', 'Family', 'Music']",1602,90
+Tiffiny,Steffensmeier,Space Force,Electricial ,1946,1968,1,79,"['Sports', 'Music', 'Drink', 'Family']",33133,15
+Edna,Miceli,Navy ,Field ,1939,1958,0,48,"['Dog', 'Coffee']",16502,75
+Sue,Kownacki,Air Force,Field ,1941,1946,1,96,"['Sports', 'Family', 'Music', 'Movies', 'Write']",75149,15
+Jesusa,Shin,Navy ,Construction Mechanic ,1934,1952,0,48,"['Dog', 'Music', 'Drink', 'Food']",37388,45
+Rolland,Francescon,Air Force,Design ,1956,1979,0,43,"['Movies', 'Drink', 'Adventure', 'Travel', 'Music', 'Coffee']",7501,15
+Pamella,Schmierer,Marines,Construction Mechanic ,1969,1978,0,86,"['Food', 'Write', 'Coffee', 'Family', 'Music', 'Drink', 'Movies']",33030,60
+Glory,Kulzer,Army ,Electricial ,1976,2001,1,59,"['Travel', 'Dog', 'Work', 'Family']",21117,75
+Shawna,Palaspas,Coast Guard,Field ,1974,1983,1,77,"['Food', 'Coffee', 'Adventure', 'Drink']",91362,105
+Brandon,Callaro,Space Force,Field ,1936,1946,1,81,"['Adventure', 'Food', 'Sports']",96819,75
+Scarlet,Cartan,Navy ,Construction Mechanic ,1974,1982,0,63,"['Coffee', 'Travel', 'Adventure', 'Sports', 'Dog', 'Movies']",31701,15
+Oretha,Menter,Air Force,Design ,1977,1980,1,92,"['Adventure', 'Family', 'Dog', 'Music']",2210,135
+Ty,Smith,Marines,Construction Mechanic ,1941,1959,1,43,"['Music', 'Write', 'Adventure', 'Drink']",7601,105
+Xuan,Rochin,Army ,Electricial ,1958,1976,1,87,"['Work', 'Coffee', 'Travel', 'Sports']",94403,30
+Lindsey,Dilello,Coast Guard,Field ,1950,1955,1,58,"['Sports', 'Dog', 'Travel', 'Drink']",91761,75
+Devora,Perez,Space Force,Field ,1979,1997,0,94,"['Music', 'Dog', 'Adventure']",94606,45
+Herman,Demesa,Navy ,Construction Mechanic ,1976,1990,0,76,"['Work', 'Drink']",12180,15
+Rory,Papasergi,Air Force,Design ,1982,1985,1,63,"['Music', 'Family']",18411,135
+Talia,Riopelle,Navy ,Construction Mechanic ,1975,2000,1,63,"['Dog', 'Family', 'Music']",7050,105
+Van,Shire,Air Force,Electricial ,1955,1958,1,90,"['Movies', 'Family', 'Adventure', 'Dog', 'Sports']",8867,105
+Lucina,Lary,Marines,Field ,1961,1981,1,46,"['Dog', 'Travel', 'Family', 'Drink']",32922,0
+Bok,Isaacs,Army ,Field ,1940,1950,0,94,"['Coffee', 'Write', 'Work']",10468,90
+Rolande,Spickerman,Coast Guard,Construction Mechanic ,1956,1971,0,52,"['Coffee', 'Write', 'Food']",96782,15
+Howard,Paulas,Space Force,Design ,1966,1978,0,70,"['Sports', 'Adventure', 'Dog']",80231,15
+Kimbery,Madarang,Navy ,Construction Mechanic ,1978,2002,0,87,"['Music', 'Food', 'Write', 'Coffee']",7866,75
+Thurman,Manno,Air Force,Electricial ,1991,1995,0,69,"['Sports', 'Music']",8201,135
+Becky,Mirafuentes,Marines,Field ,1981,1986,1,96,"['Adventure', 'Food']",7062,120
+Beatriz,Corrington,Army ,Field ,1998,2024,0,71,"['Family', 'Drink', 'Travel', 'Food']",2346,15
+Marti,Maybury,Coast Guard,Construction Mechanic ,1989,1991,0,51,"['Dog', 'Drink', 'Adventure', 'Coffee', 'Travel', 'Write']",60638,60
+Nieves,Gotter,Space Force,Design ,1955,1964,0,78,"['Drink', 'Adventure', 'Work', 'Dog', 'Sports', 'Coffee', 'Music']",97202,30
+Leatha,Hagele,Navy ,Construction Mechanic ,1961,1986,1,70,"['Movies', 'Family', 'Drink', 'Dog']",75227,45
+Valentin,Klimek,Air Force,Electricial ,1993,2008,1,66,"['Drink', 'Food', 'Travel']",60604,15
+Melissa,Wiklund,Navy ,Field ,1949,1951,1,55,['Movies'],45840,90
+Sheridan,Zane,Air Force,Field ,1959,1977,1,86,"['Drink', 'Coffee', 'Movies', 'Travel', 'Music', 'Family', 'Food']",92501,150
+Bulah,Padilla,Marines,Construction Mechanic ,1982,1989,0,65,"['Write', 'Travel', 'Sports', 'Music', 'Coffee', 'Drink', 'Work']",76707,15
+Audra,Kohnert,Army ,Design ,1977,2001,1,78,"['Coffee', 'Write', 'Drink', 'Music', 'Family']",37211,30
+Daren,Weirather,Coast Guard,Construction Mechanic ,1960,1984,1,80,"['Food', 'Coffee', 'Adventure', 'Music']",53216,105
+Fernanda,Jillson,Space Force,Electricial ,1932,1946,0,73,"['Dog', 'Adventure', 'Family']",21655,135
+Gearldine,Gellinger,Navy ,Field ,1958,1972,0,75,"['Travel', 'Dog']",75061,90
+Chau,Kitzman,Air Force,Field ,1960,1979,1,97,"['Food', 'Adventure', 'Work', 'Movies', 'Drink']",90212,90
+Theola,Frey,Marines,Construction Mechanic ,1969,1983,0,82,"['Drink', 'Music', 'Food']",11758,105
+Cheryl,Haroldson,Army ,Design ,1974,1984,0,44,"['Coffee', 'Movies']",8401,120
+Laticia,Merced,Coast Guard,Construction Mechanic ,1936,1961,0,62,"['Movies', 'Coffee', 'Family', 'Food', 'Sports', 'Work']",45203,45
+Carissa,Batman,Space Force,Electricial ,1999,2010,1,58,"['Music', 'Work', 'Adventure']",97401,60
+Lezlie,Craghead,Navy ,Field ,1939,1963,1,67,"['Family', 'Drink', 'Coffee', 'Food', 'Music', 'Write']",27577,135
+Ozell,Shealy,Air Force,Field ,1969,1990,1,90,"['Write', 'Sports', 'Work', 'Music']",10002,90
+Arminda,Parvis,Navy ,Construction Mechanic ,1999,2013,1,92,"['Family', 'Sports', 'Write', 'Drink', 'Dog']",85017,135
+Reita,Leto,Air Force,Design ,1992,2017,0,38,"['Work', 'Movies']",46240,150
+Yolando,Luczki,Marines,Construction Mechanic ,1986,2010,1,89,"['Adventure', 'Movies', 'Food', 'Sports', 'Music', 'Travel', 'Family']",13214,120
+Lizette,Stem,Army ,Electricial ,1969,1972,0,36,"['Dog', 'Work', 'Food', 'Music', 'Drink', 'Write', 'Coffee']",8002,135
+Gregoria,Pawlowicz,Coast Guard,Field ,1990,2000,1,74,"['Work', 'Travel', 'Sports']",11530,30
+Carin,Deleo,Space Force,Field ,1981,1992,1,60,"['Dog', 'Family', 'Sports', 'Movies']",72202,120
+Chantell,Maynerich,Navy ,Construction Mechanic ,1948,1974,1,36,"['Dog', 'Music', 'Sports', 'Coffee', 'Food']",55101,15
+Dierdre,Yum,Air Force,Design ,1938,1957,1,53,"['Food', 'Work']",19134,15
+Larae,Gudroe,Marines,Construction Mechanic ,1951,1971,1,37,"['Music', 'Movies']",70360,90
+Latrice,Tolfree,Army ,Electricial ,1931,1936,1,61,"['Write', 'Adventure', 'Coffee', 'Travel']",11779,15
+Kerry,Theodorov,Coast Guard,Field ,1950,1975,1,88,"['Food', 'Family', 'Work', 'Music', 'Coffee', 'Adventure', 'Sports', 'Dog']",95827,60
+Dorthy,Hidvegi,Space Force,Field ,1987,2001,0,63,"['Adventure', 'Coffee', 'Music', 'Sports']",83704,135
+Fannie,Lungren,Navy ,Construction Mechanic ,1993,2010,0,37,"['Movies', 'Coffee', 'Dog', 'Write', 'Sports']",78664,30
+Evangelina,Radde,Air Force,Design ,1980,1983,1,98,"['Music', 'Write']",19123,30
+Novella,Degroot,Navy ,Construction Mechanic ,1954,1971,1,52,"['Movies', 'Sports', 'Adventure', 'Coffee', 'Family', 'Music']",96720,120
+Clay,Hoa,Air Force,Electricial ,1964,1986,1,38,"['Coffee', 'Write', 'Movies', 'Work']",89502,45
+Jennifer,Fallick,Marines,Field ,1989,2004,0,52,"['Write', 'Food', 'Movies']",60090,45
+Irma,Wolfgramm,Army ,Field ,1974,1983,0,69,"['Sports', 'Travel']",7869,90
+Eun,Coody,Coast Guard,Construction Mechanic ,1942,1966,1,51,"['Adventure', 'Music', 'Sports', 'Movies']",29301,150
+Sylvia,Cousey,Space Force,Design ,1932,1948,0,54,"['Travel', 'Family', 'Food', 'Work']",21074,15
+Nana,Wrinkles,Navy ,Construction Mechanic ,1936,1951,1,39,"['Family', 'Coffee']",10553,150
+Layla,Springe,Air Force,Electricial ,1952,1968,0,60,"['Coffee', 'Sports']",10011,135
+Joesph,Degonia,Marines,Field ,1953,1969,1,46,"['Sports', 'Work', 'Travel', 'Family']",94710,45
+Annabelle,Boord,Army ,Field ,1958,1965,1,86,"['Sports', 'Food']",1742,105
+Stephaine,Vinning,Coast Guard,Construction Mechanic ,1963,1970,0,63,"['Movies', 'Dog', 'Music', 'Food', 'Write']",94104,120
+Nelida,Sawchuk,Space Force,Design ,1937,1942,0,65,"['Movies', 'Coffee', 'Adventure']",7652,75
+Marguerita,Hiatt,Navy ,Construction Mechanic ,1987,2004,0,91,"['Sports', 'Drink', 'Work', 'Dog', 'Movies']",94561,15
+Carmela,Cookey,Air Force,Electricial ,1938,1952,1,69,"['Adventure', 'Write', 'Food']",60623,135
+Junita,Brideau,Navy ,Field ,1975,1999,0,40,"['Adventure', 'Food', 'Sports', 'Work', 'Movies', 'Music']",7009,0
+Claribel,Varriano,Air Force,Field ,1985,1999,1,75,"['Family', 'Write', 'Music', 'Dog', 'Adventure', 'Travel']",43551,15
+Benton,Skursky,Marines,Construction Mechanic ,1947,1963,1,86,"['Drink', 'Movies', 'Adventure']",90248,30
+Hillary,Skulski,Army ,Design ,1981,1982,0,78,"['Drink', 'Music', 'Write', 'Movies', 'Travel', 'Family', 'Dog']",34448,15
+Merilyn,Bayless,Coast Guard,Construction Mechanic ,1958,1980,0,99,"['Sports', 'Write', 'Drink', 'Coffee']",95054,135
+Teri,Ennaco,Space Force,Electricial ,1986,2002,1,85,"['Adventure', 'Coffee', 'Work', 'Food', 'Sports']",18201,105
+Merlyn,Lawler,Navy ,Field ,1969,1987,1,71,"['Travel', 'Adventure', 'Coffee', 'Dog']",7304,15
+Georgene,Montezuma,Air Force,Field ,1979,2003,1,46,"['Family', 'Adventure', 'Sports']",94583,60
+Jettie,Mconnell,Marines,Construction Mechanic ,1985,2009,1,46,"['Sports', 'Food', 'Work', 'Movies']",8807,60
+Lemuel,Latzke,Army ,Design ,1978,1981,0,79,"['Movies', 'Family']",11716,75
+Melodie,Knipp,Coast Guard,Construction Mechanic ,1991,2010,1,49,"['Travel', 'Family', 'Dog']",91362,30
+Candida,Corbley,Space Force,Electricial ,1991,2002,0,78,"['Music', 'Movies', 'Food', 'Write']",8876,15
+Karan,Karpin,Navy ,Field ,1955,1963,1,71,"['Coffee', 'Movies', 'Sports']",97005,45
+Andra,Scheyer,Air Force,Field ,1979,2002,1,71,"['Music', 'Sports', 'Drink', 'Movies', 'Food']",97302,75
+Felicidad,Poullion,Navy ,Construction Mechanic ,1953,1974,1,46,"['Coffee', 'Music', 'Adventure', 'Drink', 'Family', 'Dog']",8077,30
+Belen,Strassner,Air Force,Design ,1935,1949,1,98,"['Travel', 'Movies']",30135,120
+Gracia,Melnyk,Marines,Construction Mechanic ,1965,1976,1,85,['Music'],32216,30
+Jolanda,Hanafan,Army ,Electricial ,1969,1982,1,59,"['Adventure', 'Music', 'Movies', 'Write']",4401,15
+Barrett,Toyama,Coast Guard,Field ,1988,2012,0,84,"['Drink', 'Work', 'Food', 'Dog', 'Family']",76060,75
+Helga,Fredicks,Space Force,Field ,1948,1961,0,83,"['Dog', 'Music', 'Family', 'Food']",14228,135
+Ashlyn,Pinilla,Navy ,Construction Mechanic ,1971,1986,0,50,"['Family', 'Dog', 'Music', 'Movies', 'Write', 'Coffee', 'Adventure']",33054,135
+Fausto,Agramonte,Air Force,Design ,1933,1957,1,64,"['Drink', 'Sports', 'Movies']",10038,0
+Ronny,Caiafa,Marines,Construction Mechanic ,1995,2012,0,76,"['Adventure', 'Movies']",19103,90
+Marge,Limmel,Army ,Electricial ,1989,2008,1,95,"['Sports', 'Adventure']",32536,90
+Norah,Waymire,Coast Guard,Field ,1932,1939,0,90,"['Movies', 'Coffee', 'Food', 'Drink']",94107,135
+Aliza,Baltimore,Space Force,Field ,1972,1979,0,58,"['Family', 'Work', 'Coffee', 'Movies', 'Sports', 'Travel', 'Dog']",95132,120
+Mozell,Pelkowski,Navy ,Construction Mechanic ,1970,1995,1,99,"['Family', 'Food']",94080,15
+Viola,Bitsuie,Air Force,Design ,1967,1971,1,52,"['Adventure', 'Food', 'Work', 'Sports']",91325,15
+Franklyn,Emard,Navy ,Construction Mechanic ,1941,1961,0,88,"['Sports', 'Work', 'Dog', 'Food', 'Write', 'Movies', 'Adventure']",19103,135
+Willodean,Konopacki,Air Force,Electricial ,1941,1943,0,63,"['Adventure', 'Movies']",70506,45
+Beckie,Silvestrini,Marines,Field ,1944,1952,0,46,"['Drink', 'Family', 'Music', 'Adventure', 'Coffee']",48126,90
+Rebecka,Gesick,Army ,Field ,1933,1941,1,98,"['Coffee', 'Write', 'Travel', 'Drink', 'Food']",78754,15
+Frederica,Blunk,Coast Guard,Construction Mechanic ,1940,1956,0,44,"['Drink', 'Dog', 'Write', 'Work', 'Family']",75207,15
+Glen,Bartolet,Space Force,Design ,1953,1971,0,39,"['Music', 'Travel', 'Adventure', 'Write', 'Coffee']",98070,135
+Freeman,Gochal,Navy ,Construction Mechanic ,1977,2001,0,65,"['Music', 'Coffee', 'Travel', 'Dog', 'Drink', 'Write']",19320,45
+Vincent,Meinerding,Air Force,Electricial ,1981,1985,0,95,"['Adventure', 'Write', 'Coffee', 'Food', 'Music']",19143,75
+Rima,Bevelacqua,Marines,Field ,1992,2000,1,88,"['Food', 'Movies', 'Music', 'Dog', 'Adventure', 'Travel', 'Write']",90248,75
+Glendora,Sarbacher,Army ,Field ,1962,1983,0,64,"['Coffee', 'Sports', 'Music', 'Dog', 'Adventure', 'Food']",94928,135
+Avery,Steier,Coast Guard,Construction Mechanic ,1959,1962,1,63,"['Dog', 'Travel', 'Family', 'Coffee', 'Sports', 'Work', 'Food']",32803,105
+Cristy,Lother,Space Force,Design ,1995,2017,0,97,"['Work', 'Dog', 'Travel', 'Music', 'Sports']",92025,135
+Nicolette,Brossart,Navy ,Construction Mechanic ,1988,1998,0,39,"['Write', 'Adventure', 'Travel']",1581,45
+Tracey,Modzelewski,Air Force,Electricial ,1933,1956,1,55,"['Work', 'Adventure', 'Movies', 'Food', 'Family']",77301,90
+Virgina,Tegarden,Navy ,Field ,1989,2000,0,59,"['Food', 'Coffee', 'Movies']",53226,90
+Tiera,Frankel,Air Force,Field ,1987,2003,1,74,"['Family', 'Sports']",91731,135
+Alaine,Bergesen,Marines,Construction Mechanic ,1945,1966,0,64,"['Drink', 'Adventure', 'Family', 'Coffee', 'Music', 'Sports']",10701,60
+Earleen,Mai,Army ,Design ,1932,1934,1,76,"['Drink', 'Sports', 'Food', 'Coffee', 'Family', 'Travel']",75227,60
+Leonida,Gobern,Coast Guard,Construction Mechanic ,1964,1985,0,86,"['Coffee', 'Music', 'Dog', 'Work', 'Sports', 'Write']",39530,75
+Ressie,Auffrey,Space Force,Electricial ,1967,1979,1,67,"['Family', 'Music', 'Adventure', 'Drink', 'Coffee']",33134,90
+Justine,Mugnolo,Navy ,Field ,1955,1979,1,45,"['Movies', 'Adventure', 'Dog']",10048,0
+Eladia,Saulter,Air Force,Field ,1987,2002,1,70,"['Adventure', 'Family', 'Movies', 'Work', 'Food']",7446,75
+Chaya,Malvin,Marines,Construction Mechanic ,1970,1973,1,82,"['Dog', 'Sports', 'Travel', 'Movies']",48103,45
+Gwenn,Suffield,Army ,Design ,1999,2011,1,76,"['Sports', 'Movies']",11729,90
+Salena,Karpel,Coast Guard,Construction Mechanic ,1942,1961,1,50,"['Coffee', 'Movies', 'Food', 'Drink', 'Adventure', 'Sports']",44707,120
+Yoko,Fishburne,Space Force,Electricial ,1997,2005,0,51,"['Coffee', 'Sports', 'Dog', 'Travel']",6511,75
+Taryn,Moyd,Navy ,Field ,1998,2011,1,47,['Movies'],22030,60
+Katina,Polidori,Air Force,Field ,1993,2017,1,71,"['Food', 'Travel', 'Music', 'Sports']",1887,150
+Rickie,Plumer,Navy ,Construction Mechanic ,1957,1969,1,94,"['Music', 'Family', 'Work']",43613,30
+Alex,Loader,Air Force,Design ,1965,1968,1,54,"['Sports', 'Write', 'Travel']",98409,105
+Lashon,Vizarro,Marines,Construction Mechanic ,1931,1950,1,44,"['Family', 'Write']",95661,60
+Lauran,Burnard,Army ,Electricial ,1974,1999,1,96,"['Drink', 'Music', 'Travel', 'Food', 'Work', 'Family']",82501,15
+Ceola,Setter,Coast Guard,Field ,1959,1979,0,66,"['Travel', 'Food']",4864,15
+My,Rantanen,Space Force,Field ,1965,1990,1,79,"['Drink', 'Family', 'Music']",18954,60
+Lorrine,Worlds,Navy ,Construction Mechanic ,1994,2017,1,37,"['Travel', 'Sports', 'Music', 'Work']",33614,105
+Peggie,Sturiale,Air Force,Design ,1957,1959,0,56,"['Work', 'Food', 'Dog', 'Coffee', 'Movies']",92020,75
+Marvel,Raymo,Marines,Construction Mechanic ,1962,1970,0,67,"['Work', 'Family']",77840,45
+Daron,Dinos,Army ,Electricial ,1957,1960,1,82,"['Work', 'Drink', 'Music', 'Dog', 'Sports', 'Adventure']",60035,30
+An,Fritz,Coast Guard,Field ,1946,1959,0,60,"['Family', 'Coffee', 'Drink', 'Adventure']",8401,90
+Portia,Stimmel,Space Force,Field ,1967,1991,1,96,"['Work', 'Sports', 'Food', 'Dog']",8807,150
+Rhea,Aredondo,Navy ,Construction Mechanic ,1979,1996,0,83,"['Food', 'Coffee', 'Sports', 'Movies', 'Dog', 'Work', 'Drink', 'Write', 'Family']",11226,45
+Benedict,Sama,Air Force,Design ,1962,1973,1,63,"['Coffee', 'Sports', 'Dog', 'Work', 'Movies', 'Drink', 'Family']",63104,0
+Alyce,Arias,Navy ,Construction Mechanic ,1998,2001,0,87,"['Music', 'Write', 'Travel', 'Movies']",95207,120
+Heike,Berganza,Air Force,Electricial ,1976,1979,0,55,"['Work', 'Dog', 'Coffee', 'Write', 'Travel']",7424,30
+Carey,Dopico,Marines,Field ,1996,2009,0,37,"['Music', 'Movies', 'Drink', 'Travel', 'Family', 'Food']",46220,15
+Dottie,Hellickson,Army ,Field ,1969,1986,1,39,"['Movies', 'Adventure', 'Work', 'Family', 'Write', 'Sports', 'Food']",98133,105
+Deandrea,Hughey,Coast Guard,Construction Mechanic ,1931,1935,0,97,"['Food', 'Coffee', 'Work', 'Travel', 'Sports']",27215,0
+Kimberlie,Duenas,Space Force,Design ,1986,2011,0,50,"['Food', 'Write', 'Music', 'Sports']",67601,90
+Martina,Staback,Navy ,Construction Mechanic ,1996,2006,1,64,"['Food', 'Travel']",32822,30
+Skye,Fillingim,Air Force,Electricial ,1950,1966,1,88,"['Family', 'Dog', 'Sports', 'Music', 'Adventure']",55401,135
+Jade,Farrar,Marines,Field ,1999,2025,1,90,"['Write', 'Movies', 'Music']",29201,75
+Charlene,Hamilton,Army ,Field ,1945,1959,0,74,['Drink'],95407,135
+Geoffrey,Acey,Coast Guard,Construction Mechanic ,1977,1999,0,78,"['Sports', 'Work', 'Drink', 'Write']",60067,120
+Stevie,Westerbeck,Space Force,Design ,1991,2014,0,58,"['Food', 'Travel', 'Music', 'Drink']",92626,15
+Pamella,Fortino,Navy ,Construction Mechanic ,1934,1950,1,68,"['Movies', 'Adventure', 'Music', 'Write', 'Family', 'Sports', 'Food']",80212,60
+Harrison,Haufler,Air Force,Electricial ,1954,1972,0,96,"['Food', 'Write', 'Adventure', 'Movies']",6515,45
+Johnna,Engelberg,Navy ,Field ,1998,2003,1,43,"['Sports', 'Dog', 'Write', 'Travel', 'Work']",98021,75
+Buddy,Cloney,Air Force,Field ,1996,2009,0,74,"['Travel', 'Music', 'Adventure']",44136,150
+Dalene,Riden,Marines,Construction Mechanic ,1988,2003,1,63,"['Travel', 'Write']",3865,135
+Jerry,Zurcher,Army ,Design ,1931,1939,0,64,"['Travel', 'Food', 'Write', 'Sports', 'Coffee', 'Drink', 'Work']",32937,30
+Haydee,Denooyer,Coast Guard,Construction Mechanic ,1999,2015,1,41,"['Movies', 'Write', 'Sports', 'Dog', 'Coffee', 'Travel']",10016,105
+Joseph,Cryer,Space Force,Electricial ,1936,1938,0,77,"['Food', 'Movies', 'Dog', 'Work', 'Sports', 'Adventure']",92647,30
+Deonna,Kippley,Navy ,Field ,1941,1954,0,52,"['Music', 'Drink', 'Dog', 'Travel', 'Food']",48075,105
+Raymon,Calvaresi,Air Force,Field ,1980,1984,1,41,"['Write', 'Dog', 'Travel', 'Work', 'Family', 'Sports', 'Food']",46222,135
+Alecia,Bubash,Marines,Construction Mechanic ,1954,1971,1,93,"['Family', 'Adventure', 'Dog', 'Drink', 'Movies', 'Work']",76301,0
+Ma,Layous,Army ,Design ,1946,1971,1,91,"['Drink', 'Dog', 'Work', 'Food', 'Movies', 'Adventure']",6473,135
+Detra,Coyier,Coast Guard,Construction Mechanic ,1949,1951,0,88,"['Movies', 'Dog', 'Travel', 'Food', 'Drink', 'Write', 'Work']",21001,30
+Terrilyn,Rodeigues,Space Force,Electricial ,1956,1971,0,49,"['Work', 'Dog', 'Family', 'Drink', 'Adventure', 'Coffee']",70130,90
+Salome,Lacovara,Navy ,Field ,1980,1997,0,62,"['Write', 'Dog']",23219,120
+Garry,Keetch,Air Force,Field ,1992,2016,0,52,"['Sports', 'Dog']",18966,105
+Matthew,Neither,Navy ,Construction Mechanic ,1976,1982,1,83,"['Work', 'Adventure', 'Drink']",55379,135
+Theodora,Restrepo,Air Force,Design ,1994,2004,0,97,"['Dog', 'Drink', 'Family', 'Sports']",33136,150
+Noah,Kalafatis,Marines,Construction Mechanic ,1958,1974,1,42,"['Dog', 'Music', 'Movies', 'Food', 'Write', 'Family']",53209,75
+Carmen,Sweigard,Army ,Electricial ,1932,1947,1,61,"['Travel', 'Family', 'Adventure', 'Sports', 'Dog']",8873,120
+Lavonda,Hengel,Coast Guard,Field ,1963,1989,0,54,"['Sports', 'Family', 'Movies', 'Drink', 'Adventure', 'Dog']",58102,15
+Junita,Stoltzman,Space Force,Field ,1975,1990,1,97,"['Family', 'Movies']",89701,120
+Herminia,Nicolozakes,Navy ,Construction Mechanic ,1983,2008,0,58,"['Adventure', 'Sports']",85254,30
+Casie,Good,Air Force,Design ,1949,1962,0,62,"['Sports', 'Family', 'Adventure', 'Work', 'Music', 'Dog']",37211,75
+Reena,Maisto,Marines,Construction Mechanic ,1935,1958,1,50,"['Write', 'Drink', 'Travel']",21801,45
+Mirta,Mallett,Army ,Electricial ,1981,1988,1,63,"['Movies', 'Write', 'Adventure', 'Dog', 'Family', 'Travel', 'Work']",10004,30
+Cathrine,Pontoriero,Coast Guard,Field ,1975,1990,1,44,"['Family', 'Adventure']",79109,120
+Filiberto,Tawil,Space Force,Field ,1965,1984,1,54,"['Write', 'Movies', 'Food', 'Travel']",90016,60
+Raul,Upthegrove,Navy ,Construction Mechanic ,1986,1993,0,89,"['Family', 'Dog']",91942,120
+Sarah,Candlish,Air Force,Design ,1981,1984,1,77,"['Sports', 'Drink']",30328,15
+Lucy,Treston,Navy ,Construction Mechanic ,1947,1950,0,92,['Music'],1602,105
+Judy,Aquas,Air Force,Electricial ,1990,1995,0,55,"['Travel', 'Family']",49120,15
+Yvonne,Tjepkema,Marines,Field ,1972,1981,1,55,"['Food', 'Travel', 'Movies', 'Family']",7004,105
+Kayleigh,Lace,Army ,Field ,1978,1990,0,97,"['Write', 'Food', 'Sports', 'Movies', 'Family']",70508,120
+Felix,Hirpara,Coast Guard,Construction Mechanic ,1949,1955,1,62,"['Adventure', 'Sports', 'Write', 'Coffee', 'Dog']",17517,120
+Tresa,Sweely,Space Force,Design ,1953,1958,0,50,"['Adventure', 'Coffee', 'Movies', 'Music', 'Food']",63088,15
+Kristeen,Turinetti,Navy ,Construction Mechanic ,1973,1974,0,73,"['Family', 'Coffee', 'Sports', 'Adventure', 'Drink', 'Food', 'Dog']",76013,75
+Jenelle,Regusters,Air Force,Electricial ,1985,2008,0,36,"['Food', 'Family', 'Adventure']",33619,75
+Renea,Monterrubio,Marines,Field ,1959,1967,0,40,"['Food', 'Music', 'Drink']",30328,90
+Olive,Matuszak,Army ,Field ,1983,1997,1,86,"['Family', 'Travel', 'Movies']",92234,105
+Ligia,Reiber,Coast Guard,Construction Mechanic ,1945,1960,0,80,"['Travel', 'Family', 'Music', 'Sports']",48933,75
+Christiane,Eschberger,Space Force,Design ,1953,1967,0,49,"['Drink', 'Travel', 'Adventure', 'Work', 'Music', 'Dog']",85034,30
+Goldie,Schirpke,Navy ,Construction Mechanic ,1936,1944,0,68,"['Family', 'Music', 'Adventure', 'Write', 'Food', 'Work']",4401,30
+Loreta,Timenez,Air Force,Electricial ,1944,1964,1,84,"['Drink', 'Coffee', 'Adventure']",20735,90
+Fabiola,Hauenstein,Navy ,Field ,1991,1996,0,77,"['Drink', 'Sports']",17404,75
+Amie,Perigo,Air Force,Field ,1970,1989,0,58,"['Family', 'Food', 'Sports', 'Write']",75150,0
+Raina,Brachle,Marines,Construction Mechanic ,1974,1984,1,92,"['Drink', 'Dog']",59701,30
+Erinn,Canlas,Army ,Design ,1945,1958,0,52,"['Work', 'Food', 'Travel', 'Adventure']",7039,15
+Cherry,Lietz,Coast Guard,Construction Mechanic ,1991,1992,0,73,"['Music', 'Coffee', 'Adventure']",48329,75
+Kattie,Vonasek,Space Force,Electricial ,1987,2007,0,91,"['Coffee', 'Sports', 'Drink']",44103,135
+Lilli,Scriven,Navy ,Field ,1959,1980,0,94,['Family'],79601,135
+Whitley,Tomasulo,Air Force,Field ,1995,2009,1,97,"['Drink', 'Work', 'Movies', 'Dog', 'Family', 'Coffee']",76107,60
+Barbra,Adkin,Marines,Construction Mechanic ,1991,2007,0,95,"['Food', 'Adventure', 'Travel', 'Work', 'Coffee', 'Family']",11230,45
+Hermila,Thyberg,Army ,Design ,1960,1968,1,60,"['Coffee', 'Family', 'Movies', 'Sports', 'Travel']",2903,105
+Jesusita,Flister,Coast Guard,Construction Mechanic ,1990,1998,0,94,"['Travel', 'Family', 'Drink', 'Food', 'Coffee', 'Write', 'Movies']",17601,15
+Caitlin,Julia,Space Force,Electricial ,1965,1971,0,91,"['Adventure', 'Drink', 'Coffee', 'Food']",2919,45
+Roosevelt,Hoffis,Navy ,Field ,1962,1986,0,86,"['Food', 'Movies', 'Write']",33014,15
+Helaine,Halter,Air Force,Field ,1959,1965,0,86,"['Write', 'Travel', 'Movies', 'Family', 'Sports', 'Music', 'Drink']",7304,90
+Lorean,Martabano,Navy ,Construction Mechanic ,1964,1973,0,99,"['Write', 'Work', 'Dog', 'Movies', 'Drink']",78204,60
+France,Buzick,Air Force,Design ,1978,1988,0,77,"['Movies', 'Food', 'Write', 'Sports', 'Drink']",11219,105
+Justine,Ferrario,Marines,Construction Mechanic ,1984,2010,0,67,"['Sports', 'Food', 'Movies', 'Family', 'Travel']",91768,60
+Adelina,Nabours,Army ,Electricial ,1987,1989,0,38,"['Dog', 'Family', 'Music', 'Travel', 'Sports']",44103,45
+Derick,Dhamer,Coast Guard,Field ,1995,2010,0,39,"['Music', 'Movies', 'Family', 'Sports']",10013,30
+Jerry,Dallen,Space Force,Field ,1968,1977,1,88,"['Music', 'Family', 'Write', 'Coffee', 'Sports']",23219,90
+Leota,Ragel,Navy ,Construction Mechanic ,1962,1977,1,91,"['Dog', 'Music', 'Work', 'Movies', 'Food']",30753,105
+Jutta,Amyot,Air Force,Design ,1931,1944,1,68,"['Work', 'Food', 'Dog', 'Drink', 'Travel']",70518,105
+Aja,Gehrett,Marines,Construction Mechanic ,1942,1960,0,52,"['Sports', 'Family', 'Music', 'Write', 'Food', 'Adventure']",7110,120
+Kirk,Herritt,Army ,Electricial ,1985,1989,1,79,"['Drink', 'Travel', 'Write', 'Adventure']",13850,150
+Leonora,Mauson,Coast Guard,Field ,1983,1992,1,49,"['Music', 'Work', 'Dog', 'Adventure', 'Travel', 'Sports']",7055,90
+Winfred,Brucato,Space Force,Field ,1946,1949,1,60,"['Food', 'Drink', 'Coffee', 'Sports', 'Music', 'Travel', 'Adventure']",83843,120
+Tarra,Nachor,Navy ,Construction Mechanic ,1996,2004,0,80,"['Drink', 'Write', 'Adventure', 'Food', 'Work', 'Family']",94104,15
+Corinne,Loder,Air Force,Design ,1938,1958,1,52,"['Work', 'Family', 'Coffee', 'Movies', 'Food', 'Travel', 'Adventure']",2760,150
+Dulce,Labreche,Navy ,Construction Mechanic ,1945,1963,0,42,"['Family', 'Dog', 'Movies', 'Work', 'Coffee', 'Write', 'Sports']",48307,15
+Kate,Keneipp,Air Force,Electricial ,1968,1972,0,95,"['Travel', 'Drink', 'Movies', 'Write']",54301,120
+Kaitlyn,Ogg,Marines,Field ,1933,1937,0,93,"['Dog', 'Work']",21230,75
+Sherita,Saras,Army ,Field ,1937,1954,1,66,"['Travel', 'Sports', 'Family']",80937,15
+Lashawnda,Stuer,Coast Guard,Construction Mechanic ,1990,2016,1,64,"['Drink', 'Family', 'Adventure', 'Sports', 'Food', 'Movies']",43607,30
+Ernest,Syrop,Space Force,Design ,1937,1959,1,40,"['Adventure', 'Work']",20785,150
+Nobuko,Halsey,Navy ,Construction Mechanic ,1981,1995,0,79,"['Food', 'Coffee', 'Music', 'Adventure', 'Work', 'Drink']",2745,30
+Lavonna,Wolny,Air Force,Electricial ,1937,1946,1,68,"['Sports', 'Adventure', 'Dog', 'Movies', 'Family', 'Music']",22102,60
+Lashaunda,Lizama,Marines,Field ,1964,1990,0,88,"['Food', 'Drink', 'Adventure', 'Family', 'Travel']",21076,135
+Mariann,Bilden,Army ,Field ,1973,1995,0,68,"['Work', 'Music', 'Food', 'Sports', 'Coffee', 'Travel']",78753,135
+Helene,Rodenberger,Coast Guard,Construction Mechanic ,1941,1955,0,83,"['Coffee', 'Drink', 'Music']",85381,75
+Roselle,Estell,Space Force,Design ,1989,2007,1,46,"['Coffee', 'Dog', 'Travel', 'Food', 'Drink', 'Write']",44820,105
+Samira,Heintzman,Navy ,Construction Mechanic ,1957,1962,0,78,"['Sports', 'Adventure', 'Movies', 'Drink', 'Food']",98032,45
+Margart,Meisel,Air Force,Electricial ,1994,2015,0,61,"['Music', 'Adventure', 'Travel', 'Sports']",45251,30
+Kristofer,Bennick,Navy ,Field ,1951,1961,1,76,"['Adventure', 'Sports', 'Family', 'Movies']",47404,105
+Weldon,Acuff,Air Force,Field ,1937,1942,0,38,"['Movies', 'Work', 'Adventure', 'Write']",60004,0
+Shalon,Shadrick,Marines,Construction Mechanic ,1972,1998,1,79,"['Travel', 'Music', 'Dog']",11223,15
+Denise,Patak,Army ,Design ,1963,1965,0,86,"['Movies', 'Coffee', 'Drink', 'Write']",32801,45
+Louvenia,Beech,Coast Guard,Construction Mechanic ,1953,1955,1,94,"['Coffee', 'Dog']",90210,30
+Audry,Yaw,Space Force,Electricial ,1985,1995,0,68,"['Travel', 'Write', 'Drink', 'Work', 'Adventure']",33511,120
+Kristel,Ehmann,Navy ,Field ,1955,1974,1,89,"['Family', 'Sports', 'Coffee', 'Music', 'Write', 'Dog', 'Travel']",79925,90
+Vincenza,Zepp,Air Force,Field ,1949,1963,1,42,"['Movies', 'Travel']",92020,120
+Elouise,Gwalthney,Marines,Construction Mechanic ,1946,1951,1,97,"['Food', 'Drink']",20710,120
+Venita,Maillard,Army ,Design ,1965,1974,1,36,"['Food', 'Travel', 'Movies', 'Adventure']",92801,150
+Kasandra,Semidey,Coast Guard,Construction Mechanic ,1953,1969,0,66,"['Sports', 'Adventure', 'Family', 'Food', 'Write']",63102,75
+Xochitl,Discipio,Space Force,Electricial ,1963,1988,0,72,"['Drink', 'Music', 'Movies', 'Family']",78664,120
+Maile,Linahan,Navy ,Field ,1959,1976,0,77,"['Travel', 'Music', 'Write', 'Food', 'Coffee', 'Work']",27409,0
+Krissy,Rauser,Air Force,Field ,1968,1983,1,42,"['Drink', 'Music', 'Movies', 'Dog']",11727,105
+Pete,Dubaldi,Navy ,Construction Mechanic ,1984,2001,0,86,"['Write', 'Family', 'Food', 'Sports', 'Dog']",7071,105
+Linn,Paa,Air Force,Design ,1958,1975,0,39,"['Music', 'Work', 'Travel']",38112,45
+Paris,Wide,Marines,Construction Mechanic ,1943,1964,0,75,"['Dog', 'Work', 'Write', 'Sports', 'Drink']",30342,150
+Wynell,Dorshorst,Army ,Electricial ,1993,2003,1,41,"['Music', 'Family', 'Write', 'Food', 'Drink']",94044,105
+Quentin,Birkner,Coast Guard,Field ,1993,1994,0,48,"['Coffee', 'Sports', 'Travel']",55337,120
+Regenia,Kannady,Space Force,Field ,1940,1954,1,98,"['Drink', 'Music', 'Coffee', 'Adventure', 'Travel', 'Family']",85260,105
+Sheron,Louissant,Navy ,Construction Mechanic ,1949,1950,1,43,"['Music', 'Food', 'Sports', 'Travel', 'Drink']",11101,15
+Izetta,Funnell,Air Force,Design ,1972,1983,1,82,"['Movies', 'Write', 'Sports', 'Travel', 'Adventure']",30340,60
+Rodolfo,Butzen,Marines,Construction Mechanic ,1990,2015,1,79,"['Sports', 'Write', 'Coffee', 'Work', 'Food']",55057,15
+Zona,Colla,Army ,Electricial ,1965,1979,0,46,"['Coffee', 'Food', 'Movies', 'Travel', 'Family']",6854,60
+Serina,Zagen,Coast Guard,Field ,1964,1976,1,86,"['Family', 'Write', 'Music']",46802,60
+Paz,Sahagun,Space Force,Field ,1962,1986,0,45,"['Adventure', 'Dog', 'Coffee', 'Music', 'Work', 'Travel', 'Food']",39307,90
+Markus,Lukasik,Navy ,Construction Mechanic ,1956,1962,0,92,"['Travel', 'Music', 'Sports', 'Write', 'Work', 'Adventure']",48310,15
+Jaclyn,Bachman,Air Force,Design ,1964,1975,0,76,"['Adventure', 'Sports']",80919,90
+Cyril,Daufeldt,Navy ,Construction Mechanic ,1965,1967,0,100,"['Work', 'Dog', 'Sports', 'Write', 'Family']",10013,120
+Gayla,Schnitzler,Air Force,Electricial ,1989,2008,0,71,"['Write', 'Drink', 'Dog', 'Travel']",94545,45
+Erick,Nievas,Marines,Field ,1953,1962,0,79,"['Coffee', 'Travel', 'Music']",60624,135
+Jennie,Drymon,Army ,Field ,1993,2005,0,56,"['Coffee', 'Sports', 'Travel', 'Dog']",18509,45
+Mitsue,Scipione,Coast Guard,Construction Mechanic ,1962,1970,1,76,"['Travel', 'Coffee', 'Movies', 'Sports']",95965,120
+Ciara,Ventura,Space Force,Design ,1991,1993,1,40,"['Music', 'Dog']",12771,45
+Galen,Cantres,Navy ,Construction Mechanic ,1989,2013,1,72,"['Adventure', 'Write']",44142,75
+Truman,Feichtner,Air Force,Electricial ,1961,1962,0,57,"['Family', 'Coffee', 'Work']",7003,150
+Gail,Kitty,Marines,Field ,1934,1957,0,84,"['Food', 'Movies', 'Adventure', 'Coffee', 'Write', 'Drink', 'Music']",99501,75
+Dalene,Schoeneck,Army ,Field ,1937,1958,0,96,"['Write', 'Adventure', 'Food', 'Travel', 'Drink', 'Movies', 'Work', 'Coffee']",19102,105
+Gertude,Witten,Coast Guard,Construction Mechanic ,1991,2005,1,41,"['Sports', 'Music']",45217,60
+Lizbeth,Kohl,Space Force,Design ,1950,1960,0,53,"['Food', 'Music']",90248,120
+Glenn,Berray,Navy ,Construction Mechanic ,1968,1974,0,64,"['Family', 'Music']",50315,90
+Lashandra,Klang,Air Force,Electricial ,1940,1944,1,59,"['Work', 'Drink', 'Food', 'Family', 'Music', 'Travel']",19406,105
+Lenna,Newville,Navy ,Field ,1987,2008,0,93,"['Work', 'Music', 'Drink', 'Food']",27601,30
+Laurel,Pagliuca,Air Force,Field ,1940,1946,1,79,['Drink'],99352,30
+Mireya,Frerking,Marines,Construction Mechanic ,1958,1962,0,75,"['Coffee', 'Music', 'Work']",10803,30
+Annelle,Tagala,Army ,Design ,1953,1967,0,52,"['Food', 'Coffee', 'Dog', 'Sports']",21234,15
+Dean,Ketelsen,Coast Guard,Construction Mechanic ,1955,1974,1,54,"['Food', 'Adventure', 'Music', 'Sports', 'Movies', 'Dog', 'Family']",11801,90
+Levi,Munis,Space Force,Electricial ,1957,1981,0,91,"['Food', 'Sports', 'Coffee', 'Drink', 'Movies']",1603,120
+Sylvie,Ryser,Navy ,Field ,1942,1954,1,55,"['Food', 'Movies', 'Dog', 'Write', 'Coffee']",74105,15
+Sharee,Maile,Air Force,Field ,1942,1961,1,66,"['Family', 'Food', 'Work', 'Dog', 'Write', 'Drink']",49442,15
+Cordelia,Storment,Marines,Construction Mechanic ,1951,1974,0,94,"['Dog', 'Travel', 'Work']",70506,90
+Mollie,Mcdoniel,Army ,Design ,1962,1963,0,89,"['Write', 'Drink']",43402,90
+Brett,Mccullan,Coast Guard,Construction Mechanic ,1971,1993,1,75,"['Sports', 'Work', 'Write', 'Adventure', 'Dog']",91942,15
+Teddy,Pedrozo,Space Force,Electricial ,1970,1976,0,51,"['Coffee', 'Travel', 'Work', 'Write', 'Movies', 'Drink', 'Dog']",6610,15
+Tasia,Andreason,Navy ,Field ,1944,1949,1,38,"['Family', 'Drink', 'Food', 'Write', 'Sports']",7032,135
+Hubert,Walthall,Air Force,Field ,1963,1974,1,66,"['Family', 'Drink']",44203,30
+Arthur,Farrow,Navy ,Construction Mechanic ,1990,1995,0,76,"['Adventure', 'Drink', 'Food', 'Family']",7631,0
+Vilma,Berlanga,Air Force,Design ,1960,1976,1,99,"['Travel', 'Coffee', 'Sports', 'Music']",49546,30
+Billye,Miro,Marines,Construction Mechanic ,1945,1962,0,67,"['Drink', 'Food', 'Coffee', 'Sports']",39208,60
+Glenna,Slayton,Army ,Electricial ,1989,2005,1,75,"['Family', 'Travel', 'Sports', 'Food']",38118,120
+Mitzie,Hudnall,Coast Guard,Field ,1952,1958,0,53,"['Family', 'Travel', 'Coffee']",80110,30
+Bernardine,Rodefer,Space Force,Field ,1966,1978,1,74,"['Work', 'Write', 'Adventure', 'Movies', 'Coffee', 'Food', 'Sports']",38112,120
+Staci,Schmaltz,Navy ,Construction Mechanic ,1964,1987,1,44,"['Music', 'Dog', 'Drink', 'Write']",91106,105
+Nichelle,Meteer,Air Force,Design ,1951,1976,1,89,"['Dog', 'Sports', 'Coffee']",60657,120
+Janine,Rhoden,Marines,Construction Mechanic ,1936,1938,1,58,"['Travel', 'Family', 'Coffee']",11103,60
+Ettie,Hoopengardner,Army ,Electricial ,1951,1968,1,36,"['Music', 'Drink']",99352,45
+Eden,Jayson,Coast Guard,Field ,1990,2008,1,76,"['Coffee', 'Drink', 'Food', 'Movies', 'Travel', 'Work', 'Family']",21202,15
+Lynelle,Auber,Space Force,Field ,1936,1960,1,51,"['Food', 'Music']",7104,30
+Merissa,Tomblin,Navy ,Construction Mechanic ,1998,2023,1,77,"['Dog', 'Travel', 'Food', 'Work', 'Family']",90706,90
+Golda,Kaniecki,Air Force,Design ,1944,1962,1,74,"['Drink', 'Coffee', 'Work', 'Food']",8755,0
+Catarina,Gleich,Navy ,Construction Mechanic ,1950,1971,0,67,"['Dog', 'Movies', 'Travel', 'Music', 'Drink', 'Sports', 'Adventure']",7834,120
+Virgie,Kiel,Air Force,Electricial ,1997,2002,0,80,"['Food', 'Coffee', 'Music', 'Family', 'Movies', 'Dog', 'Adventure', 'Drink']",80216,105
+Jolene,Ostolaza,Marines,Field ,1958,1979,1,71,"['Sports', 'Dog', 'Music', 'Coffee']",23608,105
+Keneth,Borgman,Army ,Field ,1975,1977,0,44,"['Travel', 'Drink', 'Write', 'Movies', 'Dog', 'Music']",85012,60
+Rikki,Nayar,Coast Guard,Construction Mechanic ,1998,2018,1,61,"['Adventure', 'Music', 'Family', 'Write', 'Sports']",33155,45
+Elke,Sengbusch,Space Force,Design ,1954,1976,1,96,"['Sports', 'Dog', 'Coffee', 'Work']",85013,60
+Hoa,Sarao,Navy ,Construction Mechanic ,1944,1946,0,53,"['Work', 'Drink', 'Write', 'Music']",32759,60
+Trinidad,Mcrae,Air Force,Electricial ,1946,1969,0,59,['Family'],94105,75
+Mari,Lueckenbach,Marines,Field ,1938,1952,0,100,"['Coffee', 'Travel', 'Family', 'Write', 'Music']",92110,135
+Selma,Husser,Army ,Field ,1965,1986,1,83,"['Movies', 'Food', 'Write', 'Coffee']",7306,135
+Antione,Onofrio,Coast Guard,Construction Mechanic ,1942,1949,0,95,"['Coffee', 'Travel', 'Write', 'Music', 'Movies', 'Drink']",92410,75
+Luisa,Jurney,Space Force,Design ,1986,1997,1,70,"['Write', 'Food', 'Music']",2138,15
+Clorinda,Heimann,Navy ,Construction Mechanic ,1948,1954,0,65,"['Dog', 'Food', 'Music']",92025,15
+Dick,Wenzinger,Air Force,Electricial ,1988,1994,1,83,"['Food', 'Dog', 'Family', 'Movies']",90248,45
+Ahmed,Angalich,Navy ,Field ,1949,1958,0,81,"['Travel', 'Sports', 'Drink', 'Music']",17110,90
+Iluminada,Ohms,Air Force,Field ,1942,1946,1,51,"['Sports', 'Drink', 'Dog', 'Family']",85204,60
+Joanna,Leinenbach,Marines,Construction Mechanic ,1981,1988,0,71,"['Drink', 'Family']",33461,90
+Caprice,Suell,Army ,Design ,1969,1988,0,81,"['Food', 'Movies', 'Write', 'Sports', 'Dog', 'Family', 'Adventure']",37211,90
+Stephane,Myricks,Coast Guard,Construction Mechanic ,1980,1999,1,66,"['Write', 'Drink', 'Movies']",41005,15
+Quentin,Swayze,Space Force,Electricial ,1955,1956,0,58,"['Music', 'Write', 'Work']",48160,75
+Annmarie,Castros,Navy ,Field ,1969,1991,1,85,"['Family', 'Movies', 'Write', 'Adventure', 'Food', 'Coffee', 'Work']",77301,120
+Shonda,Greenbush,Air Force,Field ,1975,1982,0,57,"['Dog', 'Movies', 'Adventure', 'Sports', 'Music', 'Write', 'Drink']",7011,0
+Cecil,Lapage,Marines,Construction Mechanic ,1994,2007,1,35,"['Write', 'Travel', 'Adventure', 'Coffee', 'Work', 'Family']",7087,150
+Jeanice,Claucherty,Army ,Design ,1951,1959,1,45,"['Adventure', 'Work']",33142,75
+Josphine,Villanueva,Coast Guard,Construction Mechanic ,1930,1940,0,90,"['Drink', 'Coffee', 'Movies', 'Travel', 'Food']",38575,90
+Daniel,Perruzza,Space Force,Electricial ,1973,1993,0,45,"['Sports', 'Travel', 'Coffee', 'Food', 'Dog']",92705,90
+Cassi,Wildfong,Navy ,Field ,1955,1969,0,48,"['Drink', 'Coffee', 'Write', 'Travel', 'Dog']",60008,15
+Britt,Galam,Air Force,Field ,1948,1970,0,87,"['Write', 'Movies', 'Family']",19440,75
+Adell,Lipkin,Navy ,Construction Mechanic ,1941,1962,1,87,"['Sports', 'Travel']",7981,75
+Jacqueline,Rowling,Air Force,Design ,1995,2020,0,89,"['Sports', 'Travel', 'Food', 'Drink']",16501,60
+Lonny,Weglarz,Marines,Construction Mechanic ,1968,1990,0,100,"['Travel', 'Food']",84115,75
+Lonna,Diestel,Army ,Electricial ,1975,1990,1,58,"['Dog', 'Travel', 'Drink']",28301,30
+Cristal,Samara,Coast Guard,Field ,1964,1990,1,41,"['Dog', 'Travel', 'Adventure', 'Drink', 'Work']",90021,150
+Kenneth,Grenet,Space Force,Field ,1943,1949,1,63,"['Write', 'Sports']",48823,105
+Elli,Mclaird,Navy ,Construction Mechanic ,1983,1990,0,78,"['Drink', 'Coffee', 'Travel']",13501,15
+Alline,Jeanty,Air Force,Design ,1944,1969,1,61,"['Music', 'Adventure', 'Travel', 'Movies', 'Food']",46601,90
+Sharika,Eanes,Marines,Construction Mechanic ,1967,1990,1,40,"['Adventure', 'Sports']",32806,45
+Nu,Mcnease,Army ,Electricial ,1941,1942,0,40,"['Drink', 'Work']",7029,60
+Daniela,Comnick,Coast Guard,Field ,1983,1999,1,57,"['Movies', 'Family', 'Coffee', 'Music', 'Write']",8611,30
+Cecilia,Colaizzo,Space Force,Field ,1935,1956,0,99,"['Sports', 'Family', 'Dog', 'Travel', 'Food', 'Write', 'Drink']",53717,30
+Leslie,Threets,Navy ,Construction Mechanic ,1954,1968,0,99,"['Drink', 'Write', 'Coffee', 'Work']",10536,15
+Nan,Koppinger,Air Force,Design ,1997,2000,1,62,"['Family', 'Food', 'Music', 'Drink', 'Dog']",27401,15
+Izetta,Dewar,Navy ,Construction Mechanic ,1956,1962,0,68,"['Dog', 'Drink', 'Sports']",21217,30
+Tegan,Arceo,Air Force,Electricial ,1991,2012,1,39,"['Write', 'Dog', 'Coffee', 'Family', 'Travel']",8831,120
+Ruthann,Keener,Marines,Field ,1997,2008,1,69,"['Travel', 'Dog', 'Drink', 'Sports']",78028,15
+Joni,Breland,Army ,Field ,1987,2006,0,94,['Write'],60007,120
+Vi,Rentfro,Coast Guard,Construction Mechanic ,1944,1953,1,100,"['Work', 'Movies']",7728,90
+Colette,Kardas,Space Force,Design ,1982,1993,0,89,"['Work', 'Coffee', 'Travel', 'Food', 'Drink']",68124,60
+Malcolm,Tromblay,Navy ,Construction Mechanic ,1936,1940,1,71,"['Write', 'Travel', 'Dog', 'Food', 'Coffee', 'Music', 'Drink']",22003,75
+Ryan,Harnos,Air Force,Electricial ,1937,1957,1,50,"['Work', 'Sports', 'Dog', 'Movies', 'Adventure', 'Family']",75075,75
+Jess,Chaffins,Marines,Field ,1950,1952,1,50,"['Work', 'Food']",10016,90
+Sharen,Bourbon,Army ,Field ,1944,1948,0,36,"['Music', 'Coffee', 'Write', 'Sports']",11791,105
+Nickolas,Juvera,Coast Guard,Construction Mechanic ,1946,1955,1,68,"['Coffee', 'Family', 'Food', 'Drink']",34429,75
+Gary,Nunlee,Space Force,Design ,1966,1989,0,38,"['Coffee', 'Adventure', 'Music', 'Work']",46040,15
+Diane,Devreese,Navy ,Construction Mechanic ,1932,1937,1,39,"['Travel', 'Music', 'Dog']",64504,135
+Roslyn,Chavous,Air Force,Electricial ,1987,2004,1,93,"['Travel', 'Sports']",39211,135
+Glory,Schieler,Navy ,Field ,1978,1982,1,77,"['Travel', 'Dog', 'Music', 'Food', 'Sports']",79602,105
+Rasheeda,Sayaphon,Air Force,Field ,1942,1958,1,59,"['Food', 'Drink', 'Travel']",95070,105
+Alpha,Palaia,Marines,Construction Mechanic ,1934,1952,1,93,"['Sports', 'Coffee']",8003,120
+Refugia,Jacobos,Army ,Design ,1978,2000,1,87,"['Write', 'Drink']",94545,0
+Shawnda,Yori,Coast Guard,Construction Mechanic ,1931,1951,1,88,"['Food', 'Travel', 'Drink', 'Movies', 'Dog', 'Family', 'Adventure']",32750,45
+Mona,Delasancha,Space Force,Electricial ,1973,1990,1,97,"['Food', 'Work', 'Write', 'Music', 'Movies', 'Coffee', 'Dog']",82001,60
+Gilma,Liukko,Navy ,Field ,1948,1966,1,73,"['Travel', 'Family', 'Adventure', 'Drink', 'Work']",11530,90
+Janey,Gabisi,Air Force,Field ,1949,1970,0,64,"['Family', 'Adventure', 'Sports', 'Travel', 'Dog', 'Movies']",53715,30
+Lili,Paskin,Marines,Construction Mechanic ,1965,1968,0,69,"['Movies', 'Work', 'Adventure', 'Dog', 'Drink']",7032,90
+Loren,Asar,Army ,Design ,1975,1992,0,63,"['Sports', 'Music', 'Write', 'Family']",18518,105
+Dorothy,Chesterfield,Coast Guard,Construction Mechanic ,1952,1956,0,98,"['Dog', 'Coffee', 'Food', 'Travel', 'Music']",92126,45
+Gail,Similton,Space Force,Electricial ,1940,1954,1,44,"['Adventure', 'Family', 'Sports', 'Music']",92276,120
+Catalina,Tillotson,Navy ,Field ,1969,1995,1,74,"['Food', 'Travel', 'Write', 'Dog', 'Movies']",8402,135
+Lawrence,Lorens,Air Force,Field ,1938,1957,1,38,"['Family', 'Drink', 'Coffee', 'Adventure', 'Food', 'Travel']",2906,120
+Carlee,Boulter,Navy ,Construction Mechanic ,1960,1977,0,51,"['Family', 'Coffee']",67410,135
+Thaddeus,Ankeny,Air Force,Design ,1949,1974,0,83,"['Dog', 'Family', 'Travel', 'Coffee', 'Work', 'Drink']",95678,0
+Jovita,Oles,Marines,Construction Mechanic ,1980,1999,1,37,"['Travel', 'Movies', 'Drink']",32114,45
+Alesia,Hixenbaugh,Army ,Electricial ,1970,1988,0,73,"['Adventure', 'Travel']",20001,60
+Lai,Harabedian,Coast Guard,Field ,1976,1991,0,66,"['Food', 'Dog', 'Sports']",94945,15
+Brittni,Gillaspie,Space Force,Field ,1934,1945,0,63,"['Work', 'Sports', 'Dog', 'Travel', 'Write', 'Drink', 'Coffee']",83709,120
+Raylene,Kampa,Navy ,Construction Mechanic ,1958,1979,1,55,"['Food', 'Movies']",46514,30
+Flo,Bookamer,Air Force,Design ,1980,1992,1,56,"['Dog', 'Travel']",69301,120
+Jani,Biddy,Marines,Construction Mechanic ,1954,1969,0,64,"['Family', 'Travel']",98104,135
+Chauncey,Motley,Army ,Electricial ,1986,1998,1,79,"['Drink', 'Family', 'Dog', 'Travel', 'Work']",32804,135
