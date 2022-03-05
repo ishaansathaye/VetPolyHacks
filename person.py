@@ -18,6 +18,6 @@ class Person():
         self.max_rad = float(max_radius)
 
 #sample
-row = next(csv_reader)
-sample_person = Person(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
-print(sample_person.interests)
+# row = next(csv_reader)
+# sample_person = Person(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+# print(sample_person.interests)
