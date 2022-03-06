@@ -7,7 +7,7 @@ from Scrape import db
 from Scrape.General import General
 import sqlite3
 from flask_login import login_user, logout_user, login_required
-
+from groupmatcher import initialize_groups, find_closest_events, calculate_distance
 
 @app.route("/")
 @app.route("/home")
@@ -98,12 +98,13 @@ def loginPage():
             username=form.usernameOrEmail.data).first()
         if enteredUser and enteredUser.checkPassword(enteredPwd=form.pwd.data):
             login_user(enteredUser)
+            txt = open("logins.txt", "w")
+            txt.write(enteredUser.username)
             flash(f"Welcome back, {enteredUser.username}", category='success')
             return redirect(url_for('dealsPage'))
         else:
             flash(
                 f"Invalid username or password. Try again or create an account.", category='danger')
-
     return render_template('login.html', form=form)
 
 
@@ -127,8 +128,10 @@ def preferencePage():
 @app.route("/groupPage")
 # event,desc,time,location,register
 def groupPage():
-    conn = sqlite3.connect("market.db")
-    c = conn.cursor()
+    veterans = initialize_groups()
+    f = open("logins.txt", "w")
+    id = f.read().trim()
+    events = find_closest_events(veterans, id)
     # upcoming_events = ["Meet and Greet", "Sunday Breakfast"]
     # descs = ["Meets every 2 weeks.\nCome meet other veterans\nin your area, and connect with industry professionals!\nAttend for as long as you wish.",
     #          "Enjoy a hearty breakfast with other veterans!"]
