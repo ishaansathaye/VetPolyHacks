@@ -14,7 +14,7 @@ class Person():
         self.l_year = int(l_year)
         self.meet = bool(meet)
         self.age = int(age)
-        self.interests = interests.split()
+        self.interests = interests.split(", ")
         self.zip = zip
         self.max_rad = float(max_radius)
 
