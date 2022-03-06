@@ -1,7 +1,7 @@
-User ID ,First Name,Last Name,Branch Served,Role,First Year of Service ,Last Year of Service,Willing to meet at home,Age ,Interests ,Zip Code ,Max Relocation Radius 
+User ID ,First Name,Last Name,Branch Served,Role,First Year of Service ,Last Year of Service,Willing to meet at home,Age ,Interests ,ZIP,Max Relocation Radius 
 JB1994,James,Butt,Navy ,Construction Mechanic ,1994,1995,1,46,"Dog, Drink, Write, Music",70116,40
 JD1984,Josephine,Darakjy,Air Force,Electricial ,1984,2004,0,56,"Music, Sports, Write, Work, Drink",48116,0
-AV1962,Art,Venere,Marines,Field ,1962,1980,0,78,"Family, Music, Write",8014,120
+AV1962,Art,Venere,Marines,Field ,1962,1980,0,78,"Family, Music, Write",08014,120
 LP1964,Lenna,Paprocki,Army ,Field ,1964,1989,0,76,"Travel, Family, Coffee, Dog, Food, Sports",99501,15
 DF1989,Donette,Foller,Coast Guard,Construction Mechanic ,1989,1996,1,51,"Sports, Work, Drink, Movies, Write, Travel",45011,15
 SM1971,Simona,Morasca,Space Force,Design ,1971,1973,1,69,"Adventure, Travel, Write, Drink, Coffee",44805,15
@@ -23,7 +23,7 @@ BN1946,Bette,Nicka,Navy ,Field ,1946,1957,1,94,"Work, Travel, Music, Coffee, Spo
 VI1958,Veronika,Inouye,Air Force,Field ,1958,1962,0,82,"Travel, Coffee, Drink, Family, Write, Dog",95111,135
 WK1973,Willard,Kolmetz,Marines,Construction Mechanic ,1973,1991,0,67,"Sports, Adventure",75062,45
 MR1956,Maryann,Royster,Army ,Design ,1956,1981,1,84,"Dog, Write, Movies",12204,150
-AS1983,Alisha,Slusarski,Coast Guard,Construction Mechanic ,1983,2005,0,57,"Drink, Sports, Adventure, Music, Work",8846,135
+AS1983,Alisha,Slusarski,Coast Guard,Construction Mechanic ,1983,2005,0,57,"Drink, Sports, Adventure, Music, Work",08846,135
 AI1985,Allene,Iturbide,Space Force,Electricial ,1985,1995,1,55,"Travel, Food",54481,75
 CC1937,Chanel,Caudy,Navy ,Field ,1937,1938,1,103,"Drink, Dog, Travel, Coffee, Write, Sports, Adventure",66218,120
 EC1985,Ezekiel,Chui,Air Force,Field ,1985,2007,0,55,"Food, Movies",21601,75
@@ -31,8 +31,8 @@ WK1972,Willow,Kusko,Navy ,Construction Mechanic ,1972,1987,1,68,"Coffee, Work",1
 BF1981,Bernardo,Figeroa,Air Force,Design ,1981,1999,0,59,"Write, Food, Music, Family, Travel, Work, Dog",77301,105
 AC1937,Ammie,Corrio,Marines,Construction Mechanic ,1937,1960,1,103,"Adventure, Drink, Dog, Write, Coffee, Work, Family",43215,135
 FV1972,Francine,Vocelka,Army ,Electricial ,1972,1994,0,68,"Dog, Drink, Sports",88011,135
-ES1957,Ernie,Stenseth,Coast Guard,Field ,1957,1979,0,83,"Write, Travel, Family",7660,120
-AG1932,Albina,Glick,Space Force,Field ,1932,1942,1,108,"Movies, Write, Music, Dog, Food, Drink",8812,15
+ES1957,Ernie,Stenseth,Coast Guard,Field ,1957,1979,0,83,"Write, Travel, Family",07660,120
+AG1932,Albina,Glick,Space Force,Field ,1932,1942,1,108,"Movies, Write, Music, Dog, Food, Drink",08812,15
 AS1969,Alishia,Sergi,Navy ,Construction Mechanic ,1969,1983,0,71,"Movies, Family",10025,30
 SS1998,Solange,Shinko,Air Force,Design ,1998,2010,1,42,"Adventure, Drink, Food, Music",70002,135
 JS1931,Jose,Stockham,Marines,Construction Mechanic ,1931,1950,0,109,"Music, Coffee",10011,90
@@ -45,7 +45,7 @@ RC1976,Roxane,Campain,Navy ,Construction Mechanic ,1976,1989,1,64,"Music, Movies
 LP1951,Lavera,Perin,Air Force,Electricial ,1951,1968,0,89,"Adventure, Sports, Music, Family, Drink",33196,90
 EF1989,Erick,Ferencz,Marines,Field ,1989,2008,0,51,"Write, Coffee, Sports, Drink",99712,30
 FS1967,Fatima,Saylors,Army ,Field ,1967,1968,1,73,"Coffee, Movies, Dog, Work",55343,45
-JB1935,Jina,Briddick,Coast Guard,Construction Mechanic ,1935,1953,1,105,"Music, Drink",2128,75
+JB1935,Jina,Briddick,Coast Guard,Construction Mechanic ,1935,1953,1,105,"Music, Drink",02128,75
 KW1947,Kanisha,Waycott,Space Force,Design ,1947,1966,0,93,"Travel, Drink, Music, Family, Coffee, Sports",90006,150
 EB1991,Emerson,Bowley,Navy ,Construction Mechanic ,1991,2001,0,49,"Sports, Family",53711,90
 BM1937,Blair,Malet,Air Force,Electricial ,1937,1961,0,103,"Movies, Family, Adventure, Dog, Coffee",19132,30
@@ -53,14 +53,14 @@ BB1974,Brock,Bolognia,Marines,Field ,1974,1996,1,66,"Work, Sports, Dog, Music, F
 LN1960,Lorrie,Nestle,Army ,Field ,1960,1981,0,80,"Food, Movies, Dog, Music",37388,0
 SU1981,Sabra,Uyetake,Coast Guard,Construction Mechanic ,1981,1982,0,59,"Write, Sports, Travel, Family, Movies, Music, Drink",29201,90
 MM1971,Marjory,Mastella,Space Force,Design ,1971,1995,0,69,"Family, Sports, Dog, Adventure, Drink, Travel",19087,120
-KK1944,Karl,Klonowski,Navy ,Construction Mechanic ,1944,1954,0,96,"Music, Coffee, Write",8822,150
+KK1944,Karl,Klonowski,Navy ,Construction Mechanic ,1944,1954,0,96,"Music, Coffee, Write",08822,150
 TW1986,Tonette,Wenner,Air Force,Electricial ,1986,1987,1,54,"Family, Coffee, Movies, Work, Sports",11590,60
 AM1948,Amber,Monarrez,Navy ,Field ,1948,1970,0,92,"Music, Drink, Sports, Movies, Work",19046,150
 SS1934,Shenika,Seewald,Air Force,Field ,1934,1943,1,106,"Write, Dog, Adventure, Drink",91405,150
-DA1985,Delmy,Ahle,Marines,Construction Mechanic ,1985,1998,0,55,"Family, Music, Drink, Work, Coffee",2909,135
+DA1985,Delmy,Ahle,Marines,Construction Mechanic ,1985,1998,0,55,"Family, Music, Drink, Work, Coffee",02909,135
 DJ1965,Deeanna,Juhas,Army ,Design ,1965,1980,1,75,"Drink, Sports, Movies",19006,120
-BP1969,Blondell,Pugh,Coast Guard,Construction Mechanic ,1969,1970,0,71,"Work, Movies, Dog, Adventure, Write, Food",2904,105
-JV1954,Jamal,Vanausdal,Space Force,Electricial ,1954,1971,1,86,"Family, Coffee",8831,90
+BP1969,Blondell,Pugh,Coast Guard,Construction Mechanic ,1969,1970,0,71,"Work, Movies, Dog, Adventure, Write, Food",02904,105
+JV1954,Jamal,Vanausdal,Space Force,Electricial ,1954,1971,1,86,"Family, Coffee",08831,90
 CH1935,Cecily,Hollack,Navy ,Field ,1935,1938,0,105,"Drink, Work, Adventure, Travel, Write, Dog, Food",78731,75
 CL1966,Carmelina,Lindall,Air Force,Field ,1966,1987,1,74,"Sports, Write, Adventure, Drink, Dog, Family",80126,105
 MY1957,Maurine,Yglesias,Marines,Construction Mechanic ,1957,1970,0,83,"Write, Family, Dog, Drink",53214,135
@@ -76,9 +76,9 @@ MR1990,Micaela,Rhymes,Army ,Electricial ,1990,2007,0,50,"Family, Food",94520,90
 TH1999,Tamar,Hoogland,Coast Guard,Field ,1999,2011,0,41,"Food, Coffee, Music, Movies, Write, Travel",43140,75
 MP1991,Moon,Parlato,Space Force,Field ,1991,2000,0,49,"Write, Family, Work, Coffee, Drink",14895,60
 LR1971,Laurel,Reitler,Navy ,Construction Mechanic ,1971,1977,0,69,"Coffee, Write, Sports, Work, Food",21215,15
-DC1983,Delisa,Crupi,Air Force,Design ,1983,1996,1,57,"Food, Sports, Dog",7105,150
+DC1983,Delisa,Crupi,Air Force,Design ,1983,1996,1,57,"Food, Sports, Dog",07105,150
 VT1952,Viva,Toelkes,Marines,Construction Mechanic ,1952,1970,1,88,"Music, Travel, Write, Adventure, Drink, Family",60647,30
-EL1982,Elza,Lipke,Army ,Electricial ,1982,2007,0,58,"Food, Sports",7104,120
+EL1982,Elza,Lipke,Army ,Electricial ,1982,2007,0,58,"Food, Sports",07104,120
 DC1951,Devorah,Chickering,Coast Guard,Field ,1951,1970,0,89,"Music, Family, Dog, Adventure, Travel, Food",88101,135
 TM1932,Timothy,Mulqueen,Space Force,Field ,1932,1941,0,108,"Music, Write, Dog, Sports",10309,0
 AH1942,Arlette,Honeywell,Navy ,Construction Mechanic ,1942,1963,0,98,"Travel, Work, Music, Coffee",32254,60
@@ -107,34 +107,34 @@ RC1955,Rosio,Cork,Navy ,Field ,1955,1962,0,85,"Adventure, Dog, Travel, Family",2
 CK1995,Celeste,Korando,Air Force,Field ,1995,2015,1,45,"Write, Dog, Travel, Music, Drink, Work",11563,45
 TF1936,Twana,Felger,Marines,Construction Mechanic ,1936,1954,0,104,"Coffee, Drink, Write",97224,30
 ES1999,Estrella,Samu,Army ,Design ,1999,2003,1,41,"Drink, Family, Coffee",53511,105
-DK1985,Donte,Kines,Coast Guard,Construction Mechanic ,1985,1998,1,55,"Write, Adventure, Dog, Travel, Family, Music",1602,90
+DK1985,Donte,Kines,Coast Guard,Construction Mechanic ,1985,1998,1,55,"Write, Adventure, Dog, Travel, Family, Music",01602,90
 TS1946,Tiffiny,Steffensmeier,Space Force,Electricial ,1946,1968,1,94,"Sports, Music, Drink, Family",33133,15
 EM1939,Edna,Miceli,Navy ,Field ,1939,1958,0,101,"Dog, Coffee",16502,75
 SK1941,Sue,Kownacki,Air Force,Field ,1941,1946,1,99,"Sports, Family, Music, Movies, Write",75149,15
 JS1934,Jesusa,Shin,Navy ,Construction Mechanic ,1934,1952,0,106,"Dog, Music, Drink, Food",37388,45
-RF1956,Rolland,Francescon,Air Force,Design ,1956,1979,0,84,"Movies, Drink, Adventure, Travel, Music, Coffee",7501,15
+RF1956,Rolland,Francescon,Air Force,Design ,1956,1979,0,84,"Movies, Drink, Adventure, Travel, Music, Coffee",07501,15
 PS1969,Pamella,Schmierer,Marines,Construction Mechanic ,1969,1978,0,71,"Food, Write, Coffee, Family, Music, Drink, Movies",33030,60
 GK1976,Glory,Kulzer,Army ,Electricial ,1976,2001,1,64,"Travel, Dog, Work, Family",21117,75
 SP1974,Shawna,Palaspas,Coast Guard,Field ,1974,1983,1,66,"Food, Coffee, Adventure, Drink",91362,105
 BC1936,Brandon,Callaro,Space Force,Field ,1936,1946,1,104,"Adventure, Food, Sports",96819,75
 SC1974,Scarlet,Cartan,Navy ,Construction Mechanic ,1974,1982,0,66,"Coffee, Travel, Adventure, Sports, Dog, Movies",31701,15
-OM1977,Oretha,Menter,Air Force,Design ,1977,1980,1,63,"Adventure, Family, Dog, Music",2210,135
-TS1941,Ty,Smith,Marines,Construction Mechanic ,1941,1959,1,99,"Music, Write, Adventure, Drink",7601,105
+OM1977,Oretha,Menter,Air Force,Design ,1977,1980,1,63,"Adventure, Family, Dog, Music",02210,135
+TS1941,Ty,Smith,Marines,Construction Mechanic ,1941,1959,1,99,"Music, Write, Adventure, Drink",07601,105
 XR1958,Xuan,Rochin,Army ,Electricial ,1958,1976,1,82,"Work, Coffee, Travel, Sports",94403,30
 LD1950,Lindsey,Dilello,Coast Guard,Field ,1950,1955,1,90,"Sports, Dog, Travel, Drink",91761,75
 DP1979,Devora,Perez,Space Force,Field ,1979,1997,0,61,"Music, Dog, Adventure",94606,45
 HD1976,Herman,Demesa,Navy ,Construction Mechanic ,1976,1990,0,64,"Work, Drink",12180,15
 RP1982,Rory,Papasergi,Air Force,Design ,1982,1985,1,58,"Music, Family",18411,135
-TR1975,Talia,Riopelle,Navy ,Construction Mechanic ,1975,2000,1,65,"Dog, Family, Music",7050,105
-VS1955,Van,Shire,Air Force,Electricial ,1955,1958,1,85,"Movies, Family, Adventure, Dog, Sports",8867,105
+TR1975,Talia,Riopelle,Navy ,Construction Mechanic ,1975,2000,1,65,"Dog, Family, Music",07050,105
+VS1955,Van,Shire,Air Force,Electricial ,1955,1958,1,85,"Movies, Family, Adventure, Dog, Sports",08867,105
 LL1961,Lucina,Lary,Marines,Field ,1961,1981,1,79,"Dog, Travel, Family, Drink",32922,0
 BI1940,Bok,Isaacs,Army ,Field ,1940,1950,0,100,"Coffee, Write, Work",10468,90
 RS1956,Rolande,Spickerman,Coast Guard,Construction Mechanic ,1956,1971,0,84,"Coffee, Write, Food",96782,15
 HP1966,Howard,Paulas,Space Force,Design ,1966,1978,0,74,"Sports, Adventure, Dog",80231,15
-KM1978,Kimbery,Madarang,Navy ,Construction Mechanic ,1978,2002,0,62,"Music, Food, Write, Coffee",7866,75
-TM1991,Thurman,Manno,Air Force,Electricial ,1991,1995,0,49,"Sports, Music",8201,135
-BM1981,Becky,Mirafuentes,Marines,Field ,1981,1986,1,59,"Adventure, Food",7062,120
-BC1998,Beatriz,Corrington,Army ,Field ,1998,2024,0,42,"Family, Drink, Travel, Food",2346,15
+KM1978,Kimbery,Madarang,Navy ,Construction Mechanic ,1978,2002,0,62,"Music, Food, Write, Coffee",07866,75
+TM1991,Thurman,Manno,Air Force,Electricial ,1991,1995,0,49,"Sports, Music",08201,135
+BM1981,Becky,Mirafuentes,Marines,Field ,1981,1986,1,59,"Adventure, Food",07062,120
+BC1998,Beatriz,Corrington,Army ,Field ,1998,2024,0,42,"Family, Drink, Travel, Food",02346,15
 MM1989,Marti,Maybury,Coast Guard,Construction Mechanic ,1989,1991,0,51,"Dog, Drink, Adventure, Coffee, Travel, Write",60638,60
 NG1955,Nieves,Gotter,Space Force,Design ,1955,1964,0,85,"Drink, Adventure, Work, Dog, Sports, Coffee, Music",97202,30
 LH1961,Leatha,Hagele,Navy ,Construction Mechanic ,1961,1986,1,79,"Movies, Family, Drink, Dog",75227,45
@@ -148,7 +148,7 @@ FJ1932,Fernanda,Jillson,Space Force,Electricial ,1932,1946,0,108,"Dog, Adventure
 GG1958,Gearldine,Gellinger,Navy ,Field ,1958,1972,0,82,"Travel, Dog",75061,90
 CK1960,Chau,Kitzman,Air Force,Field ,1960,1979,1,80,"Food, Adventure, Work, Movies, Drink",90212,90
 TF1969,Theola,Frey,Marines,Construction Mechanic ,1969,1983,0,71,"Drink, Music, Food",11758,105
-CH1974,Cheryl,Haroldson,Army ,Design ,1974,1984,0,66,"Coffee, Movies",8401,120
+CH1974,Cheryl,Haroldson,Army ,Design ,1974,1984,0,66,"Coffee, Movies",08401,120
 LM1936,Laticia,Merced,Coast Guard,Construction Mechanic ,1936,1961,0,104,"Movies, Coffee, Family, Food, Sports, Work",45203,45
 CB1999,Carissa,Batman,Space Force,Electricial ,1999,2010,1,41,"Music, Work, Adventure",97401,60
 LC1939,Lezlie,Craghead,Navy ,Field ,1939,1963,1,101,"Family, Drink, Coffee, Food, Music, Write",27577,135
@@ -156,7 +156,7 @@ OS1969,Ozell,Shealy,Air Force,Field ,1969,1990,1,71,"Write, Sports, Work, Music"
 AP1999,Arminda,Parvis,Navy ,Construction Mechanic ,1999,2013,1,41,"Family, Sports, Write, Drink, Dog",85017,135
 RL1992,Reita,Leto,Air Force,Design ,1992,2017,0,48,"Work, Movies",46240,150
 YL1986,Yolando,Luczki,Marines,Construction Mechanic ,1986,2010,1,54,"Adventure, Movies, Food, Sports, Music, Travel, Family",13214,120
-LS1969,Lizette,Stem,Army ,Electricial ,1969,1972,0,71,"Dog, Work, Food, Music, Drink, Write, Coffee",8002,135
+LS1969,Lizette,Stem,Army ,Electricial ,1969,1972,0,71,"Dog, Work, Food, Music, Drink, Write, Coffee",08002,135
 GP1990,Gregoria,Pawlowicz,Coast Guard,Field ,1990,2000,1,50,"Work, Travel, Sports",11530,30
 CD1981,Carin,Deleo,Space Force,Field ,1981,1992,1,59,"Dog, Family, Sports, Movies",72202,120
 CM1948,Chantell,Maynerich,Navy ,Construction Mechanic ,1948,1974,1,92,"Dog, Music, Sports, Coffee, Food",55101,15
@@ -170,35 +170,35 @@ ER1980,Evangelina,Radde,Air Force,Design ,1980,1983,1,60,"Music, Write",19123,30
 ND1954,Novella,Degroot,Navy ,Construction Mechanic ,1954,1971,1,86,"Movies, Sports, Adventure, Coffee, Family, Music",96720,120
 CH1964,Clay,Hoa,Air Force,Electricial ,1964,1986,1,76,"Coffee, Write, Movies, Work",89502,45
 JF1989,Jennifer,Fallick,Marines,Field ,1989,2004,0,51,"Write, Food, Movies",60090,45
-IW1974,Irma,Wolfgramm,Army ,Field ,1974,1983,0,66,"Sports, Travel",7869,90
+IW1974,Irma,Wolfgramm,Army ,Field ,1974,1983,0,66,"Sports, Travel",07869,90
 EC1942,Eun,Coody,Coast Guard,Construction Mechanic ,1942,1966,1,98,"Adventure, Music, Sports, Movies",29301,150
 SC1932,Sylvia,Cousey,Space Force,Design ,1932,1948,0,108,"Travel, Family, Food, Work",21074,15
 NW1936,Nana,Wrinkles,Navy ,Construction Mechanic ,1936,1951,1,104,"Family, Coffee",10553,150
 LS1952,Layla,Springe,Air Force,Electricial ,1952,1968,0,88,"Coffee, Sports",10011,135
 JD1953,Joesph,Degonia,Marines,Field ,1953,1969,1,87,"Sports, Work, Travel, Family",94710,45
-AB1958,Annabelle,Boord,Army ,Field ,1958,1965,1,82,"Sports, Food",1742,105
+AB1958,Annabelle,Boord,Army ,Field ,1958,1965,1,82,"Sports, Food",01742,105
 SV1963,Stephaine,Vinning,Coast Guard,Construction Mechanic ,1963,1970,0,77,"Movies, Dog, Music, Food, Write",94104,120
-NS1937,Nelida,Sawchuk,Space Force,Design ,1937,1942,0,103,"Movies, Coffee, Adventure",7652,75
+NS1937,Nelida,Sawchuk,Space Force,Design ,1937,1942,0,103,"Movies, Coffee, Adventure",07652,75
 MH1987,Marguerita,Hiatt,Navy ,Construction Mechanic ,1987,2004,0,53,"Sports, Drink, Work, Dog, Movies",94561,15
 CC1938,Carmela,Cookey,Air Force,Electricial ,1938,1952,1,102,"Adventure, Write, Food",60623,135
-JB1975,Junita,Brideau,Navy ,Field ,1975,1999,0,65,"Adventure, Food, Sports, Work, Movies, Music",7009,0
+JB1975,Junita,Brideau,Navy ,Field ,1975,1999,0,65,"Adventure, Food, Sports, Work, Movies, Music",07009,0
 CV1985,Claribel,Varriano,Air Force,Field ,1985,1999,1,55,"Family, Write, Music, Dog, Adventure, Travel",43551,15
 BS1947,Benton,Skursky,Marines,Construction Mechanic ,1947,1963,1,93,"Drink, Movies, Adventure",90248,30
 HS1981,Hillary,Skulski,Army ,Design ,1981,1982,0,59,"Drink, Music, Write, Movies, Travel, Family, Dog",34448,15
 MB1958,Merilyn,Bayless,Coast Guard,Construction Mechanic ,1958,1980,0,82,"Sports, Write, Drink, Coffee",95054,135
 TE1986,Teri,Ennaco,Space Force,Electricial ,1986,2002,1,54,"Adventure, Coffee, Work, Food, Sports",18201,105
-ML1969,Merlyn,Lawler,Navy ,Field ,1969,1987,1,71,"Travel, Adventure, Coffee, Dog",7304,15
+ML1969,Merlyn,Lawler,Navy ,Field ,1969,1987,1,71,"Travel, Adventure, Coffee, Dog",07304,15
 GM1979,Georgene,Montezuma,Air Force,Field ,1979,2003,1,61,"Family, Adventure, Sports",94583,60
-JM1985,Jettie,Mconnell,Marines,Construction Mechanic ,1985,2009,1,55,"Sports, Food, Work, Movies",8807,60
+JM1985,Jettie,Mconnell,Marines,Construction Mechanic ,1985,2009,1,55,"Sports, Food, Work, Movies",08807,60
 LL1978,Lemuel,Latzke,Army ,Design ,1978,1981,0,62,"Movies, Family",11716,75
 MK1991,Melodie,Knipp,Coast Guard,Construction Mechanic ,1991,2010,1,49,"Travel, Family, Dog",91362,30
-CC1991,Candida,Corbley,Space Force,Electricial ,1991,2002,0,49,"Music, Movies, Food, Write",8876,15
+CC1991,Candida,Corbley,Space Force,Electricial ,1991,2002,0,49,"Music, Movies, Food, Write",08876,15
 KK1955,Karan,Karpin,Navy ,Field ,1955,1963,1,85,"Coffee, Movies, Sports",97005,45
 AS1979,Andra,Scheyer,Air Force,Field ,1979,2002,1,61,"Music, Sports, Drink, Movies, Food",97302,75
-FP1953,Felicidad,Poullion,Navy ,Construction Mechanic ,1953,1974,1,87,"Coffee, Music, Adventure, Drink, Family, Dog",8077,30
+FP1953,Felicidad,Poullion,Navy ,Construction Mechanic ,1953,1974,1,87,"Coffee, Music, Adventure, Drink, Family, Dog",08077,30
 BS1935,Belen,Strassner,Air Force,Design ,1935,1949,1,105,"Travel, Movies",30135,120
 GM1965,Gracia,Melnyk,Marines,Construction Mechanic ,1965,1976,1,75,Music,32216,30
-JH1969,Jolanda,Hanafan,Army ,Electricial ,1969,1982,1,71,"Adventure, Music, Movies, Write",4401,15
+JH1969,Jolanda,Hanafan,Army ,Electricial ,1969,1982,1,71,"Adventure, Music, Movies, Write",04401,15
 BT1988,Barrett,Toyama,Coast Guard,Field ,1988,2012,0,52,"Drink, Work, Food, Dog, Family",76060,75
 HF1948,Helga,Fredicks,Space Force,Field ,1948,1961,0,92,"Dog, Music, Family, Food",14228,135
 AP1971,Ashlyn,Pinilla,Navy ,Construction Mechanic ,1971,1986,0,69,"Family, Dog, Music, Movies, Write, Coffee, Adventure",33054,135
@@ -221,7 +221,7 @@ RB1992,Rima,Bevelacqua,Marines,Field ,1992,2000,1,48,"Food, Movies, Music, Dog, 
 GS1962,Glendora,Sarbacher,Army ,Field ,1962,1983,0,78,"Coffee, Sports, Music, Dog, Adventure, Food",94928,135
 AS1959,Avery,Steier,Coast Guard,Construction Mechanic ,1959,1962,1,81,"Dog, Travel, Family, Coffee, Sports, Work, Food",32803,105
 CL1995,Cristy,Lother,Space Force,Design ,1995,2017,0,45,"Work, Dog, Travel, Music, Sports",92025,135
-NB1988,Nicolette,Brossart,Navy ,Construction Mechanic ,1988,1998,0,52,"Write, Adventure, Travel",1581,45
+NB1988,Nicolette,Brossart,Navy ,Construction Mechanic ,1988,1998,0,52,"Write, Adventure, Travel",01581,45
 TM1933,Tracey,Modzelewski,Air Force,Electricial ,1933,1956,1,107,"Work, Adventure, Movies, Food, Family",77301,90
 VT1989,Virgina,Tegarden,Navy ,Field ,1989,2000,0,51,"Food, Coffee, Movies",53226,90
 TF1987,Tiera,Frankel,Air Force,Field ,1987,2003,1,53,"Family, Sports",91731,135
@@ -230,29 +230,29 @@ EM1932,Earleen,Mai,Army ,Design ,1932,1934,1,108,"Drink, Sports, Food, Coffee, F
 LG1964,Leonida,Gobern,Coast Guard,Construction Mechanic ,1964,1985,0,76,"Coffee, Music, Dog, Work, Sports, Write",39530,75
 RA1967,Ressie,Auffrey,Space Force,Electricial ,1967,1979,1,73,"Family, Music, Adventure, Drink, Coffee",33134,90
 JM1955,Justine,Mugnolo,Navy ,Field ,1955,1979,1,85,"Movies, Adventure, Dog",10048,0
-ES1987,Eladia,Saulter,Air Force,Field ,1987,2002,1,53,"Adventure, Family, Movies, Work, Food",7446,75
+ES1987,Eladia,Saulter,Air Force,Field ,1987,2002,1,53,"Adventure, Family, Movies, Work, Food",07446,75
 CM1970,Chaya,Malvin,Marines,Construction Mechanic ,1970,1973,1,70,"Dog, Sports, Travel, Movies",48103,45
 GS1999,Gwenn,Suffield,Army ,Design ,1999,2011,1,41,"Sports, Movies",11729,90
 SK1942,Salena,Karpel,Coast Guard,Construction Mechanic ,1942,1961,1,98,"Coffee, Movies, Food, Drink, Adventure, Sports",44707,120
-YF1997,Yoko,Fishburne,Space Force,Electricial ,1997,2005,0,43,"Coffee, Sports, Dog, Travel",6511,75
+YF1997,Yoko,Fishburne,Space Force,Electricial ,1997,2005,0,43,"Coffee, Sports, Dog, Travel",06511,75
 TM1998,Taryn,Moyd,Navy ,Field ,1998,2011,1,42,Movies,22030,60
-KP1993,Katina,Polidori,Air Force,Field ,1993,2017,1,47,"Food, Travel, Music, Sports",1887,150
+KP1993,Katina,Polidori,Air Force,Field ,1993,2017,1,47,"Food, Travel, Music, Sports",01887,150
 RP1957,Rickie,Plumer,Navy ,Construction Mechanic ,1957,1969,1,83,"Music, Family, Work",43613,30
 AL1965,Alex,Loader,Air Force,Design ,1965,1968,1,75,"Sports, Write, Travel",98409,105
 LV1931,Lashon,Vizarro,Marines,Construction Mechanic ,1931,1950,1,109,"Family, Write",95661,60
 LB1974,Lauran,Burnard,Army ,Electricial ,1974,1999,1,66,"Drink, Music, Travel, Food, Work, Family",82501,15
-CS1959,Ceola,Setter,Coast Guard,Field ,1959,1979,0,81,"Travel, Food",4864,15
+CS1959,Ceola,Setter,Coast Guard,Field ,1959,1979,0,81,"Travel, Food",04864,15
 MR1965,My,Rantanen,Space Force,Field ,1965,1990,1,75,"Drink, Family, Music",18954,60
 LW1994,Lorrine,Worlds,Navy ,Construction Mechanic ,1994,2017,1,46,"Travel, Sports, Music, Work",33614,105
 PS1957,Peggie,Sturiale,Air Force,Design ,1957,1959,0,83,"Work, Food, Dog, Coffee, Movies",92020,75
 MR1962,Marvel,Raymo,Marines,Construction Mechanic ,1962,1970,0,78,"Work, Family",77840,45
 DD1957,Daron,Dinos,Army ,Electricial ,1957,1960,1,83,"Work, Drink, Music, Dog, Sports, Adventure",60035,30
-AF1946,An,Fritz,Coast Guard,Field ,1946,1959,0,94,"Family, Coffee, Drink, Adventure",8401,90
-PS1967,Portia,Stimmel,Space Force,Field ,1967,1991,1,73,"Work, Sports, Food, Dog",8807,150
+AF1946,An,Fritz,Coast Guard,Field ,1946,1959,0,94,"Family, Coffee, Drink, Adventure",08401,90
+PS1967,Portia,Stimmel,Space Force,Field ,1967,1991,1,73,"Work, Sports, Food, Dog",08807,150
 RA1979,Rhea,Aredondo,Navy ,Construction Mechanic ,1979,1996,0,61,"Food, Coffee, Sports, Movies, Dog, Work, Drink, Write, Family",11226,45
 BS1962,Benedict,Sama,Air Force,Design ,1962,1973,1,78,"Coffee, Sports, Dog, Work, Movies, Drink, Family",63104,0
 AA1998,Alyce,Arias,Navy ,Construction Mechanic ,1998,2001,0,42,"Music, Write, Travel, Movies",95207,120
-HB1976,Heike,Berganza,Air Force,Electricial ,1976,1979,0,64,"Work, Dog, Coffee, Write, Travel",7424,30
+HB1976,Heike,Berganza,Air Force,Electricial ,1976,1979,0,64,"Work, Dog, Coffee, Write, Travel",07424,30
 CD1996,Carey,Dopico,Marines,Field ,1996,2009,0,44,"Music, Movies, Drink, Travel, Family, Food",46220,15
 DH1969,Dottie,Hellickson,Army ,Field ,1969,1986,1,71,"Movies, Adventure, Work, Family, Write, Sports, Food",98133,105
 DH1931,Deandrea,Hughey,Coast Guard,Construction Mechanic ,1931,1935,0,109,"Food, Coffee, Work, Travel, Sports",27215,0
@@ -264,17 +264,17 @@ CH1945,Charlene,Hamilton,Army ,Field ,1945,1959,0,95,Drink,95407,135
 GA1977,Geoffrey,Acey,Coast Guard,Construction Mechanic ,1977,1999,0,63,"Sports, Work, Drink, Write",60067,120
 SW1991,Stevie,Westerbeck,Space Force,Design ,1991,2014,0,49,"Food, Travel, Music, Drink",92626,15
 PF1934,Pamella,Fortino,Navy ,Construction Mechanic ,1934,1950,1,106,"Movies, Adventure, Music, Write, Family, Sports, Food",80212,60
-HH1954,Harrison,Haufler,Air Force,Electricial ,1954,1972,0,86,"Food, Write, Adventure, Movies",6515,45
+HH1954,Harrison,Haufler,Air Force,Electricial ,1954,1972,0,86,"Food, Write, Adventure, Movies",06515,45
 JE1998,Johnna,Engelberg,Navy ,Field ,1998,2003,1,42,"Sports, Dog, Write, Travel, Work",98021,75
 BC1996,Buddy,Cloney,Air Force,Field ,1996,2009,0,44,"Travel, Music, Adventure",44136,150
-DR1988,Dalene,Riden,Marines,Construction Mechanic ,1988,2003,1,52,"Travel, Write",3865,135
+DR1988,Dalene,Riden,Marines,Construction Mechanic ,1988,2003,1,52,"Travel, Write",03865,135
 JZ1931,Jerry,Zurcher,Army ,Design ,1931,1939,0,109,"Travel, Food, Write, Sports, Coffee, Drink, Work",32937,30
 HD1999,Haydee,Denooyer,Coast Guard,Construction Mechanic ,1999,2015,1,41,"Movies, Write, Sports, Dog, Coffee, Travel",10016,105
 JC1936,Joseph,Cryer,Space Force,Electricial ,1936,1938,0,104,"Food, Movies, Dog, Work, Sports, Adventure",92647,30
 DK1941,Deonna,Kippley,Navy ,Field ,1941,1954,0,99,"Music, Drink, Dog, Travel, Food",48075,105
 RC1980,Raymon,Calvaresi,Air Force,Field ,1980,1984,1,60,"Write, Dog, Travel, Work, Family, Sports, Food",46222,135
 AB1954,Alecia,Bubash,Marines,Construction Mechanic ,1954,1971,1,86,"Family, Adventure, Dog, Drink, Movies, Work",76301,0
-ML1946,Ma,Layous,Army ,Design ,1946,1971,1,94,"Drink, Dog, Work, Food, Movies, Adventure",6473,135
+ML1946,Ma,Layous,Army ,Design ,1946,1971,1,94,"Drink, Dog, Work, Food, Movies, Adventure",06473,135
 DC1949,Detra,Coyier,Coast Guard,Construction Mechanic ,1949,1951,0,91,"Movies, Dog, Travel, Food, Drink, Write, Work",21001,30
 TR1956,Terrilyn,Rodeigues,Space Force,Electricial ,1956,1971,0,84,"Work, Dog, Family, Drink, Adventure, Coffee",70130,90
 SL1980,Salome,Lacovara,Navy ,Field ,1980,1997,0,60,"Write, Dog",23219,120
@@ -282,7 +282,7 @@ GK1992,Garry,Keetch,Air Force,Field ,1992,2016,0,48,"Sports, Dog",18966,105
 MN1976,Matthew,Neither,Navy ,Construction Mechanic ,1976,1982,1,64,"Work, Adventure, Drink",55379,135
 TR1994,Theodora,Restrepo,Air Force,Design ,1994,2004,0,46,"Dog, Drink, Family, Sports",33136,150
 NK1958,Noah,Kalafatis,Marines,Construction Mechanic ,1958,1974,1,82,"Dog, Music, Movies, Food, Write, Family",53209,75
-CS1932,Carmen,Sweigard,Army ,Electricial ,1932,1947,1,108,"Travel, Family, Adventure, Sports, Dog",8873,120
+CS1932,Carmen,Sweigard,Army ,Electricial ,1932,1947,1,108,"Travel, Family, Adventure, Sports, Dog",08873,120
 LH1963,Lavonda,Hengel,Coast Guard,Field ,1963,1989,0,77,"Sports, Family, Movies, Drink, Adventure, Dog",58102,15
 JS1975,Junita,Stoltzman,Space Force,Field ,1975,1990,1,65,"Family, Movies",89701,120
 HN1983,Herminia,Nicolozakes,Navy ,Construction Mechanic ,1983,2008,0,57,"Adventure, Sports",85254,30
@@ -293,9 +293,9 @@ CP1975,Cathrine,Pontoriero,Coast Guard,Field ,1975,1990,1,65,"Family, Adventure"
 FT1965,Filiberto,Tawil,Space Force,Field ,1965,1984,1,75,"Write, Movies, Food, Travel",90016,60
 RU1986,Raul,Upthegrove,Navy ,Construction Mechanic ,1986,1993,0,54,"Family, Dog",91942,120
 SC1981,Sarah,Candlish,Air Force,Design ,1981,1984,1,59,"Sports, Drink",30328,15
-LT1947,Lucy,Treston,Navy ,Construction Mechanic ,1947,1950,0,93,Music,1602,105
+LT1947,Lucy,Treston,Navy ,Construction Mechanic ,1947,1950,0,93,Music,01602,105
 JA1990,Judy,Aquas,Air Force,Electricial ,1990,1995,0,50,"Travel, Family",49120,15
-YT1972,Yvonne,Tjepkema,Marines,Field ,1972,1981,1,68,"Food, Travel, Movies, Family",7004,105
+YT1972,Yvonne,Tjepkema,Marines,Field ,1972,1981,1,68,"Food, Travel, Movies, Family",07004,105
 KL1978,Kayleigh,Lace,Army ,Field ,1978,1990,0,62,"Write, Food, Sports, Movies, Family",70508,120
 FH1949,Felix,Hirpara,Coast Guard,Construction Mechanic ,1949,1955,1,91,"Adventure, Sports, Write, Coffee, Dog",17517,120
 TS1953,Tresa,Sweely,Space Force,Design ,1953,1958,0,87,"Adventure, Coffee, Movies, Music, Food",63088,15
@@ -305,22 +305,22 @@ RM1959,Renea,Monterrubio,Marines,Field ,1959,1967,0,81,"Food, Music, Drink",3032
 OM1983,Olive,Matuszak,Army ,Field ,1983,1997,1,57,"Family, Travel, Movies",92234,105
 LR1945,Ligia,Reiber,Coast Guard,Construction Mechanic ,1945,1960,0,95,"Travel, Family, Music, Sports",48933,75
 CE1953,Christiane,Eschberger,Space Force,Design ,1953,1967,0,87,"Drink, Travel, Adventure, Work, Music, Dog",85034,30
-GS1936,Goldie,Schirpke,Navy ,Construction Mechanic ,1936,1944,0,104,"Family, Music, Adventure, Write, Food, Work",4401,30
+GS1936,Goldie,Schirpke,Navy ,Construction Mechanic ,1936,1944,0,104,"Family, Music, Adventure, Write, Food, Work",04401,30
 LT1944,Loreta,Timenez,Air Force,Electricial ,1944,1964,1,96,"Drink, Coffee, Adventure",20735,90
 FH1991,Fabiola,Hauenstein,Navy ,Field ,1991,1996,0,49,"Drink, Sports",17404,75
 AP1970,Amie,Perigo,Air Force,Field ,1970,1989,0,70,"Family, Food, Sports, Write",75150,0
 RB1974,Raina,Brachle,Marines,Construction Mechanic ,1974,1984,1,66,"Drink, Dog",59701,30
-EC1945,Erinn,Canlas,Army ,Design ,1945,1958,0,95,"Work, Food, Travel, Adventure",7039,15
+EC1945,Erinn,Canlas,Army ,Design ,1945,1958,0,95,"Work, Food, Travel, Adventure",07039,15
 CL1991,Cherry,Lietz,Coast Guard,Construction Mechanic ,1991,1992,0,49,"Music, Coffee, Adventure",48329,75
 KV1987,Kattie,Vonasek,Space Force,Electricial ,1987,2007,0,53,"Coffee, Sports, Drink",44103,135
 LS1959,Lilli,Scriven,Navy ,Field ,1959,1980,0,81,Family,79601,135
 WT1995,Whitley,Tomasulo,Air Force,Field ,1995,2009,1,45,"Drink, Work, Movies, Dog, Family, Coffee",76107,60
 BA1991,Barbra,Adkin,Marines,Construction Mechanic ,1991,2007,0,49,"Food, Adventure, Travel, Work, Coffee, Family",11230,45
-HT1960,Hermila,Thyberg,Army ,Design ,1960,1968,1,80,"Coffee, Family, Movies, Sports, Travel",2903,105
+HT1960,Hermila,Thyberg,Army ,Design ,1960,1968,1,80,"Coffee, Family, Movies, Sports, Travel",02903,105
 JF1990,Jesusita,Flister,Coast Guard,Construction Mechanic ,1990,1998,0,50,"Travel, Family, Drink, Food, Coffee, Write, Movies",17601,15
-CJ1965,Caitlin,Julia,Space Force,Electricial ,1965,1971,0,75,"Adventure, Drink, Coffee, Food",2919,45
+CJ1965,Caitlin,Julia,Space Force,Electricial ,1965,1971,0,75,"Adventure, Drink, Coffee, Food",02919,45
 RH1962,Roosevelt,Hoffis,Navy ,Field ,1962,1986,0,78,"Food, Movies, Write",33014,15
-HH1959,Helaine,Halter,Air Force,Field ,1959,1965,0,81,"Write, Travel, Movies, Family, Sports, Music, Drink",7304,90
+HH1959,Helaine,Halter,Air Force,Field ,1959,1965,0,81,"Write, Travel, Movies, Family, Sports, Music, Drink",07304,90
 LM1964,Lorean,Martabano,Navy ,Construction Mechanic ,1964,1973,0,76,"Write, Work, Dog, Movies, Drink",78204,60
 FB1978,France,Buzick,Air Force,Design ,1978,1988,0,62,"Movies, Food, Write, Sports, Drink",11219,105
 JF1984,Justine,Ferrario,Marines,Construction Mechanic ,1984,2010,0,56,"Sports, Food, Movies, Family, Travel",91768,60
@@ -329,19 +329,19 @@ DD1995,Derick,Dhamer,Coast Guard,Field ,1995,2010,0,45,"Music, Movies, Family, S
 JD1968,Jerry,Dallen,Space Force,Field ,1968,1977,1,72,"Music, Family, Write, Coffee, Sports",23219,90
 LR1962,Leota,Ragel,Navy ,Construction Mechanic ,1962,1977,1,78,"Dog, Music, Work, Movies, Food",30753,105
 JA1931,Jutta,Amyot,Air Force,Design ,1931,1944,1,109,"Work, Food, Dog, Drink, Travel",70518,105
-AG1942,Aja,Gehrett,Marines,Construction Mechanic ,1942,1960,0,98,"Sports, Family, Music, Write, Food, Adventure",7110,120
+AG1942,Aja,Gehrett,Marines,Construction Mechanic ,1942,1960,0,98,"Sports, Family, Music, Write, Food, Adventure",07110,120
 KH1985,Kirk,Herritt,Army ,Electricial ,1985,1989,1,55,"Drink, Travel, Write, Adventure",13850,150
-LM1983,Leonora,Mauson,Coast Guard,Field ,1983,1992,1,57,"Music, Work, Dog, Adventure, Travel, Sports",7055,90
+LM1983,Leonora,Mauson,Coast Guard,Field ,1983,1992,1,57,"Music, Work, Dog, Adventure, Travel, Sports",07055,90
 WB1946,Winfred,Brucato,Space Force,Field ,1946,1949,1,94,"Food, Drink, Coffee, Sports, Music, Travel, Adventure",83843,120
 TN1996,Tarra,Nachor,Navy ,Construction Mechanic ,1996,2004,0,44,"Drink, Write, Adventure, Food, Work, Family",94104,15
-CL1938,Corinne,Loder,Air Force,Design ,1938,1958,1,102,"Work, Family, Coffee, Movies, Food, Travel, Adventure",2760,150
+CL1938,Corinne,Loder,Air Force,Design ,1938,1958,1,102,"Work, Family, Coffee, Movies, Food, Travel, Adventure",02760,150
 DL1945,Dulce,Labreche,Navy ,Construction Mechanic ,1945,1963,0,95,"Family, Dog, Movies, Work, Coffee, Write, Sports",48307,15
 KK1968,Kate,Keneipp,Air Force,Electricial ,1968,1972,0,72,"Travel, Drink, Movies, Write",54301,120
 KO1933,Kaitlyn,Ogg,Marines,Field ,1933,1937,0,107,"Dog, Work",21230,75
 SS1937,Sherita,Saras,Army ,Field ,1937,1954,1,103,"Travel, Sports, Family",80937,15
 LS1990,Lashawnda,Stuer,Coast Guard,Construction Mechanic ,1990,2016,1,50,"Drink, Family, Adventure, Sports, Food, Movies",43607,30
 ES1937,Ernest,Syrop,Space Force,Design ,1937,1959,1,103,"Adventure, Work",20785,150
-NH1981,Nobuko,Halsey,Navy ,Construction Mechanic ,1981,1995,0,59,"Food, Coffee, Music, Adventure, Work, Drink",2745,30
+NH1981,Nobuko,Halsey,Navy ,Construction Mechanic ,1981,1995,0,59,"Food, Coffee, Music, Adventure, Work, Drink",02745,30
 LW1937,Lavonna,Wolny,Air Force,Electricial ,1937,1946,1,103,"Sports, Adventure, Dog, Movies, Family, Music",22102,60
 LL1964,Lashaunda,Lizama,Marines,Field ,1964,1990,0,76,"Food, Drink, Adventure, Family, Travel",21076,135
 MB1973,Mariann,Bilden,Army ,Field ,1973,1995,0,67,"Work, Music, Food, Sports, Coffee, Travel",78753,135
@@ -363,7 +363,7 @@ KS1953,Kasandra,Semidey,Coast Guard,Construction Mechanic ,1953,1969,0,87,"Sport
 XD1963,Xochitl,Discipio,Space Force,Electricial ,1963,1988,0,77,"Drink, Music, Movies, Family",78664,120
 ML1959,Maile,Linahan,Navy ,Field ,1959,1976,0,81,"Travel, Music, Write, Food, Coffee, Work",27409,0
 KR1968,Krissy,Rauser,Air Force,Field ,1968,1983,1,72,"Drink, Music, Movies, Dog",11727,105
-PD1984,Pete,Dubaldi,Navy ,Construction Mechanic ,1984,2001,0,56,"Write, Family, Food, Sports, Dog",7071,105
+PD1984,Pete,Dubaldi,Navy ,Construction Mechanic ,1984,2001,0,56,"Write, Family, Food, Sports, Dog",07071,105
 LP1958,Linn,Paa,Air Force,Design ,1958,1975,0,82,"Music, Work, Travel",38112,45
 PW1943,Paris,Wide,Marines,Construction Mechanic ,1943,1964,0,97,"Dog, Work, Write, Sports, Drink",30342,150
 WD1993,Wynell,Dorshorst,Army ,Electricial ,1993,2003,1,47,"Music, Family, Write, Food, Drink",94044,105
@@ -372,7 +372,7 @@ RK1940,Regenia,Kannady,Space Force,Field ,1940,1954,1,100,"Drink, Music, Coffee,
 SL1949,Sheron,Louissant,Navy ,Construction Mechanic ,1949,1950,1,91,"Music, Food, Sports, Travel, Drink",11101,15
 IF1972,Izetta,Funnell,Air Force,Design ,1972,1983,1,68,"Movies, Write, Sports, Travel, Adventure",30340,60
 RB1990,Rodolfo,Butzen,Marines,Construction Mechanic ,1990,2015,1,50,"Sports, Write, Coffee, Work, Food",55057,15
-ZC1965,Zona,Colla,Army ,Electricial ,1965,1979,0,75,"Coffee, Food, Movies, Travel, Family",6854,60
+ZC1965,Zona,Colla,Army ,Electricial ,1965,1979,0,75,"Coffee, Food, Movies, Travel, Family",06854,60
 SZ1964,Serina,Zagen,Coast Guard,Field ,1964,1976,1,76,"Family, Write, Music",46802,60
 PS1962,Paz,Sahagun,Space Force,Field ,1962,1986,0,78,"Adventure, Dog, Coffee, Music, Work, Travel, Food",39307,90
 ML1956,Markus,Lukasik,Navy ,Construction Mechanic ,1956,1962,0,84,"Travel, Music, Sports, Write, Work, Adventure",48310,15
@@ -384,7 +384,7 @@ JD1993,Jennie,Drymon,Army ,Field ,1993,2005,0,47,"Coffee, Sports, Travel, Dog",1
 MS1962,Mitsue,Scipione,Coast Guard,Construction Mechanic ,1962,1970,1,78,"Travel, Coffee, Movies, Sports",95965,120
 CV1991,Ciara,Ventura,Space Force,Design ,1991,1993,1,49,"Music, Dog",12771,45
 GC1989,Galen,Cantres,Navy ,Construction Mechanic ,1989,2013,1,51,"Adventure, Write",44142,75
-TF1961,Truman,Feichtner,Air Force,Electricial ,1961,1962,0,79,"Family, Coffee, Work",7003,150
+TF1961,Truman,Feichtner,Air Force,Electricial ,1961,1962,0,79,"Family, Coffee, Work",07003,150
 GK1934,Gail,Kitty,Marines,Field ,1934,1957,0,106,"Food, Movies, Adventure, Coffee, Write, Drink, Music",99501,75
 DS1937,Dalene,Schoeneck,Army ,Field ,1937,1958,0,103,"Write, Adventure, Food, Travel, Drink, Movies, Work, Coffee",19102,105
 GW1991,Gertude,Witten,Coast Guard,Construction Mechanic ,1991,2005,1,49,"Sports, Music",45217,60
@@ -396,16 +396,16 @@ LP1940,Laurel,Pagliuca,Air Force,Field ,1940,1946,1,100,Drink,99352,30
 MF1958,Mireya,Frerking,Marines,Construction Mechanic ,1958,1962,0,82,"Coffee, Music, Work",10803,30
 AT1953,Annelle,Tagala,Army ,Design ,1953,1967,0,87,"Food, Coffee, Dog, Sports",21234,15
 DK1955,Dean,Ketelsen,Coast Guard,Construction Mechanic ,1955,1974,1,85,"Food, Adventure, Music, Sports, Movies, Dog, Family",11801,90
-LM1957,Levi,Munis,Space Force,Electricial ,1957,1981,0,83,"Food, Sports, Coffee, Drink, Movies",1603,120
+LM1957,Levi,Munis,Space Force,Electricial ,1957,1981,0,83,"Food, Sports, Coffee, Drink, Movies",01603,120
 SR1942,Sylvie,Ryser,Navy ,Field ,1942,1954,1,98,"Food, Movies, Dog, Write, Coffee",74105,15
 SM1942,Sharee,Maile,Air Force,Field ,1942,1961,1,98,"Family, Food, Work, Dog, Write, Drink",49442,15
 CS1951,Cordelia,Storment,Marines,Construction Mechanic ,1951,1974,0,89,"Dog, Travel, Work",70506,90
 MM1962,Mollie,Mcdoniel,Army ,Design ,1962,1963,0,78,"Write, Drink",43402,90
 BM1971,Brett,Mccullan,Coast Guard,Construction Mechanic ,1971,1993,1,69,"Sports, Work, Write, Adventure, Dog",91942,15
-TP1970,Teddy,Pedrozo,Space Force,Electricial ,1970,1976,0,70,"Coffee, Travel, Work, Write, Movies, Drink, Dog",6610,15
-TA1944,Tasia,Andreason,Navy ,Field ,1944,1949,1,96,"Family, Drink, Food, Write, Sports",7032,135
+TP1970,Teddy,Pedrozo,Space Force,Electricial ,1970,1976,0,70,"Coffee, Travel, Work, Write, Movies, Drink, Dog",06610,15
+TA1944,Tasia,Andreason,Navy ,Field ,1944,1949,1,96,"Family, Drink, Food, Write, Sports",07032,135
 HW1963,Hubert,Walthall,Air Force,Field ,1963,1974,1,77,"Family, Drink",44203,30
-AF1990,Arthur,Farrow,Navy ,Construction Mechanic ,1990,1995,0,50,"Adventure, Drink, Food, Family",7631,0
+AF1990,Arthur,Farrow,Navy ,Construction Mechanic ,1990,1995,0,50,"Adventure, Drink, Food, Family",07631,0
 VB1960,Vilma,Berlanga,Air Force,Design ,1960,1976,1,80,"Travel, Coffee, Sports, Music",49546,30
 BM1945,Billye,Miro,Marines,Construction Mechanic ,1945,1962,0,95,"Drink, Food, Coffee, Sports",39208,60
 GS1989,Glenna,Slayton,Army ,Electricial ,1989,2005,1,51,"Family, Travel, Sports, Food",38118,120
@@ -416,10 +416,10 @@ NM1951,Nichelle,Meteer,Air Force,Design ,1951,1976,1,89,"Dog, Sports, Coffee",60
 JR1936,Janine,Rhoden,Marines,Construction Mechanic ,1936,1938,1,104,"Travel, Family, Coffee",11103,60
 EH1951,Ettie,Hoopengardner,Army ,Electricial ,1951,1968,1,89,"Music, Drink",99352,45
 EJ1990,Eden,Jayson,Coast Guard,Field ,1990,2008,1,50,"Coffee, Drink, Food, Movies, Travel, Work, Family",21202,15
-LA1936,Lynelle,Auber,Space Force,Field ,1936,1960,1,104,"Food, Music",7104,30
+LA1936,Lynelle,Auber,Space Force,Field ,1936,1960,1,104,"Food, Music",07104,30
 MT1998,Merissa,Tomblin,Navy ,Construction Mechanic ,1998,2023,1,42,"Dog, Travel, Food, Work, Family",90706,90
-GK1944,Golda,Kaniecki,Air Force,Design ,1944,1962,1,96,"Drink, Coffee, Work, Food",8755,0
-CG1950,Catarina,Gleich,Navy ,Construction Mechanic ,1950,1971,0,90,"Dog, Movies, Travel, Music, Drink, Sports, Adventure",7834,120
+GK1944,Golda,Kaniecki,Air Force,Design ,1944,1962,1,96,"Drink, Coffee, Work, Food",08755,0
+CG1950,Catarina,Gleich,Navy ,Construction Mechanic ,1950,1971,0,90,"Dog, Movies, Travel, Music, Drink, Sports, Adventure",07834,120
 VK1997,Virgie,Kiel,Air Force,Electricial ,1997,2002,0,43,"Food, Coffee, Music, Family, Movies, Dog, Adventure, Drink",80216,105
 JO1958,Jolene,Ostolaza,Marines,Field ,1958,1979,1,82,"Sports, Dog, Music, Coffee",23608,105
 KB1975,Keneth,Borgman,Army ,Field ,1975,1977,0,65,"Travel, Drink, Write, Movies, Dog, Music",85012,60
@@ -428,9 +428,9 @@ ES1954,Elke,Sengbusch,Space Force,Design ,1954,1976,1,86,"Sports, Dog, Coffee, W
 HS1944,Hoa,Sarao,Navy ,Construction Mechanic ,1944,1946,0,96,"Work, Drink, Write, Music",32759,60
 TM1946,Trinidad,Mcrae,Air Force,Electricial ,1946,1969,0,94,Family,94105,75
 ML1938,Mari,Lueckenbach,Marines,Field ,1938,1952,0,102,"Coffee, Travel, Family, Write, Music",92110,135
-SH1965,Selma,Husser,Army ,Field ,1965,1986,1,75,"Movies, Food, Write, Coffee",7306,135
+SH1965,Selma,Husser,Army ,Field ,1965,1986,1,75,"Movies, Food, Write, Coffee",07306,135
 AO1942,Antione,Onofrio,Coast Guard,Construction Mechanic ,1942,1949,0,98,"Coffee, Travel, Write, Music, Movies, Drink",92410,75
-LJ1986,Luisa,Jurney,Space Force,Design ,1986,1997,1,54,"Write, Food, Music",2138,15
+LJ1986,Luisa,Jurney,Space Force,Design ,1986,1997,1,54,"Write, Food, Music",02138,15
 CH1948,Clorinda,Heimann,Navy ,Construction Mechanic ,1948,1954,0,92,"Dog, Food, Music",92025,15
 DW1988,Dick,Wenzinger,Air Force,Electricial ,1988,1994,1,52,"Food, Dog, Family, Movies",90248,45
 AA1949,Ahmed,Angalich,Navy ,Field ,1949,1958,0,91,"Travel, Sports, Drink, Music",17110,90
@@ -440,14 +440,14 @@ CS1969,Caprice,Suell,Army ,Design ,1969,1988,0,71,"Food, Movies, Write, Sports, 
 SM1980,Stephane,Myricks,Coast Guard,Construction Mechanic ,1980,1999,1,60,"Write, Drink, Movies",41005,15
 QS1955,Quentin,Swayze,Space Force,Electricial ,1955,1956,0,85,"Music, Write, Work",48160,75
 AC1969,Annmarie,Castros,Navy ,Field ,1969,1991,1,71,"Family, Movies, Write, Adventure, Food, Coffee, Work",77301,120
-SG1975,Shonda,Greenbush,Air Force,Field ,1975,1982,0,65,"Dog, Movies, Adventure, Sports, Music, Write, Drink",7011,0
-CL1994,Cecil,Lapage,Marines,Construction Mechanic ,1994,2007,1,46,"Write, Travel, Adventure, Coffee, Work, Family",7087,150
+SG1975,Shonda,Greenbush,Air Force,Field ,1975,1982,0,65,"Dog, Movies, Adventure, Sports, Music, Write, Drink",07011,0
+CL1994,Cecil,Lapage,Marines,Construction Mechanic ,1994,2007,1,46,"Write, Travel, Adventure, Coffee, Work, Family",07087,150
 JC1951,Jeanice,Claucherty,Army ,Design ,1951,1959,1,89,"Adventure, Work",33142,75
 JV1930,Josphine,Villanueva,Coast Guard,Construction Mechanic ,1930,1940,0,110,"Drink, Coffee, Movies, Travel, Food",38575,90
 DP1973,Daniel,Perruzza,Space Force,Electricial ,1973,1993,0,67,"Sports, Travel, Coffee, Food, Dog",92705,90
 CW1955,Cassi,Wildfong,Navy ,Field ,1955,1969,0,85,"Drink, Coffee, Write, Travel, Dog",60008,15
 BG1948,Britt,Galam,Air Force,Field ,1948,1970,0,92,"Write, Movies, Family",19440,75
-AL1941,Adell,Lipkin,Navy ,Construction Mechanic ,1941,1962,1,99,"Sports, Travel",7981,75
+AL1941,Adell,Lipkin,Navy ,Construction Mechanic ,1941,1962,1,99,"Sports, Travel",07981,75
 JR1995,Jacqueline,Rowling,Air Force,Design ,1995,2020,0,45,"Sports, Travel, Food, Drink",16501,60
 LW1968,Lonny,Weglarz,Marines,Construction Mechanic ,1968,1990,0,72,"Travel, Food",84115,75
 LD1975,Lonna,Diestel,Army ,Electricial ,1975,1990,1,65,"Dog, Travel, Drink",28301,30
@@ -456,16 +456,16 @@ KG1943,Kenneth,Grenet,Space Force,Field ,1943,1949,1,97,"Write, Sports",48823,10
 EM1983,Elli,Mclaird,Navy ,Construction Mechanic ,1983,1990,0,57,"Drink, Coffee, Travel",13501,15
 AJ1944,Alline,Jeanty,Air Force,Design ,1944,1969,1,96,"Music, Adventure, Travel, Movies, Food",46601,90
 SE1967,Sharika,Eanes,Marines,Construction Mechanic ,1967,1990,1,73,"Adventure, Sports",32806,45
-NM1941,Nu,Mcnease,Army ,Electricial ,1941,1942,0,99,"Drink, Work",7029,60
-DC1983,Daniela,Comnick,Coast Guard,Field ,1983,1999,1,57,"Movies, Family, Coffee, Music, Write",8611,30
+NM1941,Nu,Mcnease,Army ,Electricial ,1941,1942,0,99,"Drink, Work",07029,60
+DC1983,Daniela,Comnick,Coast Guard,Field ,1983,1999,1,57,"Movies, Family, Coffee, Music, Write",08611,30
 CC1935,Cecilia,Colaizzo,Space Force,Field ,1935,1956,0,105,"Sports, Family, Dog, Travel, Food, Write, Drink",53717,30
 LT1954,Leslie,Threets,Navy ,Construction Mechanic ,1954,1968,0,86,"Drink, Write, Coffee, Work",10536,15
 NK1997,Nan,Koppinger,Air Force,Design ,1997,2000,1,43,"Family, Food, Music, Drink, Dog",27401,15
 ID1956,Izetta,Dewar,Navy ,Construction Mechanic ,1956,1962,0,84,"Dog, Drink, Sports",21217,30
-TA1991,Tegan,Arceo,Air Force,Electricial ,1991,2012,1,49,"Write, Dog, Coffee, Family, Travel",8831,120
+TA1991,Tegan,Arceo,Air Force,Electricial ,1991,2012,1,49,"Write, Dog, Coffee, Family, Travel",08831,120
 RK1997,Ruthann,Keener,Marines,Field ,1997,2008,1,43,"Travel, Dog, Drink, Sports",78028,15
 JB1987,Joni,Breland,Army ,Field ,1987,2006,0,53,Write,60007,120
-VR1944,Vi,Rentfro,Coast Guard,Construction Mechanic ,1944,1953,1,96,"Work, Movies",7728,90
+VR1944,Vi,Rentfro,Coast Guard,Construction Mechanic ,1944,1953,1,96,"Work, Movies",07728,90
 CK1982,Colette,Kardas,Space Force,Design ,1982,1993,0,58,"Work, Coffee, Travel, Food, Drink",68124,60
 MT1936,Malcolm,Tromblay,Navy ,Construction Mechanic ,1936,1940,1,104,"Write, Travel, Dog, Food, Coffee, Music, Drink",22003,75
 RH1937,Ryan,Harnos,Air Force,Electricial ,1937,1957,1,103,"Work, Sports, Dog, Movies, Adventure, Family",75075,75
@@ -477,18 +477,18 @@ DD1932,Diane,Devreese,Navy ,Construction Mechanic ,1932,1937,1,108,"Travel, Musi
 RC1987,Roslyn,Chavous,Air Force,Electricial ,1987,2004,1,53,"Travel, Sports",39211,135
 GS1978,Glory,Schieler,Navy ,Field ,1978,1982,1,62,"Travel, Dog, Music, Food, Sports",79602,105
 RS1942,Rasheeda,Sayaphon,Air Force,Field ,1942,1958,1,98,"Food, Drink, Travel",95070,105
-AP1934,Alpha,Palaia,Marines,Construction Mechanic ,1934,1952,1,106,"Sports, Coffee",8003,120
+AP1934,Alpha,Palaia,Marines,Construction Mechanic ,1934,1952,1,106,"Sports, Coffee",08003,120
 RJ1978,Refugia,Jacobos,Army ,Design ,1978,2000,1,62,"Write, Drink",94545,0
 SY1931,Shawnda,Yori,Coast Guard,Construction Mechanic ,1931,1951,1,109,"Food, Travel, Drink, Movies, Dog, Family, Adventure",32750,45
 MD1973,Mona,Delasancha,Space Force,Electricial ,1973,1990,1,67,"Food, Work, Write, Music, Movies, Coffee, Dog",82001,60
 GL1948,Gilma,Liukko,Navy ,Field ,1948,1966,1,92,"Travel, Family, Adventure, Drink, Work",11530,90
 JG1949,Janey,Gabisi,Air Force,Field ,1949,1970,0,91,"Family, Adventure, Sports, Travel, Dog, Movies",53715,30
-LP1965,Lili,Paskin,Marines,Construction Mechanic ,1965,1968,0,75,"Movies, Work, Adventure, Dog, Drink",7032,90
+LP1965,Lili,Paskin,Marines,Construction Mechanic ,1965,1968,0,75,"Movies, Work, Adventure, Dog, Drink",07032,90
 LA1975,Loren,Asar,Army ,Design ,1975,1992,0,65,"Sports, Music, Write, Family",18518,105
 DC1952,Dorothy,Chesterfield,Coast Guard,Construction Mechanic ,1952,1956,0,88,"Dog, Coffee, Food, Travel, Music",92126,45
 GS1940,Gail,Similton,Space Force,Electricial ,1940,1954,1,100,"Adventure, Family, Sports, Music",92276,120
-CT1969,Catalina,Tillotson,Navy ,Field ,1969,1995,1,71,"Food, Travel, Write, Dog, Movies",8402,135
-LL1938,Lawrence,Lorens,Air Force,Field ,1938,1957,1,102,"Family, Drink, Coffee, Adventure, Food, Travel",2906,120
+CT1969,Catalina,Tillotson,Navy ,Field ,1969,1995,1,71,"Food, Travel, Write, Dog, Movies",08402,135
+LL1938,Lawrence,Lorens,Air Force,Field ,1938,1957,1,102,"Family, Drink, Coffee, Adventure, Food, Travel",02906,120
 CB1960,Carlee,Boulter,Navy ,Construction Mechanic ,1960,1977,0,80,"Family, Coffee",67410,135
 TA1949,Thaddeus,Ankeny,Air Force,Design ,1949,1974,0,91,"Dog, Family, Travel, Coffee, Work, Drink",95678,0
 JO1980,Jovita,Oles,Marines,Construction Mechanic ,1980,1999,1,60,"Travel, Movies, Drink",32114,45
