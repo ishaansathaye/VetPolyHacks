@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+{% block title %} 
+Register Page
+{% endblock %}
+
+{% block content %} 
+<body class="text-center">
+<div class='container'>
+    <form method="POST" class="form-register" style="color: red !important;">
+        {{ form.hidden_tag() }}
+        <br>  
+        <br>
+        <h1 class="h3 mb-3 font-weight-normal">
+                Please Create Your Account
+            </h1>
+           <!-- <br> -->
+        {{ form.username.label() }}
+        {{ form.username(class="form-control",placeholder="Enter Username") }}
+
+        <!-- {{ form.zipcode.label() }}
+        {{ form.zipcode(class="form-control",placeholder="Enter Zip Code") }} -->
+
+        {{ form.pwd1.label() }}
+        {{ form.pwd1(class="form-control",placeholder="Enter Password (must be > 6 characters)") }}
+
+        {{ form.pwd2.label() }}
+        {{ form.pwd2(class="form-control",placeholder="Confirm Password (must be > 6 characters)") }}
+        <br>
+        {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
+        <br>
+        <p>Already Have An Account? <a href="{{ url_for('loginPage') }}">Log In!</a></p>
+        </form>
+</div>
+</body>
+
+{% endblock %}
+
+{% block style %}
+{{ super() }}
+.form-register
+{
+}
+input[type="text"], textarea {
+    background-color:#034295 !important;
+    font-weight:bold;
+    color: white !important;
+  }
+
+  input[type="password"], textarea {
+    background-color:#034295 !important;
+    font-weight:bold;
+    color: white !important;
+  }
+
+  ::placeholder
+  {
+      color: white !important;
+      font-weight:bold;
+  }
+
+  .btn-primary
+  {
+      background-color:#034295 !important;
+      color: white !important;
+      border: #034295 !important;
+      border-radius: 12px;
+      font-weight:bold;
+  }
+
+
+
+
+{% endblock %}
+

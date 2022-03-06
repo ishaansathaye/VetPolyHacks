@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% block title %}
+    Veteran App
+{% endblock %}
+{% block content %}
+    <div>
+        <div class="groupQs">
+         <h1>Here are some upcoming events near you</h1>
+         <br>  
+        </div>
+    </div>
+
+
+  <table class="table" style="position: absolute;margin-bottom:0px;">
+    <thead>
+      <tr>
+        {% for title in titles%}
+        <!-- Your Columns HERE -->
+        <th class="heading" scope="col">{{ title }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Your rows inside the table HERE: -->
+
+      {% for inf in info %}
+      <tr>
+        <td>{{inf[0]}}</td>
+        <td>{{inf[1]}}</td>
+        <td>{{inf[2]}}</td>
+        <td>{{inf[3]}}</td>
+        <td>
+          <button class="btn btn-outline btn-info" href="{{ url_for('signedUp') }}">Sign Up!</button>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table> 
+{% endblock %}
+
+{% block style %} 
+{{ super() }} 
+h1
+    {
+        color: #034295;
+        text-align: center;
+    }
+
+.groupQs
+{
+    margin-top:30px;
+}
+
+
+{% endblock %}

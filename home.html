@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block title %}
+    Veteran App
+{% endblock %}
+{% block content %}
+    <div>
+        <div class="homePage">
+            <h1 class="title" >Welcome to Veteran App</h1>
+            <br>
+            <p class="subtitle">Communities for our veterans</p>
+            <br>
+            <div class="start">
+            <a class="btn btn-primary" href="{{ url_for('preferencePage') }}" id="start">Get Started</a>
+            </div>
+            <img src="Flag.png" alt="American Flag" width="500" height="600">
+        </div>
+    </div>
+{% endblock %}
+
+{% block style %} 
+{{ super() }} 
+.homePage 
+{
+    text-align:center;
+    margin-top:300px;
+    font-weight: bold !important;
+    color: #034295;
+}
+
+.title
+{
+    font-size:80px;
+    font-weight: bolder;
+}
+.subtitle 
+{
+    color: red !important;
+    font-size:40px;
+}
+
+.btn
+{
+    font-weight: bold;
+    background-color: #034295
+}
+
+
+
+{% endblock %}

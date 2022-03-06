@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preferences</title>
+</head>
+<body>
+    {% block content %}
+    <div class="prefs">
+        <h1 class="header">Choose your meeting preference </h1>
+        <a class="btn btn-primary"  id="start" href="{{ url_for('groupPage') }}">Group Setting</a>
+
+        <a class="btn btn-primary"  id="start" href="{{ url_for('soloPage') }}">1 on 1 Meeting</a>
+    </div>
+{% endblock %}
+</body>
+</html>
+
+{% block style %} 
+{{ super() }} 
+
+
+.prefs
+{
+    text-align:center;
+    margin-top:300px;
+    font-weight: bold !important;
+    color: #034295;
+}
+
+.title
+{
+    font-size:40px;
+    font-weight: bolder;
+    color: #034295;
+}
+
+
+.btn
+{
+    font-weight: bold;
+    background-color: #034295;
+    margin:10px;
+
+}
+
+.choose
+{
+    align-items: center;
+}
+
+.header
+{
+    color: #034295;
+    text-align:center;
+}
+
+{% endblock %}
+

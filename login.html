@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% block title %} 
+Login Page
+{% endblock %}
+
+{% block content %} 
+<body class="text-center">
+<div class='container'>
+    <form method="POST" class="form-login" style="color: red !important;">
+        {{ form.hidden_tag() }}
+        <br>  
+        <br>
+        <h1 class="h3 mb-3 font-weight-normal">
+                Please Log Into Your Account
+            </h1>
+           <!-- <br> -->
+        {{ form.usernameOrEmail.label() }}
+        {{ form.usernameOrEmail(class="form-control",placeholder="Enter Username") }}
+
+
+        {{ form.pwd.label() }}
+        {{ form.pwd(class="form-control",placeholder="Enter Password (must be > 6 characters)") }}
+        <br>
+        {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
+        <br>
+        <p>Don't Have An Account? <a href="{{ url_for('registerPage') }}">Sign Up!</a></p>
+        
+        </form>
+</div>
+</body>
+
+{% endblock %}
+
+{% block style %}
+{{ super() }}
+input[type="text"], textarea {
+
+    background-color: #034295 !important; 
+    color: white !important;
+    font-weight:bold;
+  
+  }
+
+  input[type="password"], textarea {
+    background-color: #034295 !important;
+    color: white !important;
+    font-weight:bold;
+  }
+
+  ::placeholder
+  {
+      color: white !important;
+  }
+
+  .btn-primary
+  {
+      background-color:#034295 !important;
+      color: white !important;
+      border: #034295 !important;
+      border-radius: 12px;
+      font-weight:bold;
+  }
+{% endblock %}
+
