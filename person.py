@@ -4,7 +4,8 @@ csv_reader = csv.reader(file)
 header = next(csv_reader)
 
 class Person():
-    def __init__(self, first, last, branch, role, f_year, l_year, meet, age, interests, zip, max_radius):
+    def __init__(self, id, first, last, branch, role, f_year, l_year, meet, age, interests, zip, max_radius):
+        self.id = id
         self.first = first
         self.last = last
         self.branch = branch
