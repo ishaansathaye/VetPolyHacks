@@ -8,6 +8,31 @@
 </head>
 <body>
     <h1>Great! We'll need some more information.</h1>  
+    <br>
+    <h1>Please select interests below (choose as many as you like).</h1>
+    <br>
+    <br>
+    <div class="boxes2">
+        <div class="music">
+            Music <input type="checkbox" class="box"> 
+            Hunting <input type="checkbox" class="box">
+            Travel <input type="checkbox" class="box"> 
+        </div>
+        <br>
+        <div class="bike">
+            Biking <input type="checkbox" class="box"> 
+            Dogs <input type="checkbox" class="box"> 
+            Movies <input type="checkbox" class="box"> 
+        </div>
+        <br>
+        <div class="fish">
+             Fishing<input type="checkbox" class="box"> 
+             Beach<input type="checkbox" class="box"> 
+             Reading<input type="checkbox" class="box"> 
+        </div>
+        <br>
+        <button href="{{url_for('submitInterests')}}">Submit</button>
+    </div>  
 </body>
 </html>
 
@@ -17,4 +42,23 @@
         color: #034295;
         text-align: center;
     }
+
+    .boxes1
+    {
+       margin-left:500px;
+    }
+
+    .boxes2
+    {
+       margin-left:600px;
+    }
+
+
+    .music, .bike,.fish,.hike,.cook,.foot
+    {
+        margin: 10px;
+        color:#034295;
+        font-size: 30px;
+    }
+
 </style>
