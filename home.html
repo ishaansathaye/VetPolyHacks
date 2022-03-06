@@ -1,18 +1,19 @@
 {% extends 'base.html' %}
 {% block title %}
-    Veteran App
+    NotAlone
 {% endblock %}
 {% block content %}
     <div>
         <div class="homePage">
-            <h1 class="title" >Welcome to Veteran App</h1>
-            <br>
-            <p class="subtitle">Communities for our veterans</p>
-            <br>
-            <div class="start">
-            <a class="btn btn-primary" href="{{ url_for('preferencePage') }}" id="start">Get Started</a>
+            <div class="content">
+                <h1 class="title">NotAlone</h1>
+                <p class="subtitle">Communities for our former members in service</p>
+                <br>
+                <br>
+                <div class="start">
+                <a class="btn btn-primary w-25 h-25 p-3" href="{{ url_for('preferencePage') }}" id="start" style="font-size: 30px">Get Started</a>
+                </div>
             </div>
-            <img src="Flag.png" alt="American Flag" width="500" height="600">
         </div>
     </div>
 {% endblock %}
@@ -21,29 +22,67 @@
 {{ super() }} 
 .homePage 
 {
+    padding-top: 300px;
+    padding-bottom: 300px;
     text-align:center;
-    margin-top:300px;
     font-weight: bold !important;
     color: #034295;
+    background-image: url("static/salute.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+},
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.content {
+    text-align: center;
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
 }
 
 .title
 {
-    font-size:80px;
+    font-size: 100px;
     font-weight: bolder;
+    text-shadow: 1px 1px 10px #999999;
 }
 .subtitle 
 {
     color: red !important;
-    font-size:40px;
+    font-size:20px;
+    text-shadow: 1px 1px 10px #999999;
 }
 
 .btn
 {
     font-weight: bold;
-    background-color: #034295
+    background-color: #034295;
+    border-radius: 20px;
 }
 
 
 
-{% endblock %}
